@@ -1,0 +1,2668 @@
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+401722513,6.2L V8 Supercharger 8-speed Automatic,"$83,295",SRT Demon,srt-demon
+200741087,1.5L 3-cyl. Turbo 6-speed Manual,"$24,100",Base,hatchback
+401613297,2.0L 4-cyl. Turbo 6-speed Manual,"$27,650",S,hatchback
+200705425,0.9L 3-cyl. Turbo 5-speed Manual,"$14,650",pure,hatchback
+401581301,0.9L 3-cyl. Turbo 5-speed Manual,"$16,140",passion,hatchback
+401581302,0.9L 3-cyl. Turbo 5-speed Manual,"$17,490",prime,hatchback
+401581303,0.9L 3-cyl. Turbo 5-speed Manual,"$18,480",proxy,hatchback
+401612066,0-cyl. Electric 1-speed Direct Drive,"$25,000",electric drive coupe,hatchback
+401700928,0.9L 3-cyl. Turbo 5-speed Manual,"$14,650",pure,hatchback
+401700925,0.9L 3-cyl. Turbo 5-speed Manual,"$16,140",passion,hatchback
+401700927,0.9L 3-cyl. Turbo 5-speed Manual,"$17,490",prime,hatchback
+401700926,0.9L 3-cyl. Turbo 5-speed Manual,"$18,480",proxy,hatchback
+401700929,0.9L 3-cyl. Turbo 5-speed Manual,"$18,900",passion,convertible
+401700931,0.9L 3-cyl. Turbo 5-speed Manual,"$19,900",prime,convertible
+401700930,0.9L 3-cyl. Turbo 5-speed Manual,"$20,900",proxy,convertible
+401612066,0-cyl. Electric 1-speed Direct Drive,"$25,000",electric drive coupe,electric
+401626238,4.8L V8 FFV 6-speed Automatic,"$30,595",2500,van
+401626241,4.8L V8 FFV 6-speed Automatic,"$32,455",2500,van
+401626239,4.8L V8 FFV 6-speed Automatic,"$33,915",3500,van
+401626240,4.8L V8 FFV 6-speed Automatic,"$34,800",3500,van
+401626242,6.6L V8 Turbo Diesel 6-speed Automatic,"$42,540",2500,van
+401626243,6.6L V8 Turbo Diesel 6-speed Automatic,"$44,400",2500,van
+401626236,6.6L V8 Turbo Diesel 6-speed Automatic,"$45,860",3500,van
+401626237,6.6L V8 Turbo Diesel 6-speed Automatic,"$46,745",3500,van
+200738445,2.0L 4-cyl. 6-speed Manual,"$16,995",SE,sedan
+401646802,2.0L 4-cyl. 6-speed Manual,"$17,995",SXT Sport,sedan
+401646803,2.0L 4-cyl. 6-speed Manual,"$18,995",SXT Sport Rallye,sedan
+200738448,2.4L 4-cyl. 6-speed Manual,"$19,395",SXT,sedan
+401646805,1.4L 4-cyl. Turbo 6-speed Manual,"$19,495",Turbo,sedan
+401646804,2.0L 4-cyl. 6-speed Manual,"$19,595",SXT Sport Blacktop,sedan
+401646806,2.4L 4-cyl. 6-speed Manual,"$20,995",GT Sport,sedan
+200738446,1.4L 4-cyl. Turbo 6-speed Manual,"$21,095",Aero,sedan
+401646807,2.4L 4-cyl. 6-speed Manual,"$21,595",GT Sport Blacktop,sedan
+200738449,2.4L 4-cyl. 6-speed Manual,"$22,095",GT,sedan
+200738447,2.4L 4-cyl. 6-speed Automatic,"$24,395",Limited,sedan
+200741344,2.4L 4-cyl. 4-speed Automatic,"$20,995",SE,suv
+200741373,2.4L 4-cyl. 4-speed Automatic,"$24,895",SXT,suv
+200741352,2.4L 4-cyl. 4-speed Automatic,"$26,295",Crossroad,suv
+200741348,3.6L V6 AWD 6-speed Automatic,"$26,595",SE,suv
+200741353,2.4L 4-cyl. 4-speed Automatic,"$27,395",Crossroad Plus,suv
+200741374,3.6L V6 AWD 6-speed Automatic,"$28,395",SXT,suv
+200741354,3.6L V6 AWD 6-speed Automatic,"$29,795",Crossroad,suv
+200743585,3.6L V6 AWD 6-speed Automatic,"$30,895",Crossroad Plus,suv
+200741375,3.6L V6 FFV 6-speed Automatic,"$31,795",R/T,suv
+200741376,3.6L V6 AWD 6-speed Automatic,"$33,695",R/T,suv
+401705250,4.8L V8 FFV 6-speed Automatic,"$30,745",2500,van
+401705251,4.8L V8 FFV 6-speed Automatic,"$32,605",2500,van
+401705252,4.8L V8 FFV 6-speed Automatic,"$34,065",3500,van
+401705253,4.8L V8 FFV 6-speed Automatic,"$34,950",3500,van
+401654883,2.4L 4-cyl. 4-speed Automatic,"$21,195",SE,suv
+401654890,2.4L 4-cyl. 4-speed Automatic,"$25,495",SXT,suv
+401654885,3.6L V6 AWD 6-speed Automatic,"$26,795",SE,suv
+401654886,2.4L 4-cyl. 4-speed Automatic,"$26,995",Crossroad,suv
+401654888,2.4L 4-cyl. 4-speed Automatic,"$27,745",Crossroad Plus,suv
+401654892,3.6L V6 AWD 6-speed Automatic,"$28,995",SXT,suv
+401654889,3.6L V6 AWD 6-speed Automatic,"$30,495",Crossroad,suv
+401654884,3.6L V6 AWD 6-speed Automatic,"$31,245",Crossroad Plus,suv
+401654891,3.6L V6 FFV 6-speed Automatic,"$31,995",GT,suv
+401654887,3.6L V6 AWD 6-speed Automatic,"$33,895",GT,suv
+200782176,3.6L V6 8-speed Automatic,"$26,995",SXT,coupe
+200782179,3.6L V6 8-speed Automatic,"$29,995",SXT Plus,coupe
+200782180,5.7L V8 6-speed Manual,"$31,995",R/T,coupe
+200782184,5.7L V8 6-speed Manual,"$34,995",R/T Plus,coupe
+200782183,5.7L V8 6-speed Manual,"$35,995",R/T Shaker,coupe
+200782265,6.4L V8 6-speed Manual,"$37,995",R/T Scat Pack,coupe
+200782262,5.7L V8 6-speed Manual,"$38,995",R/T Plus Shaker,coupe
+200782269,6.4L V8 6-speed Manual,"$42,795",392 Hemi Scat Pack Shaker,coupe
+200782270,6.4L V8 6-speed Manual,"$49,195",SRT 392,coupe
+200782569,6.2L V8 Supercharger 8-speed Automatic,"$65,945",SRT Hellcat,coupe
+401626242,6.6L V8 Turbo Diesel 6-speed Automatic,"$42,540",2500,diesel
+401626243,6.6L V8 Turbo Diesel 6-speed Automatic,"$44,400",2500,diesel
+401626236,6.6L V8 Turbo Diesel 6-speed Automatic,"$45,860",3500,diesel
+401626237,6.6L V8 Turbo Diesel 6-speed Automatic,"$46,745",3500,diesel
+401589686,4.3L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$31,390",Base,double-cab
+401589692,4.3L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$35,370",Base,double-cab
+401589689,4.3L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$37,070",SLE,double-cab
+401589691,4.3L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$40,915",SLE,double-cab
+401589685,5.3L V8 6-speed Automatic 6.6 ft. Bed,"$41,660",SLT,double-cab
+401589688,5.3L V8 4x4 6-speed Automatic 6.6 ft. Bed,"$44,910",SLT,double-cab
+401676398,4.3L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$32,230",Base,double-cab
+401676404,4.3L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$36,210",Base,double-cab
+401676405,4.3L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$37,560",SLE,double-cab
+401676407,4.3L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$41,405",SLE,double-cab
+401676395,5.3L V8 6-speed Automatic 6.6 ft. Bed,"$42,080",SLT,double-cab
+401676406,5.3L V8 4x4 6-speed Automatic 6.6 ft. Bed,"$45,330",SLT,double-cab
+401678574,2.0L 4-cyl. 6-speed Manual,"$31,555",Club,convertible
+401678575,2.0L 4-cyl. 6-speed Automatic,"$32,285",Club,convertible
+401678576,2.0L 4-cyl. 6-speed Manual,"$32,620",Grand Touring,convertible
+401678578,2.0L 4-cyl. 6-speed Manual,"$33,720",Launch Edition,convertible
+401678577,2.0L 4-cyl. 6-speed Automatic,"$33,825",Grand Touring,convertible
+401678579,2.0L 4-cyl. 6-speed Automatic,"$34,925",Launch Edition,convertible
+401716501,1.6L 4-cyl. Turbo Diesel 6-speed Automatic,"$31,590",SLE,diesel
+401716495,1.6L 4-cyl. Turbo Diesel AWD 6-speed Automatic,"$33,340",SLE,diesel
+401716499,1.6L 4-cyl. Turbo Diesel 6-speed Automatic,"$34,165",SLT,diesel
+401716498,1.6L 4-cyl. Turbo Diesel AWD 6-speed Automatic,"$35,915",SLT,diesel
+200724973,2.5L 4-cyl. 6-speed Manual,"$21,495",i Sport,sedan
+200724976,2.5L 4-cyl. 6-speed Automatic,"$22,995",i Sport,sedan
+200724974,2.5L 4-cyl. 6-speed Manual,"$23,945",i Touring,sedan
+200724975,2.5L 4-cyl. 6-speed Automatic,"$24,995",i Touring,sedan
+200724977,2.5L 4-cyl. 6-speed Automatic,"$30,195",i Grand Touring,sedan
+401625994,4.8L V8 FFV 6-speed Automatic,"$32,990",LS 2500,van
+401625998,4.8L V8 FFV 6-speed Automatic,"$34,815",LT 2500,van
+401626001,4.8L V8 FFV 6-speed Automatic,"$35,285",LS 3500,van
+401625996,4.8L V8 FFV 6-speed Automatic,"$36,715",LT 3500,van
+401626003,4.8L V8 FFV 6-speed Automatic,"$37,155",LS 3500,van
+401626002,4.8L V8 FFV 6-speed Automatic,"$37,500",LT 3500,van
+401626000,6.6L V8 Turbo Diesel 6-speed Automatic,"$48,225",LS 3500,van
+401625995,6.6L V8 Turbo Diesel 6-speed Automatic,"$49,655",LT 3500,van
+401625997,6.6L V8 Turbo Diesel 6-speed Automatic,"$50,095",LS 3500,van
+401625999,6.6L V8 Turbo Diesel 6-speed Automatic,"$50,440",LT 3500,van
+401705802,4.8L V8 FFV 6-speed Automatic,"$33,140",LS 2500,van
+401705800,4.8L V8 FFV 6-speed Automatic,"$34,965",LT 2500,van
+401705805,4.8L V8 FFV 6-speed Automatic,"$35,435",LS 3500,van
+401705801,4.8L V8 FFV 6-speed Automatic,"$36,865",LT 3500,van
+401705803,4.8L V8 FFV 6-speed Automatic,"$37,305",LS 3500,van
+401705804,4.8L V8 FFV 6-speed Automatic,"$37,650",LT 3500,van
+200779876,5.3L V8 FFV 6-speed Automatic,"$51,015",SLE,suv
+200779872,5.3L V8 FFV 4x4 6-speed Automatic,"$54,015",SLE,suv
+200779873,5.3L V8 FFV 6-speed Automatic,"$59,700",SLT,suv
+200779874,5.3L V8 FFV 4x4 6-speed Automatic,"$62,700",SLT,suv
+200779875,6.2L V8 8-speed Automatic,"$68,025",Denali,suv
+200779871,6.2L V8 4x4 8-speed Automatic,"$71,025",Denali,suv
+401678847,2.0L 4-cyl. Turbo 7-speed Automatic,"$33,950",2.0t,sedan
+401678856,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$35,950",2.0t,sedan
+401678851,2.0L 4-cyl. Turbo 7-speed Automatic,"$38,400",2.0t Premium,sedan
+401703021,3.0L V6 Twin-turbo 7-speed Automatic,"$38,700",3.0t Signature Edition,sedan
+401678845,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$40,400",2.0t Premium,sedan
+401678853,3.0L V6 Twin-turbo 7-speed Automatic,"$40,650",3.0t Premium,sedan
+401703020,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$40,700",3.0t Signature Edition,sedan
+401678858,2.0L 4-cyl. Turbo 7-speed Automatic,"$42,300",2.0t Sport,sedan
+401678855,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$42,650",3.0t Premium,sedan
+401678857,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$44,300",2.0t Sport,sedan
+401678852,3.0L V6 Twin-turbo 7-speed Automatic,"$44,650",Sport,sedan
+401678854,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$46,650",Sport,sedan
+401678846,3.5L V6 Hybrid 7-speed Automatic,"$47,800",Hybrid Premium,sedan
+401678850,3.0L V6 Twin-turbo 7-speed Automatic,"$48,700",Red Sport 400,sedan
+401678848,3.5L V6 Hybrid AWD 7-speed Automatic,"$49,800",Hybrid Premium,sedan
+401678849,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$50,700",Red Sport 400,sedan
+401630507,3.5L V6 CVT Automatic,"$42,600",Base,suv
+401630506,3.5L V6 AWD CVT Automatic,"$44,400",Base,suv
+401630504,2.5L 4-cyl. Supercharger Hybrid CVT Automatic,"$52,050",Hybrid,suv
+401630505,2.5L 4-cyl. Supercharger Hybrid AWD CVT Automatic,"$53,450",Hybrid,suv
+401640703,3.0L V6 Twin-turbo 7-speed Automatic,"$47,950",Red Sport 400,red-sport-400
+401640702,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$49,950",Red Sport 400,red-sport-400
+401690295,3.5L V6 CVT Automatic,"$43,100",Base,suv
+401690294,3.5L V6 AWD CVT Automatic,"$44,900",Base,suv
+401699035,2.5L 4-cyl. Supercharger Hybrid CVT Automatic,"$52,100",Hybrid,suv
+401699036,2.5L 4-cyl. Supercharger Hybrid AWD CVT Automatic,"$53,500",Hybrid,suv
+401613046,3.7L V6 7-speed Automatic,"$49,850",Base,sedan
+401613047,3.7L V6 7-speed Automatic,"$51,350",L,sedan
+401613044,3.7L V6 AWD 7-speed Automatic,"$52,000",Base,sedan
+401613048,3.7L V6 AWD 7-speed Automatic,"$53,500",L,sedan
+401613050,3.5L V6 Hybrid 7-speed Automatic,"$55,900",Hybrid,sedan
+401613045,5.6L V8 7-speed Automatic,"$62,850",Base,sedan
+401613042,5.6L V8 7-speed Automatic,"$64,550",L,sedan
+401613049,5.6L V8 AWD 7-speed Automatic,"$65,350",Base,sedan
+401613043,5.6L V8 AWD 7-speed Automatic,"$67,050",L,sedan
+401695712,3.7L V6 7-speed Automatic,"$50,100",Base,sedan
+401695713,3.7L V6 7-speed Automatic,"$51,600",L,sedan
+401695710,3.7L V6 AWD 7-speed Automatic,"$52,250",Base,sedan
+401695705,3.7L V6 AWD 7-speed Automatic,"$53,750",L,sedan
+401695707,3.5L V6 Hybrid 7-speed Automatic,"$56,200",Hybrid,sedan
+401695711,5.6L V8 7-speed Automatic,"$63,150",Base,sedan
+401695708,5.6L V8 7-speed Automatic,"$64,850",L,sedan
+401695706,5.6L V8 AWD 7-speed Automatic,"$65,700",Base,sedan
+401695709,5.6L V8 AWD 7-speed Automatic,"$67,400",L,sedan
+401613050,3.5L V6 Hybrid 7-speed Automatic,"$55,900",Hybrid,hybrid
+401695707,3.5L V6 Hybrid 7-speed Automatic,"$56,200",Hybrid,hybrid
+401630287,2.0L 4-cyl. Turbo 7-speed Automatic,"$33,950",2.0t,sedan
+401632426,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$35,950",2.0t,sedan
+401632499,2.0L 4-cyl. Turbo 7-speed Automatic,"$37,650",2.0t Premium,sedan
+401632500,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$39,650",2.0t Premium,sedan
+401645863,3.0L V6 Twin-turbo 7-speed Automatic,"$39,900",3.0t Premium,sedan
+401645861,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$41,900",3.0t Premium,sedan
+401645862,3.0L V6 Twin-turbo 7-speed Automatic,"$43,900",Sport,sedan
+401645860,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$45,900",Sport,sedan
+401632501,3.5L V6 Hybrid 7-speed Automatic,"$47,050",Hybrid Premium,sedan
+401640703,3.0L V6 Twin-turbo 7-speed Automatic,"$47,950",Red Sport 400,sedan
+401632502,3.5L V6 Hybrid AWD 7-speed Automatic,"$49,050",Hybrid Premium,sedan
+401640702,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$49,950",Red Sport 400,sedan
+401582464,3.5L V6 FFV 6-speed Automatic 5.6 ft. Bed,"$33,055",XL,supercrew
+401582465,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$34,165",XL,supercrew
+401582466,3.5L V6 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$36,565",XL,supercrew
+401582470,3.5L V6 FFV 6-speed Automatic 5.6 ft. Bed,"$37,140",XLT,supercrew
+401582471,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$38,250",XLT,supercrew
+401582467,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$38,325",XL,supercrew
+401582472,3.5L V6 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$40,635",XLT,supercrew
+401582474,2.7L V6 Twin-turbo 6-speed Automatic 5.6 ft. Bed,"$42,425",Lariat,supercrew
+401582473,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$42,425",XLT,supercrew
+401582475,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$42,725",Lariat,supercrew
+401582476,2.7L V6 Twin-turbo 4x4 6-speed Automatic 5.6 ft. Bed,"$45,845",Lariat,supercrew
+401582479,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$46,895",Lariat,supercrew
+401582480,5.0L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$50,050",King Ranch,supercrew
+401582482,5.0L V8 FFV 6-speed Automatic 6.6 ft. Bed,"$50,350",King Ranch,supercrew
+401582486,5.0L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$52,515",Platinum,supercrew
+401582487,5.0L V8 FFV 6-speed Automatic 6.6 ft. Bed,"$52,815",Platinum,supercrew
+401582484,5.0L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$53,475",King Ranch,supercrew
+401582485,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$53,775",King Ranch,supercrew
+401582488,5.0L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$55,940",Platinum,supercrew
+401582489,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$56,235",Platinum,supercrew
+401582490,3.5L V6 Twin-turbo 6-speed Automatic 5.6 ft. Bed,"$58,885",Limited,supercrew
+401582491,3.5L V6 Twin-turbo 4x4 6-speed Automatic 5.6 ft. Bed,"$62,310",Limited,supercrew
+200740248,2.0L 4-cyl. FFV 5-speed Manual,"$19,015",SE,hatchback
+200740246,2.0L 4-cyl. FFV 6-speed Automated Manual,"$23,725",Titanium,hatchback
+200740249,0-cyl. Electric 1-speed Direct Drive,"$29,170",Electric,hatchback
+401670493,2.0L 4-cyl. FFV 6-speed Automated Manual,"$19,765",SE,hatchback
+401670499,2.0L 4-cyl. FFV 6-speed Automated Manual,"$21,675",SEL,hatchback
+401670495,2.0L 4-cyl. FFV 6-speed Automated Manual,"$24,075",Titanium,hatchback
+401670494,0-cyl. Electric 1-speed Direct Drive,"$29,120",Electric,hatchback
+401694336,5.6L V8 7-speed Automatic,"$63,850",Base,suv
+401694334,5.6L V8 4x4 7-speed Automatic,"$66,950",Base,suv
+401713745,5.6L V8 7-speed Automatic,"$67,335",Signature,suv
+401713744,5.6L V8 4x4 7-speed Automatic,"$70,435",Signature,suv
+401694335,5.6L V8 4x4 7-speed Automatic,"$89,450",Limited,suv
+401574228,3.7L V6 7-speed Automatic,"$34,450",Base,suv
+401574227,3.7L V6 AWD 7-speed Automatic,"$35,850",Base,suv
+401671431,3.7L V6 7-speed Automatic,"$34,650",Base,suv
+401671432,3.7L V6 AWD 7-speed Automatic,"$36,450",Base,suv
+401670575,2.0L 4-cyl. Turbo 7-speed Automatic,"$38,950",2.0t,coupe
+200724869,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$40,950",2.0t,coupe
+401670577,2.0L 4-cyl. Turbo 7-speed Automatic,"$41,300",2.0t Premium,coupe
+401670578,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$43,300",2.0t Premium,coupe
+401670576,3.0L V6 Twin-turbo 7-speed Automatic,"$44,300",3.0t Premium,coupe
+401670573,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$46,300",3.0t Premium,coupe
+401694983,3.0L V6 Twin-turbo 7-speed Automatic,"$48,300",3.0t Sport,coupe
+401694982,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$50,300",3.0t Sport,coupe
+401670574,3.0L V6 Twin-turbo 7-speed Automatic,"$51,300",Red Sport 400,coupe
+401670579,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$53,300",Red Sport 400,coupe
+200736132,5.2L V8 6-speed Manual,"$47,795",Base,coupe
+200737642,5.2L V8 6-speed Manual,"$61,295",R,coupe
+401640303,3.7L V6 6-speed Manual,"$25,185",V6,coupe
+401640305,2.3L 4-cyl. Turbo 6-speed Manual,"$26,195",EcoBoost,coupe
+401640306,2.3L 4-cyl. Turbo 6-speed Manual,"$30,195",EcoBoost Premium,coupe
+401640308,5.0L V8 6-speed Manual,"$33,195",GT,coupe
+401640309,5.0L V8 6-speed Manual,"$37,195",GT Premium,coupe
+401610861,5.6L V8 7-speed Automatic,"$63,250",Base,suv
+401610863,5.6L V8 4x4 7-speed Automatic,"$66,350",Base,suv
+401610862,5.6L V8 4x4 7-speed Automatic,"$88,850",Limited,suv
+200734931,3.5L V6 Twin-turbo 6-speed Automatic,"$45,435",XLT,suv
+200734925,3.5L V6 Twin-turbo 6-speed Automatic,"$48,145",EL XLT,suv
+200734916,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$48,360",XLT,suv
+200734926,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$51,070",EL XLT,suv
+200734918,3.5L V6 Twin-turbo 6-speed Automatic,"$55,145",Limited,suv
+200734914,3.5L V6 Twin-turbo 6-speed Automatic,"$57,795",EL Limited,suv
+200734932,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$58,185",Limited,suv
+200734917,3.5L V6 Twin-turbo 6-speed Automatic,"$59,375",King Ranch,suv
+200734915,3.5L V6 Twin-turbo 6-speed Automatic,"$60,335",Platinum,suv
+200734923,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$60,835",EL Limited,suv
+200734929,3.5L V6 Twin-turbo 6-speed Automatic,"$62,025",EL King Ranch,suv
+200734927,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$62,295",King Ranch,suv
+200734920,3.5L V6 Twin-turbo 6-speed Automatic,"$62,985",EL Platinum,suv
+200734930,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$63,375",Platinum,suv
+200734933,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$64,945",EL King Ranch,suv
+200734921,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$66,025",EL Platinum,suv
+401639356,3.5L V6 Twin-turbo 6-speed Automatic,"$47,125",XLT,suv
+401639341,3.5L V6 Twin-turbo 6-speed Automatic,"$49,835",EL XLT,suv
+401639350,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$50,050",XLT,suv
+401639340,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$52,760",EL XLT,suv
+401639348,3.5L V6 Twin-turbo 6-speed Automatic,"$56,045",Limited,suv
+401639352,3.5L V6 Twin-turbo 6-speed Automatic,"$58,695",EL Limited,suv
+401639353,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$59,085",Limited,suv
+401639349,3.5L V6 Twin-turbo 6-speed Automatic,"$60,615",King Ranch,suv
+401639343,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$61,735",EL Limited,suv
+401639358,3.5L V6 Twin-turbo 6-speed Automatic,"$63,265",EL King Ranch,suv
+401639339,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$63,535",King Ranch,suv
+401639351,3.5L V6 Twin-turbo 6-speed Automatic,"$64,205",Platinum,suv
+401639354,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$66,185",EL King Ranch,suv
+401639346,3.5L V6 Twin-turbo 6-speed Automatic,"$66,860",EL Platinum,suv
+401639355,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$67,250",Platinum,suv
+401639345,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$69,895",EL Platinum,suv
+200733231,1.6L 4-cyl. 5-speed Manual,"$14,580",S,sedan
+200733234,1.6L 4-cyl. 5-speed Manual,"$15,810",SE,sedan
+200733232,1.6L 4-cyl. 5-speed Manual,"$18,530",Titanium,sedan
+401677710,1.6L 4-cyl. 5-speed Manual,"$13,660",S,sedan
+401677708,1.6L 4-cyl. 5-speed Manual,"$14,890",SE,sedan
+401677706,1.6L 4-cyl. 6-speed Automated Manual,"$18,650",Titanium,sedan
+200730152,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$32,385",XL,regular-cab
+200730154,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$35,180",XL,regular-cab
+200730144,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,375",XLT,regular-cab
+200730143,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,175",XLT,regular-cab
+200729836,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$32,535",XL,regular-cab
+401641304,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$35,330",XL,regular-cab
+401641310,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,740",XLT,regular-cab
+401641314,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,540",XLT,regular-cab
+200742270,2.0L 4-cyl. Hybrid CVT Automatic,"$24,170",SE,wagon
+200742271,2.0L 4-cyl. Hybrid CVT Automatic,"$27,170",SEL,wagon
+401719370,3.5L V6 Twin-turbo 10-speed Automatic,"$51,695",XLT,suv
+401719372,3.5L V6 Twin-turbo 10-speed Automatic,"$54,385",MAX XLT,suv
+401719371,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$54,705",XLT,suv
+401719373,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$57,390",MAX XLT,suv
+401719374,3.5L V6 Twin-turbo 10-speed Automatic,"$62,585",Limited,suv
+401719375,3.5L V6 Twin-turbo 10-speed Automatic,"$65,270",MAX Limited,suv
+401719381,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$65,705",Limited,suv
+401719376,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$68,400",MAX Limited,suv
+401719377,3.5L V6 Twin-turbo 10-speed Automatic,"$72,710",Platinum,suv
+401719379,3.5L V6 Twin-turbo 10-speed Automatic,"$75,400",MAX Platinum,suv
+401719378,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$75,855",Platinum,suv
+401719380,3.5L V6 Twin-turbo 4x4 10-speed Automatic,"$78,545",MAX Platinum,suv
+401641309,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$36,130",XL,crew-cab
+401641313,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,330",XL,crew-cab
+401641292,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$38,930",XL,crew-cab
+401641291,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,135",XL,crew-cab
+401641312,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$41,235",XLT,crew-cab
+401641299,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$41,430",XLT,crew-cab
+401641296,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$44,030",XLT,crew-cab
+401641295,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$44,230",XLT,crew-cab
+401641321,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$47,635",Lariat,crew-cab
+401641303,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$47,835",Lariat,crew-cab
+401641294,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$50,820",Lariat,crew-cab
+401641300,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,025",Lariat,crew-cab
+401641319,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$54,460",King Ranch,crew-cab
+401641298,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$54,660",King Ranch,crew-cab
+401641289,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$57,655",King Ranch,crew-cab
+401641293,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$57,855",King Ranch,crew-cab
+401641316,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$62,310",Platinum,crew-cab
+401641301,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$62,510",Platinum,crew-cab
+200730704,6.7L V8 Turbo Diesel 4x4 6-speed Automatic 8.2 ft. Bed,"$53,060",XL,crew-cab
+200730705,6.7L V8 Turbo Diesel 4x4 6-speed Automatic 8.2 ft. Bed,"$57,620",XLT,crew-cab
+200730706,6.7L V8 Turbo Diesel 4x4 6-speed Automatic 8.2 ft. Bed,"$64,660",Lariat,crew-cab
+200730707,6.7L V8 Turbo Diesel 4x4 6-speed Automatic 8.2 ft. Bed,"$70,395",King Ranch,crew-cab
+200730708,6.7L V8 Turbo Diesel 4x4 6-speed Automatic 8.2 ft. Bed,"$71,320",Platinum,crew-cab
+200740247,2.0L 4-cyl. FFV 5-speed Manual,"$17,225",S,sedan
+200740250,2.0L 4-cyl. FFV 5-speed Manual,"$18,515",SE,sedan
+200740245,2.0L 4-cyl. FFV 6-speed Automated Manual,"$23,225",Titanium,sedan
+401670496,2.0L 4-cyl. FFV 5-speed Manual,"$16,775",S,sedan
+401670492,1.0L 3-cyl. Turbo 6-speed Manual w/EcoBoost,"$18,175",SE,sedan
+401670498,2.0L 4-cyl. FFV 6-speed Automated Manual,"$21,175",SEL,sedan
+401670497,2.0L 4-cyl. FFV 6-speed Automated Manual,"$23,575",Titanium,sedan
+200733235,1.6L 4-cyl. 5-speed Manual,"$14,880",S,hatchback
+200733230,1.6L 4-cyl. 5-speed Manual,"$16,110",SE,hatchback
+200733233,1.6L 4-cyl. 5-speed Manual,"$18,830",Titanium,hatchback
+200733236,1.6L 4-cyl. Turbo 6-speed Manual,"$21,460",ST,hatchback
+401677707,1.6L 4-cyl. 5-speed Manual,"$13,960",S,hatchback
+401677709,1.6L 4-cyl. 5-speed Manual,"$15,190",SE,hatchback
+401677705,1.6L 4-cyl. 6-speed Automated Manual,"$18,950",Titanium,hatchback
+401677704,1.6L 4-cyl. Turbo 6-speed Manual,"$21,140",ST,hatchback
+200730145,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$35,980",XL,crew-cab
+200730142,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,180",XL,crew-cab
+200730166,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$38,780",XL,crew-cab
+200730165,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$38,985",XL,crew-cab
+200730146,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$40,780",XLT,crew-cab
+200730156,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$40,975",XLT,crew-cab
+200730162,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$43,575",XLT,crew-cab
+200730161,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$43,775",XLT,crew-cab
+200730135,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$47,195",Lariat,crew-cab
+200730155,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$47,395",Lariat,crew-cab
+200730160,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$50,380",Lariat,crew-cab
+200730159,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$50,585",Lariat,crew-cab
+200730136,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$52,930",King Ranch,crew-cab
+200730157,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$53,130",King Ranch,crew-cab
+200730168,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$56,125",King Ranch,crew-cab
+200730167,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$56,325",King Ranch,crew-cab
+200730141,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$57,040",Platinum,crew-cab
+200730158,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$57,240",Platinum,crew-cab
+401594088,3.5L V6 AWD 6-speed Automatic,"$42,610",Base,coupe
+401689908,3.5L V6 AWD 6-speed Automatic,"$42,770",Base,coupe
+401580678,4.6L V8 8-speed Automatic,"$72,520",Base,sedan
+401580677,4.6L V8 AWD 8-speed Automatic,"$75,465",Base,sedan
+401580680,4.6L V8 8-speed Automatic,"$78,820",L,sedan
+401580679,4.6L V8 AWD 8-speed Automatic,"$82,305",L,sedan
+401678994,4.6L V8 8-speed Automatic,"$72,520",Base,sedan
+401678996,4.6L V8 AWD 8-speed Automatic,"$75,465",Base,sedan
+401678993,4.6L V8 8-speed Automatic,"$78,820",L,sedan
+401678995,4.6L V8 AWD 8-speed Automatic,"$82,305",L,sedan
+401611456,2.0L 4-cyl. Turbo 8-speed Automatic,"$45,615",Base,sedan
+401611455,2.0L 4-cyl. Turbo 8-speed Automatic,"$53,285",F SPORT,sedan
+401691158,2.0L 4-cyl. Turbo 8-speed Automatic,"$46,310",Base,sedan
+401691157,2.0L 4-cyl. Turbo 8-speed Automatic,"$53,980",F SPORT,sedan
+200747264,4.6L V8 4x4 6-speed Automatic,"$50,780",Base,suv
+200747265,4.6L V8 4x4 6-speed Automatic,"$62,155",Luxury,suv
+401610912,2.0L 4-cyl. Turbo 6-speed Automatic,"$34,965",Base,suv
+401610911,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$36,365",Base,suv
+401610910,2.0L 4-cyl. Turbo 6-speed Automatic,"$37,065",F SPORT,suv
+401610909,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$38,465",F SPORT,suv
+200747207,3.5L V6 AWD 6-speed Automatic,"$39,700",Base,sedan
+401690886,3.5L V6 AWD 6-speed Automatic,"$40,200",Base,sedan
+200724406,5.0L V8 8-speed Automatic,"$84,440",Base,sedan
+401661737,5.0L V8 8-speed Automatic,"$83,940",Base,sedan
+401661666,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,285",Base,suv
+401661664,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$36,685",Base,suv
+401661665,2.0L 4-cyl. Turbo 6-speed Automatic,"$37,385",F SPORT,suv
+401661663,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$38,785",F SPORT,suv
+401594047,3.5L V6 8-speed Automatic,"$42,780",Base,coupe
+401594048,3.5L V6 AWD 6-speed Automatic,"$45,015",Base,coupe
+401612858,5.0L V8 Hybrid AWD CVT Automatic,"$120,440",Base,sedan
+401594089,2.0L 4-cyl. Turbo 8-speed Automatic,"$39,995",Base,coupe
+401689869,2.0L 4-cyl. Turbo 8-speed Automatic,"$40,155",Base,coupe
+200747290,1.8L 4-cyl. Hybrid CVT Automatic,"$31,250",Base,hatchback
+401657467,1.8L 4-cyl. Hybrid CVT Automatic,"$31,250",Base,hatchback
+401689934,3.5L V6 8-speed Automatic,"$43,010",Base,coupe
+401689933,3.5L V6 AWD 6-speed Automatic,"$45,175",Base,coupe
+401661706,2.5L 4-cyl. Hybrid AWD CVT Automatic,"$39,720",Base,suv
+200745234,3.5L V6 6-speed Automatic,"$38,100",Base,sedan
+401610913,2.5L 4-cyl. Hybrid CVT Automatic,"$39,720",Base,suv
+401610914,2.5L 4-cyl. Hybrid AWD CVT Automatic,"$41,310",Base,suv
+401659475,3.5L V6 6-speed Automatic,"$38,900",Base,sedan
+200724889,3.5L V6 8-speed Automatic,"$41,900",Base,suv
+401583730,3.5L V6 AWD 8-speed Automatic,"$43,300",Base,suv
+401583731,3.5L V6 AWD 8-speed Automatic,"$49,125",F SPORT,suv
+401626459,5.0L V8 10-speed Automatic,"$92,000",Base,coupe
+401589091,3.5L V6 Hybrid CVT Automatic,"$52,235",Base,suv
+401589090,3.5L V6 Hybrid AWD CVT Automatic,"$53,635",Base,suv
+401589093,3.5L V6 Hybrid AWD CVT Automatic,"$57,045",F SPORT,suv
+200747208,2.0L 4-cyl. Turbo 8-speed Automatic,"$37,325",Base,sedan
+401690862,2.0L 4-cyl. Turbo 8-speed Automatic,"$37,825",Base,sedan
+401583476,3.5L V6 Hybrid CVT Automatic,"$63,080",Base,sedan
+401692374,3.5L V6 Hybrid CVT Automatic,"$63,635",Base,sedan
+401692375,3.5L V6 Hybrid CVT Automatic,"$68,680",F SPORT,sedan
+401660526,3.5L V6 Hybrid AWD CVT Automatic,"$53,035",Base,suv
+401660527,3.5L V6 Hybrid AWD CVT Automatic,"$56,495",F SPORT,suv
+401582739,5.7L V8 4x4 8-speed Automatic,"$88,880",Base,suv
+200747205,3.5L V6 8-speed Automatic,"$40,870",Base,sedan
+200747206,3.5L V6 AWD 6-speed Automatic,"$43,035",Base,sedan
+401659550,5.7L V8 4x4 8-speed Automatic,"$89,880",Base,suv
+401690901,3.5L V6 8-speed Automatic,"$41,370",Base,sedan
+401690900,3.5L V6 AWD 6-speed Automatic,"$43,535",Base,sedan
+401672229,2.0L 4-cyl. Hybrid CVT Automatic,"$24,120",SE,wagon
+401672230,2.0L 4-cyl. Hybrid CVT Automatic,"$27,120",Titanium,wagon
+401707256,2.0L 4-cyl. Hybrid CVT Automatic,"$24,120",SE,wagon
+401707255,2.0L 4-cyl. Hybrid CVT Automatic,"$27,175",Titanium,wagon
+401594049,5.0L V8 8-speed Automatic,"$62,805",Base,coupe
+401701908,3.5L V6 Hybrid CVT Automatic,"$96,510",Base,coupe
+401689971,5.0L V8 8-speed Automatic,"$64,165",Base,coupe
+200746207,2.5L 4-cyl. Hybrid CVT Automatic,"$41,020",Base,sedan
+401593861,3.5L V6 6-speed Automatic,"$29,600",SE,wagon
+401593862,3.5L V6 6-speed Automatic,"$32,300",SEL,wagon
+401593863,3.5L V6 AWD 6-speed Automatic,"$34,250",SEL,wagon
+401593864,3.5L V6 6-speed Automatic,"$37,800",Limited,wagon
+401593865,3.5L V6 AWD 6-speed Automatic,"$39,750",Limited,wagon
+401593866,3.5L V6 Twin-turbo AWD 6-speed Automatic w/EcoBoost,"$42,600",Limited,wagon
+401659507,4.6L V8 4x4 6-speed Automatic,"$51,680",Base,suv
+401659508,4.6L V8 4x4 6-speed Automatic,"$63,380",Luxury,suv
+401660467,3.5L V6 8-speed Automatic,"$43,120",Base,suv
+401660465,3.5L V6 AWD 8-speed Automatic,"$44,520",Base,suv
+401660464,3.5L V6 8-speed Automatic,"$49,020",F SPORT,suv
+401660466,3.5L V6 AWD 8-speed Automatic,"$50,420",F SPORT,suv
+401676503,3.5L V6 6-speed Automatic,"$30,025",SE,wagon
+401676504,3.5L V6 6-speed Automatic,"$32,730",SEL,wagon
+401676505,3.5L V6 AWD 6-speed Automatic,"$34,680",SEL,wagon
+401676500,3.5L V6 6-speed Automatic,"$38,230",Limited,wagon
+401676501,3.5L V6 AWD 6-speed Automatic,"$40,180",Limited,wagon
+401676502,3.5L V6 Twin-turbo AWD 6-speed Automatic w/EcoBoost,"$43,030",Limited,wagon
+401678909,3.5L V6 AWD 6-speed Automatic,"$50,365",Base,sedan
+401678910,3.5L V6 8-speed Automatic,"$50,695",Base,sedan
+401678911,3.5L V6 8-speed Automatic,"$54,810",F SPORT,sedan
+401678908,3.5L V6 AWD 6-speed Automatic,"$56,555",F SPORT,sedan
+401659441,2.5L 4-cyl. Hybrid CVT Automatic,"$41,820",Base,sedan
+401713465,3.5L V6 6-speed Automatic,"$30,025",SE,wagon
+401713466,3.5L V6 6-speed Automatic,"$32,730",SEL,wagon
+401713467,3.5L V6 AWD 6-speed Automatic,"$34,680",SEL,wagon
+401713468,3.5L V6 6-speed Automatic,"$38,230",Limited,wagon
+401713469,3.5L V6 AWD 6-speed Automatic,"$40,180",Limited,wagon
+200733236,1.6L 4-cyl. Turbo 6-speed Manual,"$21,460",ST,st
+401677704,1.6L 4-cyl. Turbo 6-speed Manual,"$21,140",ST,st
+200734944,3.7L V6 6-speed Manual,"$24,145",V6,coupe
+200734940,2.3L 4-cyl. Turbo 6-speed Manual,"$25,645",EcoBoost,coupe
+200734941,2.3L 4-cyl. Turbo 6-speed Manual,"$29,645",EcoBoost Premium,coupe
+200734946,5.0L V8 6-speed Manual,"$32,395",GT,coupe
+200734945,5.0L V8 6-speed Manual,"$36,395",GT Premium,coupe
+401611549,3.5L V6 8-speed Automatic,"$50,000",Base,sedan
+401611548,3.5L V6 AWD 6-speed Automatic,"$50,470",Base,sedan
+401611550,3.5L V6 8-speed Automatic,"$54,115",F SPORT,sedan
+200730272,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$35,480",XL,supercab
+200730280,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$35,680",XL,supercab
+200730271,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,885",XL,supercab
+200730277,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$38,280",XL,supercab
+200730275,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$38,480",XL,supercab
+200730273,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,680",XL,supercab
+200730285,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$39,775",XLT,supercab
+200730282,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$39,975",XLT,supercab
+200730274,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$40,965",XLT,supercab
+200730284,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$42,580",XLT,supercab
+200730283,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$42,775",XLT,supercab
+200730276,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$43,770",XLT,supercab
+200730267,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$45,690",Lariat,supercab
+200730269,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$45,890",Lariat,supercab
+200730279,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$47,090",Lariat,supercab
+200730268,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$48,880",Lariat,supercab
+200730270,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$49,080",Lariat,supercab
+401641357,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$36,045",XL,supercab
+401641362,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$36,245",XL,supercab
+401641373,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$37,730",XL,supercab
+401641355,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$38,845",XL,supercab
+401641360,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,045",XL,supercab
+401641358,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$40,525",XL,supercab
+401611395,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$40,580",XLT,supercab
+401641364,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$40,780",XLT,supercab
+401641359,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$42,050",XLT,supercab
+401641361,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$43,385",XLT,supercab
+401641365,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$43,580",XLT,supercab
+401641354,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$44,855",XLT,supercab
+401641377,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$46,475",Lariat,supercab
+401641375,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$46,675",Lariat,supercab
+401641356,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$48,160",Lariat,supercab
+401641376,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$49,665",Lariat,supercab
+401641374,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$49,865",Lariat,supercab
+401641363,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,350",Lariat,supercab
+200725943,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$108,900",Prestige quattro,sedan
+401598139,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$129,000",performance Prestige quattro,sedan
+401644915,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$110,700",Prestige quattro,sedan
+401644916,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$129,500",performance Prestige quattro,sedan
+200730281,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$50,280",Lariat,supercab
+401716542,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$113,900",quattro,sedan
+401716605,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$130,700",performance quattro,sedan
+200736698,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$47,900",2.0T Premium quattro,convertible
+200736697,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$50,200",2.0T Premium Plus quattro,convertible
+401644150,2.0L 4-cyl. Turbo FFV AWD 8-speed Automatic,"$48,600",Sport quattro,convertible
+401705286,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$49,600",Premium quattro,convertible
+401705293,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$52,600",Premium Plus quattro,convertible
+401705294,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$57,200",Prestige quattro,convertible
+200730320,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$36,880",XL,crew-cab
+200730323,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$37,080",XL,crew-cab
+200730304,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$38,280",XL,crew-cab
+200730321,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$39,685",XL,crew-cab
+200730322,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$39,880",XL,crew-cab
+200730305,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$41,080",XL,crew-cab
+200730299,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$41,680",XLT,crew-cab
+200730298,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$41,875",XLT,crew-cab
+200730309,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$42,865",XLT,crew-cab
+200730324,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$44,480",XLT,crew-cab
+200730297,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$44,675",XLT,crew-cab
+200730308,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$45,670",XLT,crew-cab
+200730303,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$48,090",Lariat,crew-cab
+200730301,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$48,290",Lariat,crew-cab
+200730311,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$49,490",Lariat,crew-cab
+200730302,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$51,280",Lariat,crew-cab
+200730300,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,480",Lariat,crew-cab
+200730310,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$52,685",Lariat,crew-cab
+200730314,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$53,830",King Ranch,crew-cab
+200730306,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$54,035",King Ranch,crew-cab
+200730315,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$55,230",King Ranch,crew-cab
+200730319,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$56,150",Platinum,crew-cab
+401641329,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$37,305",XL,crew-cab
+401641326,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$37,505",XL,crew-cab
+401641333,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$38,990",XL,crew-cab
+401641328,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$40,110",XL,crew-cab
+401641327,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$40,305",XL,crew-cab
+401641334,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$41,790",XL,crew-cab
+401641352,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$42,410",XLT,crew-cab
+401641353,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$42,605",XLT,crew-cab
+401641338,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$43,880",XLT,crew-cab
+401641330,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$45,210",XLT,crew-cab
+401641351,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$45,405",XLT,crew-cab
+401641337,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$46,685",XLT,crew-cab
+401641349,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$48,805",Lariat,crew-cab
+401641347,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$49,005",Lariat,crew-cab
+401641336,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$50,485",Lariat,crew-cab
+401641350,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$51,995",Lariat,crew-cab
+401641348,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$52,195",Lariat,crew-cab
+401641335,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$53,685",Lariat,crew-cab
+401641339,6.2L V8 FFV 6-speed Automatic 6.8 ft. Bed,"$55,635",King Ranch,crew-cab
+401641331,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$55,840",King Ranch,crew-cab
+401641340,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$57,315",King Ranch,crew-cab
+401641332,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$58,830",King Ranch,crew-cab
+401641341,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$59,025",King Ranch,crew-cab
+401641342,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$60,510",King Ranch,crew-cab
+401641344,6.2L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$61,975",Platinum,crew-cab
+200741404,2.0L 4-cyl. Hybrid CVT Automatic,"$31,770",SEL,wagon
+401671900,2.0L 4-cyl. Hybrid CVT Automatic,"$27,120",SE,wagon
+401672122,2.0L 4-cyl. Hybrid CVT Automatic,"$30,120",Titanium,wagon
+200730307,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$57,025",King Ranch,crew-cab
+200730312,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$57,220",King Ranch,crew-cab
+200730316,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$57,940",Platinum,crew-cab
+200730317,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$58,140",Platinum,crew-cab
+200730313,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$58,425",King Ranch,crew-cab
+200730318,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$59,340",Platinum,crew-cab
+401641345,6.2L V8 FFV 4x4 6-speed Automatic 6.8 ft. Bed,"$63,485",Platinum,crew-cab
+401641346,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$63,685",Platinum,crew-cab
+401641343,6.2L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$65,165",Platinum,crew-cab
+200735430,3.7L V6 FFV 6-speed Automatic,"$30,960","150 Low Roof w/130"" WB, 60/40 Passenger Side Door",cargo-van
+200735431,3.7L V6 FFV 6-speed Automatic,"$31,110","150 Low Roof w/130"" WB, Sliding Passenger Side Door",cargo-van
+200735444,3.7L V6 FFV 6-speed Automatic,"$31,565","150 Medium Roof w/130"" WB, Sliding Passenger Side Door",cargo-van
+200735433,3.7L V6 FFV 6-speed Automatic,"$31,810","150 Low Roof w/148"" WB, 60/40 Passenger Side Door",cargo-van
+200735432,3.7L V6 FFV 6-speed Automatic,"$31,910","250 Low Roof w/130"" WB, 60/40 Passenger Side Door",cargo-van
+200735426,3.7L V6 FFV 6-speed Automatic,"$31,960","150 Low Roof w/148"" WB, Sliding Passenger Side Door",cargo-van
+200735434,3.7L V6 FFV 6-speed Automatic,"$32,060","250 Low Roof w/130"" WB, Sliding Passenger Side Door",cargo-van
+200735443,3.7L V6 FFV 6-speed Automatic,"$32,215","150 Medium Roof w/130"" WB, Dual Sliding Doors",cargo-van
+200735442,3.7L V6 FFV 6-speed Automatic,"$32,515","250 Medium Roof w/130"" WB, Sliding Passenger Side Door",cargo-van
+200735429,3.7L V6 FFV 6-speed Automatic,"$32,760","250 Low Roof w/148"" WB, 60/40 Passenger Side Door",cargo-van
+200735428,3.7L V6 FFV 6-speed Automatic,"$32,910","250 Low Roof w/148"" WB, Sliding Passenger Side Door",cargo-van
+200735441,3.7L V6 FFV 6-speed Automatic,"$33,165","250 Medium Roof w/130"" WB, Dual Sliding Doors",cargo-van
+200735440,3.7L V6 FFV 6-speed Automatic,"$33,265","150 Medium Roof w/148"" WB, Sliding Passenger Side Door",cargo-van
+200735448,3.7L V6 FFV 6-speed Automatic,"$33,915","150 Medium Roof w/148"" WB, Dual Sliding Doors",cargo-van
+200735445,3.7L V6 FFV 6-speed Automatic,"$34,215","250 Medium Roof w/148"" WB, Sliding Passenger Side Door",cargo-van
+200735427,3.7L V6 FFV 6-speed Automatic,"$34,815",350 Low Roof w/60/40 Passenger Side Door,cargo-van
+200735446,3.7L V6 FFV 6-speed Automatic,"$34,865","250 Medium Roof w/148"" WB, Dual Sliding Doors",cargo-van
+200735425,3.7L V6 FFV 6-speed Automatic,"$34,965",350 Low Roof w/Sliding Passenger Side Door,cargo-van
+200735447,3.7L V6 FFV 6-speed Automatic,"$35,465",350 Medium Roof w/Sliding Passenger Side Door,cargo-van
+200735529,3.7L V6 FFV 6-speed Automatic,"$36,090",250 High Roof w/Sliding Passenger Side Door,cargo-van
+200735439,3.7L V6 FFV 6-speed Automatic,"$36,115",350 Medium Roof w/Dual Sliding Doors,cargo-van
+200735531,3.7L V6 FFV 6-speed Automatic,"$36,740",250 High Roof w/Dual Sliding Doors,cargo-van
+200735535,3.7L V6 FFV 6-speed Automatic,"$37,340",350 High Roof w/Sliding Passenger Side Door,cargo-van
+200735532,3.7L V6 FFV 6-speed Automatic,"$37,390","250 High Roof w/Extended Length, Sliding Passenger Side Door",cargo-van
+200735533,3.7L V6 FFV 6-speed Automatic,"$37,990",350 High Roof w/Dual Sliding Doors,cargo-van
+200735534,3.7L V6 FFV 6-speed Automatic,"$38,040","250 High Roof w/Extended Length, Dual Sliding Doors",cargo-van
+200735530,3.7L V6 FFV 6-speed Automatic,"$38,640","350 High Roof w/Extended Length, Sliding Passenger Side Door",cargo-van
+200735525,3.7L V6 FFV 6-speed Automatic,"$39,290","350 High Roof w/Extended Length, Dual Sliding Doors",cargo-van
+200735528,3.7L V6 FFV 6-speed Automatic,"$40,690","350 HD High Roof w/Sliding Passenger Side Door and 9,950 GVWR",cargo-van
+200735527,3.5L V6 Twin-turbo 6-speed Automatic,"$41,040","350 HD High Roof w/Sliding Passenger Side Door and 10,360 GVWR",cargo-van
+200735526,3.7L V6 FFV 6-speed Automatic,"$41,340","350 HD High Roof w/Dual Sliding Doors and 9,950 GVWR",cargo-van
+200735524,3.5L V6 Twin-turbo 6-speed Automatic,"$41,690","350 HD High Roof w/Dual Sliding Doors and 10,360 GVWR",cargo-van
+200725319,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$46,200",2.0T Premium,sedan
+200721618,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$48,400",2.0T Premium quattro,sedan
+200725318,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$49,900",2.0T Premium Plus,sedan
+200725317,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$52,100",2.0T Premium Plus quattro,sedan
+200725320,3.0L V6 Supercharger AWD 8-speed Automatic,"$57,400",3.0T Premium Plus quattro,sedan
+200725321,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$59,500",TDI Premium Plus quattro,sedan
+200725322,3.0L V6 Supercharger AWD 8-speed Automatic,"$61,600",3.0T Prestige quattro,sedan
+200725323,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$63,700",TDI Prestige quattro,sedan
+401644403,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$47,600",2.0T Premium,sedan
+401644405,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$49,800",2.0T Premium quattro,sedan
+401644402,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$51,600",2.0T Premium Plus,sedan
+401644404,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$53,800",2.0T Premium Plus quattro,sedan
+401644407,3.0L V6 Supercharger AWD 8-speed Automatic,"$58,600",3.0T Premium Plus quattro,sedan
+401644406,3.0L V6 Supercharger AWD 8-speed Automatic,"$61,600",3.0T Prestige quattro,sedan
+401644418,3.0L V6 Supercharger AWD 8-speed Automatic,"$67,600",3.0T Competition Prestige quattro,sedan
+401716063,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$49,700",2.0 TFSI Premium,sedan
+401716062,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$51,900",2.0 TFSI Premium Plus,sedan
+401716059,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$51,900",2.0 TFSI Premium quattro,sedan
+401716058,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$54,100",2.0 TFSI Premium Plus quattro,sedan
+401716061,3.0L V6 Supercharger AWD 8-speed Automatic,"$58,700",3.0 TFSI Premium Plus quattro,sedan
+401716060,3.0L V6 Supercharger AWD 8-speed Automatic,"$61,400",3.0 TFSI Prestige quattro,sedan
+200737510,3.0L V6 Supercharger AWD 8-speed Automatic,"$81,500",L 3.0T quattro,sedan
+200737511,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$85,200",L TDI quattro,sedan
+200737508,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$90,500",L 4.0T Sport quattro,sedan
+200737509,6.3L W12 AWD 8-speed Automatic,"$137,900",L W12 quattro,sedan
+401645207,3.0L V6 Supercharger AWD 8-speed Automatic,"$82,500",L 3.0T quattro,sedan
+401645208,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$91,500",L 4.0T Sport quattro,sedan
+401644053,3.0L V6 Supercharger AWD 8-speed Automatic,"$82,500",L 3.0T quattro,sedan
+401716997,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$92,000",L 4.0T Sport quattro,sedan
+401705302,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$42,600",Premium quattro,hatchback
+401705312,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$45,600",Premium Plus quattro,hatchback
+401705313,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$50,200",Prestige quattro,hatchback
+200690720,2.0L 4-cyl. Turbo AWD 6-speed Automated Manual,"$42,900",2.0T quattro,coupe
+401646437,2.0L 4-cyl. Turbo AWD 6-speed Automated Manual,"$43,500",2.0T quattro,coupe
+401717936,2.0L 4-cyl. Turbo AWD 6-speed Automated Manual,"$43,950",2.0T quattro,coupe
+200721619,3.0L V6 Supercharger AWD 8-speed Automatic,"$68,300",Premium Plus quattro,sedan
+200726011,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$70,400",TDI Premium Plus quattro,sedan
+200726013,3.0L V6 Supercharger AWD 8-speed Automatic,"$70,950",Prestige quattro,sedan
+200726012,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$73,050",TDI Prestige quattro,sedan
+401644718,3.0L V6 Supercharger AWD 8-speed Automatic,"$68,800",Premium Plus quattro,sedan
+401644719,3.0L V6 Supercharger AWD 8-speed Automatic,"$71,350",Prestige quattro,sedan
+401644738,3.0L V6 Supercharger AWD 8-speed Automatic,"$76,550",Competition Prestige quattro,sedan
+401716348,3.0L V6 Supercharger AWD 8-speed Automatic,"$69,700",Premium Plus quattro,sedan
+401716349,3.0L V6 Supercharger AWD 8-speed Automatic,"$72,400",Prestige quattro,sedan
+200736557,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$42,700",Premium quattro,wagon
+200736556,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$44,800",Premium Plus quattro,wagon
+401640217,5.2L V8 6-speed Manual,"$54,845",Base,coupe
+401640218,5.2L V8 6-speed Manual,"$62,345",R,coupe
+401582331,3.5L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$26,540",XL,regular-cab
+401582343,3.5L V6 FFV 6-speed Automatic 8.1 ft. Bed,"$26,840",XL,regular-cab
+401582345,3.5L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$31,185",XL,regular-cab
+401582348,3.5L V6 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$31,485",XL,regular-cab
+401582349,3.5L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$31,905",XLT,regular-cab
+401582350,3.5L V6 FFV 6-speed Automatic 8.1 ft. Bed,"$32,210",XLT,regular-cab
+401582351,3.5L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$35,330",XLT,regular-cab
+401582352,3.5L V6 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$35,630",XLT,regular-cab
+401665772,3.5L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$27,110",XL,regular-cab
+401665773,3.5L V6 FFV 6-speed Automatic 8.1 ft. Bed,"$27,410",XL,regular-cab
+401665775,3.5L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$31,755",XL,regular-cab
+401665780,3.5L V6 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$32,055",XL,regular-cab
+401665779,3.5L V6 FFV 6-speed Automatic 6.6 ft. Bed,"$32,480",XLT,regular-cab
+401665784,3.5L V6 FFV 6-speed Automatic 8.1 ft. Bed,"$32,785",XLT,regular-cab
+401665782,3.5L V6 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$35,905",XLT,regular-cab
+401665787,3.5L V6 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$36,205",XLT,regular-cab
+401715011,3.3L V6 6-speed Automatic 6.6 ft. Bed,"$27,380",XL,regular-cab
+401715010,3.3L V6 6-speed Automatic 8.1 ft. Bed,"$27,680",XL,regular-cab
+401715012,3.3L V6 4x4 6-speed Automatic 6.6 ft. Bed,"$32,025",XL,regular-cab
+401715014,3.3L V6 4x4 6-speed Automatic 8.1 ft. Bed,"$32,325",XL,regular-cab
+401715013,3.3L V6 6-speed Automatic 6.6 ft. Bed,"$32,970",XLT,regular-cab
+401715008,3.3L V6 6-speed Automatic 8.1 ft. Bed,"$33,270",XLT,regular-cab
+401715015,3.3L V6 4x4 6-speed Automatic 6.6 ft. Bed,"$36,395",XLT,regular-cab
+401715009,3.3L V6 4x4 6-speed Automatic 8.1 ft. Bed,"$36,695",XLT,regular-cab
+200734943,3.7L V6 6-speed Manual,"$29,645",V6,convertible
+200734942,2.3L 4-cyl. Turbo 6-speed Manual,"$35,145",EcoBoost Premium,convertible
+200734947,5.0L V8 6-speed Manual,"$41,895",GT Premium,convertible
+401640304,3.7L V6 6-speed Manual,"$30,685",V6,convertible
+401640307,2.3L 4-cyl. Turbo 6-speed Manual,"$35,695",EcoBoost Premium,convertible
+401640310,5.0L V8 6-speed Manual,"$42,695",GT Premium,convertible
+200729206,3.0L V6 Supercharger 6-speed Manual,"$68,100",Base,convertible
+200729208,3.0L V6 Supercharger 8-speed Automatic,"$69,400",Base,convertible
+200729210,3.0L V6 Supercharger 6-speed Manual,"$80,400",S,convertible
+200729212,3.0L V6 Supercharger 8-speed Automatic,"$81,900",S,convertible
+200729214,3.0L V6 Supercharger AWD 8-speed Automatic,"$87,900",S,convertible
+200729218,5.0L V8 Supercharger AWD 8-speed Automatic,"$106,450",R,convertible
+401598072,5.0L V8 Supercharger 8-speed Automatic,"$165,000",Project 7,convertible
+401631561,3.0L V6 Supercharger 6-speed Manual,"$65,400",Base,convertible
+401631562,3.0L V6 Supercharger 8-speed Automatic,"$66,700",Base,convertible
+401631565,3.0L V6 Supercharger 6-speed Manual,"$69,900",Premium,convertible
+401631566,3.0L V6 Supercharger 8-speed Automatic,"$71,200",Premium,convertible
+401631568,3.0L V6 Supercharger 6-speed Manual,"$82,200",S,convertible
+401631570,3.0L V6 Supercharger 8-speed Automatic,"$83,700",S,convertible
+401631572,3.0L V6 Supercharger AWD 8-speed Automatic,"$89,700",S,convertible
+401631581,3.0L V6 Supercharger 8-speed Automatic,"$95,200",S British Design Edition,convertible
+401631578,3.0L V6 Supercharger AWD 8-speed Automatic,"$101,200",S British Design Edition,convertible
+401631575,5.0L V8 Supercharger AWD 8-speed Automatic,"$108,250",R,convertible
+401633257,5.0L V8 Supercharger AWD 8-speed Automatic,"$128,800",SVR,convertible
+401709768,2.0L 4-cyl. Turbo 8-speed Automatic,"$63,000",Base,convertible
+401707544,3.0L V6 Supercharger 6-speed Manual,"$71,100",Base,convertible
+401707545,3.0L V6 Supercharger 8-speed Automatic,"$72,400",Base,convertible
+401707596,3.0L V6 Supercharger 8-speed Automatic,"$83,000",Base,convertible
+401707595,3.0L V6 Supercharger 6-speed Manual,"$84,300",R-Dynamic,convertible
+401707601,3.0L V6 Supercharger 8-speed Automatic,"$85,600",R-Dynamic,convertible
+401707605,3.0L V6 Supercharger AWD 8-speed Automatic,"$86,000",Base,convertible
+401707606,3.0L V6 Supercharger AWD 8-speed Automatic,"$88,600",R-Dynamic,convertible
+401707610,3.0L V6 Supercharger 8-speed Automatic,"$92,600",400 Sport,convertible
+401707611,3.0L V6 Supercharger AWD 8-speed Automatic,"$95,600",400 Sport,convertible
+401707614,5.0L V8 Supercharger AWD 8-speed Automatic,"$103,000",R,convertible
+401707617,5.0L V8 Supercharger AWD 8-speed Automatic,"$125,000",SVR,convertible
+200470718,2.0L 4-cyl. Turbo Diesel AWD 8-speed Automatic,"$40,990",20d,diesel
+401614662,2.0L 4-cyl. Turbo Diesel AWD 8-speed Automatic,"$44,200",20d Premium,diesel
+401614663,2.0L 4-cyl. Turbo Diesel AWD 8-speed Automatic,"$48,700",20d Prestige,diesel
+401614664,2.0L 4-cyl. Turbo Diesel AWD 8-speed Automatic,"$53,900",20d R-Sport,diesel
+401665342,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$44,000",Premium,wagon
+401665345,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$47,000",Premium Plus,wagon
+401665346,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$51,400",Prestige,wagon
+401715985,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$44,500",2.0 TFSI Premium quattro,wagon
+401715983,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$47,200",2.0 TFSI Premium Plus quattro,wagon
+401715984,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$53,000",2.0 TFSI Prestige quattro,wagon
+200736810,3.0L V6 Supercharger AWD 6-speed Manual,"$53,100",Premium Plus quattro,coupe
+200736808,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$54,100",Premium Plus quattro,coupe
+200736809,3.0L V6 Supercharger AWD 6-speed Manual,"$59,350",Prestige quattro,coupe
+200736812,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$60,350",Prestige quattro,coupe
+401644248,3.0L V6 Supercharger AWD 6-speed Manual,"$53,100",quattro,coupe
+401644249,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$54,100",quattro,coupe
+401658849,3.0L V6 Turbo AWD 8-speed Automatic,"$54,600",Premium Plus quattro,coupe
+401706100,3.0L V6 Turbo AWD 8-speed Automatic,"$59,000",Prestige quattro,coupe
+200736345,2.0L 4-cyl. Turbo 6-speed Automatic,"$33,700",Premium Plus,suv
+200736343,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$35,800",Premium Plus quattro,suv
+200736342,2.0L 4-cyl. Turbo 6-speed Automatic,"$38,600",Prestige,suv
+200736344,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$40,700",Prestige quattro,suv
+401645531,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,800",Premium,suv
+401645564,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,900",Premium quattro,suv
+401645565,2.0L 4-cyl. Turbo 6-speed Automatic,"$34,500",Premium Plus,suv
+401645533,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$36,600",Premium Plus quattro,suv
+401645534,2.0L 4-cyl. Turbo 6-speed Automatic,"$39,200",Prestige,suv
+401645532,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$41,300",Prestige quattro,suv
+401707022,2.0L 4-cyl. Turbo 6-speed Automatic,"$32,900",Premium,suv
+401707020,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$35,000",Premium quattro,suv
+401707019,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,800",Premium Plus,suv
+401707021,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,900",Premium Plus quattro,suv
+401665774,3.5L V6 FFV 6-speed Automatic 5.6 ft. Bed,"$33,650",XL,supercrew
+401665776,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$34,955",XL,supercrew
+401665777,3.5L V6 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$37,160",XL,supercrew
+401665781,3.5L V6 FFV 6-speed Automatic 5.6 ft. Bed,"$37,740",XLT,supercrew
+401665783,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$39,050",XLT,supercrew
+401665778,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$39,115",XL,supercrew
+401665769,3.5L V6 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$41,235",XLT,supercrew
+401665703,2.7L V6 Twin-turbo 6-speed Automatic 6.6 ft. Bed,"$43,225",Lariat,supercrew
+401665770,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$43,225",XLT,supercrew
+401665704,2.7L V6 Twin-turbo 6-speed Automatic 5.6 ft. Bed,"$43,525",Lariat,supercrew
+401665705,2.7L V6 Twin-turbo 4x4 6-speed Automatic 5.6 ft. Bed,"$46,645",Lariat,supercrew
+401665706,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$47,695",Lariat,supercrew
+401665707,5.0L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$51,080",King Ranch,supercrew
+401665708,5.0L V8 FFV 6-speed Automatic 6.6 ft. Bed,"$51,380",King Ranch,supercrew
+401665718,3.5L V6 Twin-turbo 4x4 10-speed Automatic 5.6 ft. Bed,"$52,250",Raptor,supercrew
+401665711,5.0L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$53,635",Platinum,supercrew
+401665712,5.0L V8 FFV 6-speed Automatic 6.6 ft. Bed,"$53,935",Platinum,supercrew
+401665709,5.0L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$54,505",King Ranch,supercrew
+401665710,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$54,805",King Ranch,supercrew
+401665713,5.0L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$57,060",Platinum,supercrew
+401665714,5.0L V8 FFV 4x4 6-speed Automatic 6.6 ft. Bed,"$57,355",Platinum,supercrew
+401665715,3.5L V6 Twin-turbo 10-speed Automatic 5.6 ft. Bed,"$60,200",Limited,supercrew
+401665716,3.5L V6 Twin-turbo 4x4 10-speed Automatic 5.6 ft. Bed,"$63,625",Limited,supercrew
+401715028,3.3L V6 6-speed Automatic 5.6 ft. Bed,"$33,920",XL,supercrew
+401715029,2.7L V6 Twin-turbo 10-speed Automatic 6.6 ft. Bed,"$35,225",XL,supercrew
+401715030,3.3L V6 4x4 6-speed Automatic 5.6 ft. Bed,"$37,430",XL,supercrew
+401715034,3.3L V6 6-speed Automatic 5.6 ft. Bed,"$38,230",XLT,supercrew
+401715035,2.7L V6 Twin-turbo 10-speed Automatic 6.6 ft. Bed,"$39,535",XLT,supercrew
+401715031,5.0L V8 4x4 10-speed Automatic 6.6 ft. Bed,"$39,685",XL,supercrew
+401715032,3.3L V6 4x4 6-speed Automatic 5.6 ft. Bed,"$41,725",XLT,supercrew
+401715050,2.7L V6 Twin-turbo 10-speed Automatic 6.6 ft. Bed,"$43,545",Lariat,supercrew
+401715048,2.7L V6 Twin-turbo 10-speed Automatic 5.6 ft. Bed,"$43,845",Lariat,supercrew
+401715033,5.0L V8 4x4 10-speed Automatic 6.6 ft. Bed,"$43,980",XLT,supercrew
+401715047,2.7L V6 Twin-turbo 4x4 10-speed Automatic 5.6 ft. Bed,"$46,970",Lariat,supercrew
+401715049,5.0L V8 4x4 10-speed Automatic 6.6 ft. Bed,"$48,220",Lariat,supercrew
+401715054,5.0L V8 10-speed Automatic 5.6 ft. Bed,"$51,600",King Ranch,supercrew
+401715052,5.0L V8 10-speed Automatic 6.6 ft. Bed,"$51,900",King Ranch,supercrew
+401715062,3.5L V6 Twin-turbo 4x4 10-speed Automatic 5.6 ft. Bed,"$52,770",Raptor,supercrew
+401715055,5.0L V8 10-speed Automatic 5.6 ft. Bed,"$54,155",Platinum,supercrew
+401715056,5.0L V8 10-speed Automatic 6.6 ft. Bed,"$54,455",Platinum,supercrew
+401715051,5.0L V8 4x4 10-speed Automatic 5.6 ft. Bed,"$55,025",King Ranch,supercrew
+401715053,5.0L V8 4x4 10-speed Automatic 6.6 ft. Bed,"$55,325",King Ranch,supercrew
+401715057,5.0L V8 4x4 10-speed Automatic 5.6 ft. Bed,"$57,580",Platinum,supercrew
+401715058,5.0L V8 4x4 10-speed Automatic 6.6 ft. Bed,"$57,880",Platinum,supercrew
+401715060,3.5L V6 Twin-turbo 10-speed Automatic 5.6 ft. Bed,"$60,520",Limited,supercrew
+200740487,2.0L 4-cyl. Turbo 6-speed Manual,"$24,425",Base,hatchback
+401671803,2.0L 4-cyl. Turbo 6-speed Manual,"$24,775",Base,hatchback
+401589399,2.0L 4-cyl. Turbo 6-speed Automatic,"$28,700",SE,suv
+401589395,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$30,695",SE,suv
+401589396,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,790",SEL,suv
+401589398,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,785",SEL,suv
+401589401,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,600",Titanium,suv
+401589400,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,595",Titanium,suv
+401589397,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$40,900",Sport,suv
+401715059,3.5L V6 Twin-turbo 4x4 10-speed Automatic 5.6 ft. Bed,"$63,945",Limited,supercrew
+401670679,2.0L 4-cyl. Turbo 6-speed Automatic,"$28,950",SE,suv
+401670681,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$30,945",SE,suv
+401670678,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,790",SEL,suv
+401670680,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,785",SEL,suv
+401670682,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,600",Titanium,suv
+401670683,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,595",Titanium,suv
+401670677,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$40,900",Sport,suv
+401590247,2.3L 4-cyl. Turbo AWD 6-speed Manual,"$35,900",Base,hatchback
+401657505,2.3L 4-cyl. Turbo AWD 6-speed Manual,"$36,120",Base,hatchback
+401718295,2.3L 4-cyl. Turbo AWD 6-speed Manual,"$41,120",Base,hatchback
+401705196,1.6L 4-cyl. Hybrid 6-speed Automated Manual,"$22,200",Blue,hatchback
+401705183,1.6L 4-cyl. Hybrid 6-speed Automated Manual,"$23,950",SEL,hatchback
+401705182,1.6L 4-cyl. Hybrid 6-speed Automated Manual,"$27,500",Limited,hatchback
+401597452,2.0L 4-cyl. Hybrid 6-speed Automatic,"$34,600",Base,sedan
+401597450,2.0L 4-cyl. Hybrid 6-speed Automatic,"$38,600",Limited,sedan
+401597451,2.0L 4-cyl. Hybrid 6-speed Automatic,"$38,600",Limited w/Blue Pearl Interior,sedan
+401672398,2.0L 4-cyl. Hybrid 6-speed Automatic,"$34,600",Base,sedan
+401672399,2.0L 4-cyl. Hybrid 6-speed Automatic,"$38,600",Limited w/Blue Pearl Interior,sedan
+401672400,2.0L 4-cyl. Hybrid 6-speed Automatic,"$38,600",Limited,sedan
+200736813,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$61,100",Premium Plus quattro,convertible
+200736811,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$67,350",Prestige quattro,convertible
+401678850,3.0L V6 Twin-turbo 7-speed Automatic,"$48,700",Red Sport 400,red-sport-400
+401678849,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$50,700",Red Sport 400,red-sport-400
+401630504,2.5L 4-cyl. Supercharger Hybrid CVT Automatic,"$52,050",Hybrid,hybrid
+401630505,2.5L 4-cyl. Supercharger Hybrid AWD CVT Automatic,"$53,450",Hybrid,hybrid
+401699035,2.5L 4-cyl. Supercharger Hybrid CVT Automatic,"$52,100",Hybrid,hybrid
+401699036,2.5L 4-cyl. Supercharger Hybrid AWD CVT Automatic,"$53,500",Hybrid,hybrid
+401632501,3.5L V6 Hybrid 7-speed Automatic,"$47,050",Hybrid Premium,hybrid
+401632502,3.5L V6 Hybrid AWD 7-speed Automatic,"$49,050",Hybrid Premium,hybrid
+401678846,3.5L V6 Hybrid 7-speed Automatic,"$47,800",Hybrid Premium,hybrid
+401678848,3.5L V6 Hybrid AWD 7-speed Automatic,"$49,800",Hybrid Premium,hybrid
+401670574,3.0L V6 Twin-turbo 7-speed Automatic,"$51,300",Red Sport 400,red-sport-400
+401670579,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$53,300",Red Sport 400,red-sport-400
+401672276,3.5L V6 FFV 6-speed Automatic,"$27,345",SE,sedan
+401672280,3.5L V6 FFV 6-speed Automatic,"$29,775",SEL,sedan
+401672277,3.5L V6 FFV AWD 6-speed Automatic,"$31,625",SEL,sedan
+401672281,3.5L V6 FFV 6-speed Automatic,"$36,855",Limited,sedan
+401672278,3.5L V6 FFV AWD 6-speed Automatic,"$38,705",Limited,sedan
+401672279,3.5L V6 Twin-turbo AWD 6-speed Automatic,"$42,520",SHO,sedan
+401725137,3.5L V6 FFV 6-speed Automatic,"$27,595",SE,sedan
+401725138,3.5L V6 FFV 6-speed Automatic,"$30,025",SEL,sedan
+401725139,3.5L V6 FFV AWD 6-speed Automatic,"$31,875",SEL,sedan
+401725140,3.5L V6 FFV 6-speed Automatic,"$37,105",Limited,sedan
+401725141,3.5L V6 FFV AWD 6-speed Automatic,"$38,955",Limited,sedan
+401725142,3.5L V6 Twin-turbo AWD 6-speed Automatic,"$42,770",SHO,sedan
+401597830,3.0L V6 Twin-turbo 8-speed Automatic,"$99,900",S,sedan
+401597829,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$107,900",S Q4,sedan
+401597828,3.8L V8 Twin-turbo 8-speed Automatic,"$141,500",GTS,sedan
+401590494,4.7L V8 6-speed Automatic,"$161,070",MC,mc
+200727188,3.5L V6 6-speed Automatic,"$35,370",Base,suv
+200732585,3.5L V6 6-speed Automatic,"$36,670",AcuraWatch Plus Package,suv
+200732591,3.5L V6 AWD 6-speed Automatic,"$36,870",Base,suv
+200732587,3.5L V6 AWD 6-speed Automatic,"$38,170",AcuraWatch Plus Package,suv
+200732586,3.5L V6 6-speed Automatic,"$39,070",Technology Package,suv
+200732593,3.5L V6 6-speed Automatic,"$40,370",Technology and AcuraWatch Plus Packages,suv
+200732590,3.5L V6 AWD 6-speed Automatic,"$40,570",Technology Package,suv
+200732588,3.5L V6 AWD 6-speed Automatic,"$41,870",Technology and AcuraWatch Plus Packages,suv
+200732592,3.5L V6 6-speed Automatic,"$42,020",Advance Package,suv
+200732589,3.5L V6 AWD 6-speed Automatic,"$43,520",Advance Package,suv
+401640398,3.5L V6 6-speed Automatic,"$35,670",Base,suv
+401640404,3.5L V6 6-speed Automatic,"$36,970",AcuraWatch Plus Package,suv
+401640399,3.5L V6 AWD 6-speed Automatic,"$37,170",Base,suv
+401640403,3.5L V6 AWD 6-speed Automatic,"$38,470",AcuraWatch Plus Package,suv
+401640402,3.5L V6 6-speed Automatic,"$39,370",Technology Package,suv
+401640395,3.5L V6 6-speed Automatic,"$40,670",Technology and AcuraWatch Plus Packages,suv
+401640397,3.5L V6 AWD 6-speed Automatic,"$40,870",Technology Package,suv
+401640400,3.5L V6 AWD 6-speed Automatic,"$42,170",Technology and AcuraWatch Plus Packages,suv
+401640396,3.5L V6 6-speed Automatic,"$42,320",Advance Package,suv
+401640401,3.5L V6 AWD 6-speed Automatic,"$43,820",Advance Package,suv
+401720094,3.5L V6 6-speed Automatic,"$35,800",Base,suv
+401720088,3.5L V6 6-speed Automatic,"$37,100",AcuraWatch Plus Package,suv
+401720093,3.5L V6 AWD 6-speed Automatic,"$37,300",Base,suv
+401720090,3.5L V6 AWD 6-speed Automatic,"$38,600",AcuraWatch Plus Package,suv
+401720089,3.5L V6 6-speed Automatic,"$39,500",Technology Package,suv
+401720097,3.5L V6 6-speed Automatic,"$40,800",Technology and AcuraWatch Plus Packages,suv
+401720095,3.5L V6 AWD 6-speed Automatic,"$41,000",Technology Package,suv
+401720091,3.5L V6 AWD 6-speed Automatic,"$42,300",Technology and AcuraWatch Plus Packages,suv
+401720096,3.5L V6 6-speed Automatic,"$42,500",Advance Package,suv
+401720092,3.5L V6 AWD 6-speed Automatic,"$44,000",Advance Package,suv
+200729235,3.5L V6 6-speed Automatic,"$50,950",Navigation,sedan
+200729236,3.5L V6 6-speed Automatic,"$54,450",Technology Package,sedan
+200745569,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$59,950",Sport Hybrid SH-AWD w/Technology Package,sedan
+200729234,3.5L V6 6-speed Automatic,"$60,450",Advance Package,sedan
+200745568,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$65,950",Sport Hybrid SH-AWD w/Advance Package,sedan
+401676771,3.5L V6 6-speed Automatic,"$54,450",Technology Package,sedan
+401698556,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$59,950",Sport Hybrid SH-AWD w/Technology Package,sedan
+401676772,3.5L V6 6-speed Automatic,"$60,450",Advance Package,sedan
+401698555,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$65,950",Sport Hybrid SH-AWD w/Advance Package,sedan
+200713717,2.4L 4-cyl. 8-speed Automated Manual,"$27,900",Base,sedan
+200727572,2.4L 4-cyl. 8-speed Automated Manual,"$29,200",AcuraWatch Plus Package,sedan
+200727571,2.4L 4-cyl. 8-speed Automated Manual,"$29,900",Premium Package,sedan
+200727568,2.4L 4-cyl. 8-speed Automated Manual,"$31,890",Premium and A-SPEC Packages,sedan
+200727569,2.4L 4-cyl. 8-speed Automated Manual,"$32,900",Technology Plus Package,sedan
+200727570,2.4L 4-cyl. 8-speed Automated Manual,"$34,890",Technology Plus and A-SPEC Packages,sedan
+401640363,2.4L 4-cyl. 8-speed Automated Manual,"$27,990",Base,sedan
+401640368,2.4L 4-cyl. 8-speed Automated Manual,"$29,290",AcuraWatch Plus Package,sedan
+401640366,2.4L 4-cyl. 8-speed Automated Manual,"$29,990",Premium Package,sedan
+401640365,2.4L 4-cyl. 8-speed Automated Manual,"$31,980",Premium and A-SPEC Packages,sedan
+401640364,2.4L 4-cyl. 8-speed Automated Manual,"$32,990",Technology Plus Package,sedan
+401640367,2.4L 4-cyl. 8-speed Automated Manual,"$34,980",Technology Plus and A-SPEC Packages,sedan
+401583112,2.4L 4-cyl. 8-speed Automated Manual,"$31,695",Base,sedan
+401583111,3.5L V6 9-speed Automatic,"$35,320",Base,sedan
+401583116,2.4L 4-cyl. 8-speed Automated Manual,"$35,750",Technology Package,sedan
+401583113,3.5L V6 9-speed Automatic,"$39,375",Technology Package,sedan
+401583115,3.5L V6 AWD 9-speed Automatic,"$41,575",SH-AWD w/Technology Package,sedan
+401583110,3.5L V6 9-speed Automatic,"$42,600",Advance Package,sedan
+401583114,3.5L V6 AWD 9-speed Automatic,"$44,800",SH-AWD w/Advance Package,sedan
+401658806,2.4L 4-cyl. 8-speed Automated Manual,"$32,000",Base,sedan
+401658808,3.5L V6 9-speed Automatic,"$35,450",Base,sedan
+401658807,2.4L 4-cyl. 8-speed Automated Manual,"$36,050",Technology Package,sedan
+401658805,3.5L V6 9-speed Automatic,"$39,500",Technology Package,sedan
+401658803,3.5L V6 AWD 9-speed Automatic,"$41,700",SH-AWD w/Technology Package,sedan
+401658809,3.5L V6 9-speed Automatic,"$42,700",Advance Package,sedan
+401658804,3.5L V6 AWD 9-speed Automatic,"$44,900",SH-AWD w/Advance Package,sedan
+401715723,2.4L 4-cyl. 8-speed Automated Manual,"$33,000",Base,sedan
+401715726,3.5L V6 9-speed Automatic,"$36,200",Base,sedan
+401715722,2.4L 4-cyl. 8-speed Automated Manual,"$36,700",Technology Package,sedan
+401715745,3.5L V6 AWD 9-speed Automatic,"$38,200",SH-AWD,sedan
+401715720,3.5L V6 9-speed Automatic,"$39,900",Technology Package,sedan
+401715724,3.5L V6 AWD 9-speed Automatic,"$41,900",SH-AWD w/Technology Package,sedan
+401715727,3.5L V6 9-speed Automatic,"$42,800",A-Spec,sedan
+401715725,3.5L V6 9-speed Automatic,"$43,750",Advance Package,sedan
+401715728,3.5L V6 AWD 9-speed Automatic,"$44,800",SH-AWD A-Spec,sedan
+401715721,3.5L V6 AWD 9-speed Automatic,"$45,750",SH-AWD w/Advance Package,sedan
+200745569,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$59,950",Sport Hybrid SH-AWD w/Technology Package,hybrid
+200745568,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$65,950",Sport Hybrid SH-AWD w/Advance Package,hybrid
+401698556,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$59,950",Sport Hybrid SH-AWD w/Technology Package,hybrid
+401698555,3.5L V6 Hybrid AWD 7-speed Automated Manual,"$65,950",Sport Hybrid SH-AWD w/Advance Package,hybrid
+101418796,3.5L V6 Twin-turbo Hybrid AWD 9-speed Automated Manual,"$156,000",Base,coupe
+200726801,3.5L V6 9-speed Automatic,"$43,015",Base,suv
+200726809,3.5L V6 9-speed Automatic,"$44,515",AcuraWatch Plus Package,suv
+200726804,3.5L V6 AWD 9-speed Automatic,"$45,015",SH-AWD,suv
+200726813,3.5L V6 AWD 9-speed Automatic,"$46,515",SH-AWD w/AcuraWatch Plus Package,suv
+200726807,3.5L V6 9-speed Automatic,"$47,440",Technology Package,suv
+200726810,3.5L V6 9-speed Automatic,"$48,640",Technology and AcuraWatch Plus Packages,suv
+200726806,3.5L V6 9-speed Automatic,"$49,440",Technology and Entertainment Packages,suv
+200726803,3.5L V6 AWD 9-speed Automatic,"$49,440",SH-AWD w/Technology Package,suv
+200726811,3.5L V6 9-speed Automatic,"$50,640","Technology, Entertainment and AcuraWatch Plus Packages",suv
+200726814,3.5L V6 AWD 9-speed Automatic,"$50,640",SH-AWD w/Technology and AcuraWatch Plus Packages,suv
+200726802,3.5L V6 AWD 9-speed Automatic,"$51,440",SH-AWD w/Technology and Entertainment Packages,suv
+200726816,3.5L V6 AWD 9-speed Automatic,"$52,640","SH-AWD w/Technology, Entertainment and AcuraWatch Plus Packages",suv
+200726812,3.5L V6 9-speed Automatic,"$53,230",Advance Package,suv
+200726805,3.5L V6 9-speed Automatic,"$55,230",Advance and Entertainment Packages,suv
+200726818,3.5L V6 AWD 9-speed Automatic,"$55,230",SH-AWD w/Advance Package,suv
+200726808,3.5L V6 AWD 9-speed Automatic,"$57,230",SH-AWD w/Advance and Entertainment Packages,suv
+200781962,3.5L V6 9-speed Automatic,"$44,050",Base,suv
+401650136,3.5L V6 AWD 9-speed Automatic,"$46,050",SH-AWD,suv
+401650134,3.5L V6 9-speed Automatic,"$48,460",Technology Package,suv
+401650135,3.5L V6 9-speed Automatic,"$50,460",Technology and Entertainment Packages,suv
+401650131,3.5L V6 AWD 9-speed Automatic,"$50,460",SH-AWD w/Technology Package,suv
+401707619,3.0L V6 Hybrid AWD 7-speed Automated Manual,"$51,960",Sport Hybrid SH-AWD w/Technology Package,suv
+401650132,3.5L V6 AWD 9-speed Automatic,"$52,460",SH-AWD w/Technology and Entertainment Packages,suv
+401650139,3.5L V6 9-speed Automatic,"$54,500",Advance Package,suv
+401650137,3.5L V6 9-speed Automatic,"$56,500",Advance and Entertainment Packages,suv
+401650133,3.5L V6 AWD 9-speed Automatic,"$56,500",SH-AWD w/Advance Package,suv
+401707620,3.0L V6 Hybrid AWD 7-speed Automated Manual,"$58,000",Sport Hybrid SH-AWD w/Advance Package,suv
+401650138,3.5L V6 AWD 9-speed Automatic,"$58,500",SH-AWD w/Advance and Entertainment Packages,suv
+401707619,3.0L V6 Hybrid AWD 7-speed Automated Manual,"$51,960",Sport Hybrid SH-AWD w/Technology Package,hybrid
+401707620,3.0L V6 Hybrid AWD 7-speed Automated Manual,"$58,000",Sport Hybrid SH-AWD w/Advance Package,hybrid
+401703666,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$240,300",GT Speed,gt-speed
+401703667,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$264,300",GT Speed,gt-speed
+401648550,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$218,400",V8,convertible
+401648549,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$231,800",V8 S,convertible
+401648548,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$236,100",Base,convertible
+401648546,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$263,400",Speed,convertible
+401703682,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$293,300",Supersports,supersports
+401703681,6.0L W12 Twin-turbo AWD 8-speed Automatic,"$322,600",Supersports,supersports
+401648552,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$210,700",V8 S,v8-s
+401648549,4.0L V8 Twin-turbo AWD 8-speed Automatic,"$231,800",V8 S,v8-s
+200744833,3.3L V6 6-speed Automatic,"$30,400",SE,suv
+200744834,3.3L V6 AWD 6-speed Automatic,"$32,150",SE,suv
+200744832,3.3L V6 6-speed Automatic,"$34,500",Limited,suv
+200744831,3.3L V6 AWD 6-speed Automatic,"$36,250",Limited,suv
+401628708,3.3L V6 6-speed Automatic,"$30,800",SE,suv
+401628705,3.3L V6 AWD 6-speed Automatic,"$32,550",SE,suv
+401628706,3.3L V6 6-speed Automatic,"$34,950",Limited,suv
+401628707,3.3L V6 AWD 6-speed Automatic,"$36,700",Limited,suv
+401628714,3.3L V6 6-speed Automatic,"$38,700",Ultimate,suv
+401628712,3.3L V6 6-speed Automatic,"$39,400",Limited Ultimate,suv
+401628713,3.3L V6 AWD 6-speed Automatic,"$40,450",Ultimate,suv
+401628711,3.3L V6 AWD 6-speed Automatic,"$41,150",Limited Ultimate,suv
+200759753,1.6L 4-cyl. 6-speed Manual,"$14,745",SE,sedan
+200759756,1.6L 4-cyl. 6-speed Automatic,"$15,745",SE,sedan
+200736737,2.4L 4-cyl. 6-speed Automatic,"$24,950",Base,suv
+200736738,2.4L 4-cyl. AWD 6-speed Automatic,"$26,700",Base,suv
+200736735,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,250",2.0T,suv
+200736736,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,000",2.0T,suv
+401627424,2.4L 4-cyl. 6-speed Automatic,"$25,350",Base,suv
+401627423,2.4L 4-cyl. AWD 6-speed Automatic,"$27,100",Base,suv
+401627426,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,700",2.0T,suv
+401627425,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,450",2.0T,suv
+401627464,2.0L 4-cyl. Turbo 6-speed Automatic,"$36,500",2.0T Ultimate,suv
+401627463,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$38,250",2.0T Ultimate,suv
+401717801,2.4L 4-cyl. 6-speed Automatic,"$24,950",Base,suv
+401717803,2.4L 4-cyl. AWD 6-speed Automatic,"$26,500",Base,suv
+401717802,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,350",2.0T,suv
+401717800,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$32,900",2.0T,suv
+401717804,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,650",2.0T Ultimate,suv
+401717799,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,200",2.0T Ultimate,suv
+200759754,1.6L 4-cyl. 6-speed Manual,"$14,995",SE,hatchback
+200759751,1.6L 4-cyl. 6-speed Automatic,"$16,195",SE,hatchback
+200759752,1.6L 4-cyl. 6-speed Manual,"$16,495",Sport,hatchback
+200759755,1.6L 4-cyl. 6-speed Automatic,"$17,495",Sport,hatchback
+401644247,3.0L V6 Supercharger AWD 7-speed Automated Manual,"$61,100",quattro,convertible
+401706102,3.0L V6 Turbo AWD 8-speed Automatic,"$62,300",Premium Plus quattro,convertible
+401706101,3.0L V6 Turbo AWD 8-speed Automatic,"$66,700",Prestige quattro,convertible
+200737511,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$85,200",L TDI quattro,diesel
+200737130,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$48,100",TDI Premium Plus quattro,diesel
+200737972,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$50,200",TDI Premium Plus S Line quattro,diesel
+200737131,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$55,600",TDI Prestige quattro,diesel
+200737973,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$57,700",TDI Prestige S Line quattro,diesel
+401630685,6.6L V12 Twin-turbo 8-speed Automatic,"$295,850",Base,sedan
+401630686,6.6L V12 Twin-turbo 8-speed Automatic,"$329,325",EWB,sedan
+401702867,6.6L V12 Twin-turbo 8-speed Automatic,"$305,800",Base,sedan
+401702868,6.6L V12 Twin-turbo 8-speed Automatic,"$339,775",EWB,sedan
+401627842,6.7L V12 8-speed Automatic,"$449,525",Base,coupe
+401631106,6.7L V12 8-speed Automatic,"$492,000",Base,convertible
+401704878,6.7L V12 8-speed Automatic,"$492,000",Base,convertible
+401629389,6.6L V12 Twin-turbo 8-speed Automatic,"$304,350",Base,coupe
+401701756,6.6L V12 Twin-turbo 8-speed Automatic,"$315,700",Base,coupe
+401700155,6.6L V12 Twin-turbo 8-speed Automatic,"$341,125",Base,convertible
+401629132,6.7L V12 8-speed Automatic,"$417,825",Base,sedan
+401629133,6.7L V12 8-speed Automatic,"$492,425",EWB,sedan
+401660858,5.3L V8 FFV 6-speed Automatic,"$51,230",SLE,suv
+401660854,5.3L V8 FFV 4x4 6-speed Automatic,"$54,230",SLE,suv
+401660855,5.3L V8 FFV 6-speed Automatic,"$60,015",SLT,suv
+401660856,5.3L V8 FFV 4x4 6-speed Automatic,"$63,015",SLT,suv
+401660857,6.2L V8 8-speed Automatic,"$68,665",Denali,suv
+401660859,6.2L V8 4x4 8-speed Automatic,"$71,665",Denali,suv
+401575446,2.5L 4-cyl. 6-speed Manual 6.2 ft. Bed,"$20,955",SL,extended-cab
+401575447,2.5L 4-cyl. 6-speed Manual 6.2 ft. Bed,"$23,310",Base,extended-cab
+401575449,2.5L 4-cyl. 6-speed Automatic 6.2 ft. Bed,"$27,305",SLE,extended-cab
+401575456,2.5L 4-cyl. 4x4 6-speed Automatic 6.2 ft. Bed,"$28,595",Base,extended-cab
+401575458,3.6L V6 6-speed Automatic 6.2 ft. Bed,"$31,540",SLT,extended-cab
+401575452,2.5L 4-cyl. 4x4 6-speed Automatic 6.2 ft. Bed,"$31,855",SLE,extended-cab
+401575459,3.6L V6 4x4 6-speed Automatic 6.2 ft. Bed,"$35,665",SLT,extended-cab
+401613837,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$37,960",Base,double-cab
+401613813,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$38,255",Base,double-cab
+401613839,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$40,915",Base,double-cab
+401613814,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$41,210",Base,double-cab
+401613838,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$43,080",SLE,double-cab
+401613812,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$43,990",SLE,double-cab
+401613832,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$46,330",SLE,double-cab
+401613821,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$47,240",SLE,double-cab
+401613828,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$47,875",SLT,double-cab
+401613831,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$47,975",SLT,double-cab
+401613835,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,025",SLT,double-cab
+401613819,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,125",SLT,double-cab
+401701301,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$38,415",Base,double-cab
+401701302,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$38,710",Base,double-cab
+401701303,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$41,370",Base,double-cab
+401701304,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$41,665",Base,double-cab
+401701321,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$43,535",SLE,double-cab
+401701324,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$44,445",SLE,double-cab
+401701323,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$46,785",SLE,double-cab
+401701322,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$47,695",SLE,double-cab
+401701370,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$48,330",SLT,double-cab
+401701368,6.0L V8 FFV 6-speed Automatic 8.2 ft. Bed,"$48,510",SLT,double-cab
+401701365,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,480",SLT,double-cab
+401701366,6.0L V8 FFV 4x4 6-speed Automatic 8.2 ft. Bed,"$51,660",SLT,double-cab
+401626000,6.6L V8 Turbo Diesel 6-speed Automatic,"$48,225",LS 3500,diesel
+401625995,6.6L V8 Turbo Diesel 6-speed Automatic,"$49,655",LT 3500,diesel
+401625997,6.6L V8 Turbo Diesel 6-speed Automatic,"$50,095",LS 3500,diesel
+401625999,6.6L V8 Turbo Diesel 6-speed Automatic,"$50,440",LT 3500,diesel
+200743771,2.0L 4-cyl. 6-speed Manual,"$18,545",i Sport,hatchback
+200743779,2.0L 4-cyl. 6-speed Automatic,"$19,595",i Sport,hatchback
+200743768,2.0L 4-cyl. 6-speed Manual,"$20,745",i Touring,hatchback
+200743769,2.0L 4-cyl. 6-speed Automatic,"$21,795",i Touring,hatchback
+200743778,2.0L 4-cyl. 6-speed Manual,"$23,245",i Grand Touring,hatchback
+200743773,2.0L 4-cyl. 6-speed Automatic,"$24,295",i Grand Touring,hatchback
+200743783,2.5L 4-cyl. 6-speed Manual,"$25,445",s Grand Touring,hatchback
+200743774,2.5L 4-cyl. 6-speed Automatic,"$25,495",s Touring,hatchback
+200743782,2.5L 4-cyl. 6-speed Automatic,"$26,495",s Grand Touring,hatchback
+401676811,2.0L 4-cyl. 6-speed Manual,"$19,095",Sport,hatchback
+401676806,2.0L 4-cyl. 6-speed Automatic,"$20,145",Sport,hatchback
+401676812,2.0L 4-cyl. 6-speed Automatic,"$22,245",Touring,hatchback
+401676808,2.5L 4-cyl. 6-speed Manual,"$22,395",Touring 2.5,hatchback
+401676807,2.5L 4-cyl. 6-speed Automatic,"$23,445",Touring 2.5,hatchback
+401676803,2.5L 4-cyl. 6-speed Manual,"$23,895",Grand Touring,hatchback
+401676804,2.5L 4-cyl. 6-speed Automatic,"$24,945",Grand Touring,hatchback
+401721589,2.0L 4-cyl. 6-speed Manual,"$19,345",Sport,hatchback
+401721584,2.0L 4-cyl. 6-speed Automatic,"$20,395",Sport,hatchback
+401721586,2.5L 4-cyl. 6-speed Manual,"$20,840",Touring,hatchback
+401721585,2.5L 4-cyl. 6-speed Automatic,"$21,890",Touring,hatchback
+401721581,2.5L 4-cyl. 6-speed Manual,"$23,895",Grand Touring,hatchback
+401721582,2.5L 4-cyl. 6-speed Automatic,"$24,945",Grand Touring,hatchback
+200725146,4.5L V8 7-speed Automated Manual,"$263,553",Spider,convertible
+200725169,3.9L V8 Twin-turbo 7-speed Automated Manual,"$198,973",Base,convertible
+401714214,3.9L V8 Twin-turbo 7-speed Automated Manual,"$198,973",Base,convertible
+200736668,1.6L 4-cyl. 6-speed Manual,"$22,750",Base,wagon
+200736669,1.6L 4-cyl. Turbo 6-speed Manual,"$26,100",S,wagon
+200736670,1.6L 4-cyl. Turbo AWD 6-speed Manual,"$27,850",S ALL4,wagon
+200736671,1.6L 4-cyl. Turbo AWD 6-speed Manual,"$35,350",John Cooper Works ALL4,wagon
+401658061,1.5L 3-cyl. Turbo 6-speed Manual,"$20,950",Cooper,hatchback
+401658063,2.0L 4-cyl. Turbo 6-speed Manual,"$24,400",Cooper S,hatchback
+401658062,2.0L 4-cyl. Turbo 6-speed Manual,"$30,900",John Cooper Works,hatchback
+200738854,2.0L 4-cyl. Turbo 6-speed Manual,"$30,600",John Cooper Works,john-cooper-works
+401655079,2.0L 4-cyl. Turbo 6-speed Manual,"$35,600",John Cooper Works,john-cooper-works
+200736671,1.6L 4-cyl. Turbo AWD 6-speed Manual,"$35,350",John Cooper Works ALL4,john-cooper-works-all4
+401658064,1.5L 3-cyl. Turbo 6-speed Manual,"$21,950",Cooper,hatchback
+401658065,2.0L 4-cyl. Turbo 6-speed Manual,"$25,400",Cooper S,hatchback
+401703043,2.0L 4-cyl. Turbo AWD 6-speed Manual,"$35,100",John Cooper Works ALL4,john-cooper-works-all4
+401704161,3.8L V8 Twin-turbo 7-speed Automated Manual,"$349,500",Base,coupe
+401690954,2.0L 4-cyl. 6-speed Automatic,"$18,200",LX,hatchback
+401690955,2.0L 4-cyl. 6-speed Automatic,"$22,100",EX,hatchback
+401690957,1.6L 4-cyl. Turbo 7-speed Automated Manual,"$23,800",SX,hatchback
+401690956,1.6L 4-cyl. Turbo 6-speed Manual,"$26,000",SX,hatchback
+401612190,3.8L V6 8-speed Automatic,"$49,000",Premium,sedan
+401612195,3.8L V6 8-speed Automatic,"$54,900",Luxury,sedan
+401612191,5.0L V8 8-speed Automatic,"$61,900",Luxury,sedan
+401695451,3.8L V6 8-speed Automatic,"$49,900",Premium,sedan
+401695449,3.8L V6 8-speed Automatic,"$54,900",Luxury,sedan
+401695450,5.0L V8 8-speed Automatic,"$61,900",Luxury,sedan
+401597526,2.4L 4-cyl. Hybrid 6-speed Automatic,"$25,995",Base,sedan
+401597527,2.4L 4-cyl. Hybrid 6-speed Automatic,"$32,195",EX,sedan
+200740596,3.6L V6 6-speed Automatic,"$39,065",Convenience Group,suv
+200740593,3.6L V6 6-speed Automatic,"$43,660",Leather Group,suv
+200740594,3.6L V6 AWD 6-speed Automatic,"$45,660",Leather Group,suv
+200740595,3.6L V6 6-speed Automatic,"$47,515",Premium Group,suv
+200740592,3.6L V6 AWD 6-speed Automatic,"$49,515",Premium Group,suv
+200732910,3.6L V6 6-speed Automatic,"$39,065",Convenience Group,suv
+401640690,3.6L V6 6-speed Automatic,"$43,765",Leather Group,suv
+401640691,3.6L V6 AWD 6-speed Automatic,"$45,765",Leather Group,suv
+401640688,3.6L V6 6-speed Automatic,"$47,625",Premium Group,suv
+401640689,3.6L V6 AWD 6-speed Automatic,"$49,625",Premium Group,suv
+401721484,3.6L V6 9-speed Automatic,"$39,995",Base,suv
+401721482,3.6L V6 9-speed Automatic,"$44,215",Essence,suv
+401721485,3.6L V6 AWD 9-speed Automatic,"$46,215",Essence,suv
+401721488,3.6L V6 9-speed Automatic,"$48,015",Premium,suv
+401721483,3.6L V6 AWD 9-speed Automatic,"$50,315",Premium,suv
+401721487,3.6L V6 9-speed Automatic,"$53,415",Avenir,suv
+401721486,3.6L V6 AWD 9-speed Automatic,"$55,715",Avenir,suv
+200733188,2.5L 4-cyl. Turbo AWD 6-speed Manual,"$34,695",STI,sti
+401645643,2.5L 4-cyl. Turbo AWD 6-speed Manual,"$35,195",STI,sti
+401710445,2.5L 4-cyl. Turbo AWD 6-speed Manual,"$36,095",STI,sti
+401631622,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$32,495",Cargo,van
+401706651,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$32,495",144 WB Cargo,van
+401706661,3.0L V6 Turbo Diesel 5-speed Automatic,"$33,995",144 WB Cargo,van
+401706666,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic w/High Roof,"$37,295",170 WB Cargo,van
+401706667,3.0L V6 Turbo Diesel 5-speed Automatic w/High Roof,"$38,795",170 WB Cargo,van
+401700336,2.0L 4-cyl. Turbo Hybrid 7-speed Automatic,"$45,490",C 350e,hybrid
+401700337,2.0L 4-cyl. Turbo Hybrid 7-speed Automatic,"$45,815",C 350e Luxury,hybrid
+200741197,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$143,250",S 63 AMG 4MATIC,s-63-amg-4matic
+200741195,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$163,150",S 63 AMG 4MATIC,s-63-amg-4matic
+200732930,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$52,650",E 250 Sport BlueTEC,sedan
+200732931,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$52,650",E 250 Luxury BlueTEC,sedan
+200732932,3.5L V6 7-speed Automatic,"$53,100",E 350 Sport,sedan
+200732937,3.5L V6 7-speed Automatic,"$53,100",E 350 Luxury,sedan
+200732936,2.1L 4-cyl. Twin-turbo Diesel AWD 7-speed Automatic,"$55,150",E 250 Luxury BlueTEC 4MATIC,sedan
+200732938,2.1L 4-cyl. Twin-turbo Diesel AWD 7-speed Automatic,"$55,150",E 250 Sport BlueTEC 4MATIC,sedan
+200732935,3.5L V6 AWD 7-speed Automatic,"$55,600",E 350 Sport 4MATIC,sedan
+200732940,3.5L V6 AWD 7-speed Automatic,"$55,600",E 350 Luxury 4MATIC,sedan
+200732943,3.0L V6 Twin-turbo 7-speed Automatic,"$63,100",E 400,sedan
+200732942,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$65,600",E 400 4MATIC,sedan
+200732934,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$101,700",AMG E 63 4MATIC S-Model,sedan
+401657388,2.0L 4-cyl. Turbo 9-speed Automatic,"$52,150",E 300 Sport,sedan
+401657774,2.0L 4-cyl. Turbo 9-speed Automatic,"$52,150",E 300 Luxury,sedan
+401626402,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$54,650",E 300 Sport 4MATIC,sedan
+401657775,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$54,650",E 300 Luxury 4MATIC,sedan
+401699147,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$72,400",AMG E 43 4MATIC,sedan
+200748639,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$107,100",AMG GLE 63 S 4MATIC,amg-gle-63-s-4matic
+401660739,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$108,840",AMG GLE 63 S 4MATIC,amg-gle-63-s-4matic
+200745345,2.0L 4-cyl. Turbo 9-speed Automatic,"$47,000",SLK 300,convertible
+200745347,3.5L V6 7-speed Automatic,"$59,200",SLK 350,convertible
+200745346,5.5L V8 7-speed Automatic,"$72,600",AMG SLK 55,convertible
+401638667,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$45,950",GLC 300 4MATIC,suv
+401719885,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$59,650",AMG GLC 43,suv
+200732930,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$52,650",E 250 Sport BlueTEC,diesel
+200732931,2.1L 4-cyl. Twin-turbo Diesel 7-speed Automatic,"$52,650",E 250 Luxury BlueTEC,diesel
+200732936,2.1L 4-cyl. Twin-turbo Diesel AWD 7-speed Automatic,"$55,150",E 250 Luxury BlueTEC 4MATIC,diesel
+200732938,2.1L 4-cyl. Twin-turbo Diesel AWD 7-speed Automatic,"$55,150",E 250 Sport BlueTEC 4MATIC,diesel
+401597155,6.0L V12 Twin-turbo 4x4 7-speed Automatic,"$217,900",AMG G 65,amg-g-65
+401695063,6.0L V12 Twin-turbo 4x4 7-speed Automatic,"$220,400",AMG G 65,amg-g-65
+200735311,3.0L V6 Twin-turbo 7-speed Automatic,"$62,250",E 400,convertible
+200735310,4.7L V8 Twin-turbo 7-speed Automatic,"$68,700",E 550,convertible
+401657387,3.0L V6 Twin-turbo 7-speed Automatic,"$62,600",E 400,convertible
+401657386,4.7L V8 Twin-turbo 7-speed Automatic,"$69,100",E 550,convertible
+401641438,3.0L V6 Turbo Diesel AWD 9-speed Automatic,"$67,050",GLS 350d 4MATIC,suv
+401641439,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$68,700",GLS 450 4MATIC,suv
+401641436,4.7L V8 Twin-turbo AWD 9-speed Automatic,"$93,850",GLS 550 4MATIC,suv
+401641437,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$124,100",GLS 63 AMG,suv
+200741198,4.7L V8 Twin-turbo AWD 7-speed Automatic,"$121,550",S 550 4MATIC,coupe
+200741195,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$163,150",S 63 AMG 4MATIC,coupe
+200741196,6.0L V12 Twin-turbo 7-speed Automatic,"$234,050",S 65 AMG,coupe
+401694833,4.7L V8 Twin-turbo AWD 9-speed Automatic,"$122,750",S 550 4MATIC,coupe
+401694832,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$164,750",AMG S 63 4MATIC,coupe
+401694834,6.0L V12 Twin-turbo 7-speed Automatic,"$236,250",AMG S 65,coupe
+200732532,3.0L V6 Turbo Diesel AWD 7-speed Automatic,"$63,600",GL 350 BlueTEC 4MATIC,diesel
+200732534,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$119,450",GL 63 AMG,gl-63-amg
+401597612,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$49,580",AMG GLA 45 4MATIC,amg-gla-45-4matic
+401660457,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$49,900",AMG GLA 45 4MATIC,amg-gla-45-4matic
+401709812,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$50,600",AMG GLA 45 4MATIC,amg-gla-45-4matic
+401723789,4.0L V8 Twin-turbo 7-speed Automated Manual,"$124,400",Base,convertible
+401723788,4.0L V8 Twin-turbo 7-speed Automated Manual,"$157,000",C,convertible
+200773062,2.0L 4-cyl. Turbo 7-speed Automatic,"$38,950",C 300,sedan
+200773061,2.0L 4-cyl. Turbo 7-speed Automatic,"$39,275",C 300 Luxury,sedan
+200773065,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$40,950",C 300 4MATIC,sedan
+200773064,2.0L 4-cyl. Turbo 7-speed Automatic,"$41,125",C 300 Sport,sedan
+200773066,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$41,275",C 300 Luxury 4MATIC,sedan
+200773063,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$43,125",C 300 Sport 4MATIC,sedan
+401700336,2.0L 4-cyl. Turbo Hybrid 7-speed Automatic,"$45,490",C 350e,sedan
+401700337,2.0L 4-cyl. Turbo Hybrid 7-speed Automatic,"$45,815",C 350e Luxury,sedan
+200773058,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$50,800",C 450 AMG 4MATIC,sedan
+200773060,4.0L V8 Twin-turbo 7-speed Automatic,"$65,250",AMG C 63,sedan
+200773059,4.0L V8 Twin-turbo 7-speed Automatic,"$73,250",AMG C 63 S,sedan
+401676379,2.0L 4-cyl. Turbo 7-speed Automatic,"$39,500",C 300,sedan
+401676380,2.0L 4-cyl. Turbo 7-speed Automatic,"$39,850",C 300 Luxury,sedan
+401676383,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$41,500",C 300 4MATIC,sedan
+401676384,2.0L 4-cyl. Turbo 7-speed Automatic,"$41,675",C 300 Sport,sedan
+401676382,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$41,850",C 300 Luxury 4MATIC,sedan
+401676378,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$43,675",C 300 Sport 4MATIC,sedan
+401676377,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$52,000",AMG C 43,sedan
+401676381,4.0L V8 Twin-turbo 7-speed Automatic,"$65,200",AMG C 63,sedan
+401676376,4.0L V8 Twin-turbo 7-speed Automatic,"$72,800",AMG C 63 S,sedan
+401641437,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$124,100",GLS 63 AMG,gls-63-amg
+200739149,6.0L V12 Twin-turbo 7-speed Automatic,"$217,550",SL 65 AMG,sl-65-amg
+401655570,6.0L V12 Twin-turbo 7-speed Automatic,"$219,850",SL 65 AMG,sl-65-amg
+200741199,3.0L V6 Turbo Hybrid 7-speed Automatic,"$95,650",S 550 Plug-In HYBRID,sedan
+200713464,4.7L V8 Twin-turbo 7-speed Automatic,"$95,650",S 550,sedan
+200741193,4.7L V8 Twin-turbo AWD 7-speed Automatic,"$98,650",S 550 4MATIC,sedan
+200741197,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$143,250",S 63 AMG 4MATIC,sedan
+200741201,6.0L V12 Twin-turbo 7-speed Automatic,"$169,050",S 600,sedan
+200741200,6.0L V12 Twin-turbo 7-speed Automatic,"$224,650",S 65 AMG,sedan
+401664646,3.0L V6 Turbo Hybrid 7-speed Automatic,"$96,600",S 550e Plug-In Hybrid,sedan
+401664648,4.7L V8 Twin-turbo 9-speed Automatic,"$96,600",S 550,sedan
+401664645,4.7L V8 Twin-turbo AWD 9-speed Automatic,"$99,600",S 550 4MATIC,sedan
+401664647,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$144,700",AMG S 63,sedan
+401664650,6.0L V12 Twin-turbo 7-speed Automatic,"$170,750",S 600,sedan
+401664649,6.0L V12 Twin-turbo 7-speed Automatic,"$226,900",AMG S 65,sedan
+401583434,2.5L 4-cyl. Hybrid CVT Automatic,"$36,650",XLE Plus,sedan
+401583432,2.5L 4-cyl. Hybrid CVT Automatic,"$38,100",XLE Premium,sedan
+401583433,2.5L 4-cyl. Hybrid CVT Automatic,"$41,950",Limited,sedan
+200771505,5.7L V8 6-speed Automatic 8.1 ft. Bed,"$29,950",SR,regular-cab
+200771506,5.7L V8 FFV 6-speed Automatic 8.1 ft. Bed,"$29,950",SR FFV,regular-cab
+200771504,5.7L V8 4x4 6-speed Automatic 8.1 ft. Bed,"$33,000",SR,regular-cab
+200771503,5.7L V8 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$33,000",SR FFV,regular-cab
+401671541,5.7L V8 6-speed Automatic 8.1 ft. Bed,"$30,500",SR,regular-cab
+401671542,5.7L V8 FFV 6-speed Automatic 8.1 ft. Bed,"$30,500",SR FFV,regular-cab
+401671598,5.7L V8 4x4 6-speed Automatic 8.1 ft. Bed,"$33,550",SR,regular-cab
+401671599,5.7L V8 FFV 4x4 6-speed Automatic 8.1 ft. Bed,"$33,550",SR FFV,regular-cab
+401664649,6.0L V12 Twin-turbo 7-speed Automatic,"$226,900",AMG S 65,amg-s-65
+401694834,6.0L V12 Twin-turbo 7-speed Automatic,"$236,250",AMG S 65,amg-s-65
+401661643,6.0L V12 Twin-turbo 7-speed Automatic,"$247,900",AMG S 65,amg-s-65
+200700835,4.0L V8 Twin-turbo 7-speed Automated Manual,"$129,900",S,coupe
+401665348,4.0L V8 Twin-turbo 7-speed Automatic,"$111,200",Base,coupe
+401665250,4.0L V8 Twin-turbo 7-speed Automatic,"$131,200",S,coupe
+401723396,4.0L V8 Twin-turbo 7-speed Automated Manual,"$112,400",Base,coupe
+401723397,4.0L V8 Twin-turbo 7-speed Automated Manual,"$132,400",S,coupe
+401723527,4.0L V8 Twin-turbo 7-speed Automated Manual,"$157,000",R,coupe
+401661373,3.0L V6 Twin-turbo 9-speed Automatic,"$60,300",AMG SLC 43,amg-slc-43
+401704876,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$67,150",AMG GLE 43 4MATIC,amg-gle-43-4matic
+200739148,3.0L V6 Twin-turbo 7-speed Automatic,"$85,050",SL 400,convertible
+200739151,4.7L V8 Twin-turbo 7-speed Automatic,"$108,050",SL 550,convertible
+200739150,5.5L V8 Twin-turbo 7-speed Automatic,"$149,700",SL 63 AMG,convertible
+200739149,6.0L V12 Twin-turbo 7-speed Automatic,"$217,550",SL 65 AMG,convertible
+401655569,3.0L V6 Twin-turbo 9-speed Automatic,"$86,950",SL 450,convertible
+401655568,4.7L V8 Twin-turbo 9-speed Automatic,"$110,800",SL 550,convertible
+401655567,5.5L V8 Twin-turbo 7-speed Automatic,"$151,350",SL 63 AMG,convertible
+401655570,6.0L V12 Twin-turbo 7-speed Automatic,"$219,850",SL 65 AMG,convertible
+401598101,0-cyl. Electric 1-speed Direct Drive,"$41,450",B 250e,hatchback
+401667830,0-cyl. Electric 1-speed Direct Drive,"$39,900",B 250e,hatchback
+401677803,2.0L 4-cyl. Turbo 9-speed Automatic,"$50,900",C 300,convertible
+401677807,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$52,900",C 300 4MATIC,convertible
+401677804,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$60,400",AMG C 43,convertible
+401677805,4.0L V8 Twin-turbo 7-speed Automatic,"$72,850",AMG C 63,convertible
+401677806,4.0L V8 Twin-turbo 7-speed Automatic,"$80,850",AMG C 63 S,convertible
+200732934,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$101,700",AMG E 63 4MATIC S-Model,amg-e-63-4matic-s-model
+200732933,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$104,300",AMG E 63 4MATIC S-Model,amg-e-63-4matic-s-model
+200732939,3.5L V6 AWD 7-speed Automatic,"$59,900",E 350 Luxury 4MATIC,wagon
+200732941,3.5L V6 AWD 7-speed Automatic,"$59,900",E 350 Sport 4MATIC,wagon
+200732933,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$104,300",AMG E 63 4MATIC S-Model,wagon
+401706108,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$62,300",E 400 Luxury 4MATIC,wagon
+401706109,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$62,300",E 400 Sport 4MATIC,wagon
+200749717,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$65,100",GLE 450 AMG 4MATIC,suv
+200749716,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$109,300",AMG GLE 63 S 4MATIC,suv
+401661207,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$69,650",AMG GLE 43 4MATIC,suv
+401661208,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$110,650",AMG GLE 63 S 4MATIC,suv
+401724792,2.0L 4-cyl. AWD 5-speed Manual,"$18,995",2.0i,hatchback
+401724793,2.0L 4-cyl. AWD CVT Automatic,"$19,995",2.0i,hatchback
+401724797,2.0L 4-cyl. AWD CVT Automatic,"$21,795",2.0i Premium,hatchback
+401724798,2.0L 4-cyl. AWD 5-speed Manual,"$22,595",2.0i Sport,hatchback
+401724800,2.0L 4-cyl. AWD CVT Automatic,"$23,395",2.0i Sport,hatchback
+401724799,2.0L 4-cyl. AWD CVT Automatic,"$24,695",2.0i Limited,hatchback
+200745101,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$35,550",Tradesman,crew-cab
+200745102,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$35,750",Tradesman,crew-cab
+200745103,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$38,610",Tradesman,crew-cab
+200745104,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$38,810",Tradesman,crew-cab
+200745298,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$39,975",SLT,crew-cab
+200745301,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$40,175",SLT,crew-cab
+200745299,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$41,855",Big Horn,crew-cab
+200745300,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$41,855",Lone Star,crew-cab
+200745302,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,055",Big Horn,crew-cab
+200745303,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,055",Lone Star,crew-cab
+200745549,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$43,345",SLT,crew-cab
+200745553,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$43,545",SLT,crew-cab
+200745550,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,225",Big Horn,crew-cab
+200745551,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,225",Lone Star,crew-cab
+200745554,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,425",Big Horn,crew-cab
+200745555,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,425",Lone Star,crew-cab
+200745552,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$46,220",Outdoorsman,crew-cab
+200745556,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$46,420",Outdoorsman,crew-cab
+200745311,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$46,440",Laramie,crew-cab
+200745105,6.4L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$46,560",Tradesman Power Wagon,crew-cab
+200745312,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$46,640",Laramie,crew-cab
+200745313,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$50,130",Laramie,crew-cab
+401678360,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$35,745",Tradesman,crew-cab
+401678361,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$35,945",Tradesman,crew-cab
+401678364,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$38,545",Tradesman,crew-cab
+401678365,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$38,745",Tradesman,crew-cab
+401678478,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$40,845",SLT,crew-cab
+401678479,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$41,045",SLT,crew-cab
+401678303,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$42,725",Big Horn,crew-cab
+401678306,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$42,725",Lone Star,crew-cab
+401678307,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,925",Lone Star,crew-cab
+401678308,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,925",Big Horn,crew-cab
+401678473,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$43,645",SLT,crew-cab
+401678480,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$43,845",SLT,crew-cab
+401678297,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,525",Big Horn,crew-cab
+401678298,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,525",Lone Star,crew-cab
+401678304,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,725",Lone Star,crew-cab
+401678305,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,725",Big Horn,crew-cab
+401678362,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$47,645",Laramie,crew-cab
+401678363,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$47,845",Laramie,crew-cab
+401678366,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$50,845",Laramie,crew-cab
+401678368,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$51,045",Laramie,crew-cab
+401630231,6.4L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$51,695",Power Wagon,crew-cab
+401678355,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$54,375",Longhorn,crew-cab
+200743941,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$36,140",Tradesman,crew-cab
+200743945,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$36,340",Tradesman,crew-cab
+200743969,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$39,475",Tradesman,crew-cab
+200743970,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$39,675",Tradesman,crew-cab
+200743946,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$41,005",SLT,crew-cab
+200743949,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$41,205",SLT,crew-cab
+200743947,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$42,485",Big Horn,crew-cab
+200743948,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$42,485",Lone Star,crew-cab
+200743950,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,685",Big Horn,crew-cab
+200743951,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,685",Lone Star,crew-cab
+200743971,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$44,040",SLT,crew-cab
+200743990,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$44,240",SLT,crew-cab
+200743972,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,520",Big Horn,crew-cab
+200743973,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$45,520",Lone Star,crew-cab
+200743992,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,720",Big Horn,crew-cab
+200743993,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$45,720",Lone Star,crew-cab
+200743952,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$47,420",Laramie,crew-cab
+200743963,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$47,620",Laramie,crew-cab
+200743994,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$50,855",Laramie,crew-cab
+200743995,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$51,055",Laramie,crew-cab
+200743964,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$53,390",Longhorn,crew-cab
+200743967,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$53,590",Longhorn,crew-cab
+401691244,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$36,845",Tradesman,crew-cab
+401691245,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$37,045",Tradesman,crew-cab
+401691246,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$39,645",Tradesman,crew-cab
+401691247,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$39,845",Tradesman,crew-cab
+401691079,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$41,945",SLT,crew-cab
+401691078,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$42,145",SLT,crew-cab
+401691486,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$43,825",Lone Star,crew-cab
+401691492,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$43,825",Big Horn,crew-cab
+401691487,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$44,025",Lone Star,crew-cab
+401691488,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$44,025",Big Horn,crew-cab
+401691077,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$44,745",SLT,crew-cab
+401691076,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$44,945",SLT,crew-cab
+401691483,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$46,625",Lone Star,crew-cab
+401691484,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$46,625",Big Horn,crew-cab
+401582308,2.4L 4-cyl. 9-speed Automatic,"$23,445",Tradesman Cargo,minivan
+401582307,2.4L 4-cyl. 9-speed Automatic,"$24,445",Wagon,minivan
+401582310,2.4L 4-cyl. 9-speed Automatic,"$25,070",Tradesman SLT Cargo,minivan
+401582309,2.4L 4-cyl. 9-speed Automatic,"$26,070",Wagon SLT,minivan
+200745314,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$50,330",Laramie,crew-cab
+200745589,6.4L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$51,160",Power Wagon,crew-cab
+200745496,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$52,215",Longhorn,crew-cab
+200745498,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$52,415",Longhorn,crew-cab
+200745499,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$55,500",Limited,crew-cab
+200745497,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$55,800",Limited,crew-cab
+200745500,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$55,835",Longhorn,crew-cab
+200745506,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$56,035",Longhorn,crew-cab
+200745322,6.4L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$57,580",Laramie Power Wagon,crew-cab
+200745507,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$59,120",Limited,crew-cab
+200745505,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$59,420",Limited,crew-cab
+401678357,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$54,575",Longhorn,crew-cab
+401678359,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$57,575",Longhorn,crew-cab
+401678369,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$57,775",Longhorn,crew-cab
+401678358,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$57,775",Limited,crew-cab
+401678356,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$58,075",Limited,crew-cab
+401678370,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$60,975",Limited,crew-cab
+401678367,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$61,275",Limited,crew-cab
+200743996,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$56,625",Longhorn,crew-cab
+200743968,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$56,675",Limited,crew-cab
+200744020,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$56,825",Longhorn,crew-cab
+200743966,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$56,975",Limited,crew-cab
+200744023,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$59,910",Limited,crew-cab
+200744019,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$60,210",Limited,crew-cab
+401691491,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$46,825",Big Horn,crew-cab
+401691493,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$46,825",Lone Star,crew-cab
+401691109,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$48,745",Laramie,crew-cab
+401691110,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$48,945",Laramie,crew-cab
+401691111,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$51,945",Laramie,crew-cab
+401691112,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$52,145",Laramie,crew-cab
+401690987,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$55,475",Laramie Longhorn,crew-cab
+401690989,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$55,675",Laramie Longhorn,crew-cab
+401690995,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$56,975",Laramie Longhorn,crew-cab
+401690991,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$58,675",Laramie Longhorn,crew-cab
+401690993,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$58,875",Laramie Longhorn,crew-cab
+401690990,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$58,875",Limited,crew-cab
+401690988,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$59,175",Limited,crew-cab
+401690997,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$60,175",Laramie Longhorn,crew-cab
+401690996,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$60,675",Limited,crew-cab
+401690994,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$62,075",Limited,crew-cab
+401690992,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$62,375",Limited,crew-cab
+401690998,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$63,875",Limited,crew-cab
+401654874,2.4L 4-cyl. 9-speed Automatic,"$23,495",Tradesman Cargo,minivan
+401654861,2.4L 4-cyl. 9-speed Automatic,"$24,595",Wagon,minivan
+401654878,2.4L 4-cyl. 9-speed Automatic,"$25,120",Tradesman SLT Cargo,minivan
+401654875,2.4L 4-cyl. 9-speed Automatic,"$26,220",Wagon SLT,minivan
+401598584,2.5L 4-cyl. 6-speed Automatic,"$24,350",LE,suv
+401598588,2.5L 4-cyl. AWD 6-speed Automatic,"$25,750",LE,suv
+401598589,2.5L 4-cyl. 6-speed Automatic,"$26,270",XLE,suv
+401598586,2.5L 4-cyl. AWD 6-speed Automatic,"$27,670",XLE,suv
+200731831,2.5L 4-cyl. 6-speed Automatic,"$29,265",SE,suv
+401598590,2.5L 4-cyl. AWD 6-speed Automatic,"$30,665",SE,suv
+401598587,2.5L 4-cyl. 6-speed Automatic,"$31,510",Limited,suv
+401598585,2.5L 4-cyl. AWD 6-speed Automatic,"$32,910",Limited,suv
+401658884,2.5L 4-cyl. 6-speed Automatic,"$24,410",LE,suv
+401658889,2.5L 4-cyl. 6-speed Automatic,"$25,500",XLE,suv
+401658888,2.5L 4-cyl. AWD 6-speed Automatic,"$25,810",LE,suv
+401658886,2.5L 4-cyl. AWD 6-speed Automatic,"$26,900",XLE,suv
+401691480,2.5L 4-cyl. 6-speed Automatic,"$28,790",SE,suv
+401691479,2.5L 4-cyl. AWD 6-speed Automatic,"$30,190",SE,suv
+401658887,2.5L 4-cyl. 6-speed Automatic,"$30,905",Limited,suv
+401658885,2.5L 4-cyl. AWD 6-speed Automatic,"$32,305",Limited,suv
+401658891,2.5L 4-cyl. 6-speed Automatic,"$34,750",Platinum,suv
+401658890,2.5L 4-cyl. AWD 6-speed Automatic,"$36,150",Platinum,suv
+200771535,4.6L V8 6-speed Automatic 5.6 ft. Bed,"$33,270",SR5,crewmax-cab
+200771536,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$34,970",SR5,crewmax-cab
+200771537,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$34,970",SR5 FFV,crewmax-cab
+200771544,4.6L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$36,320",SR5,crewmax-cab
+200771545,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$38,020",SR5,crewmax-cab
+200771546,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$38,020",SR5 FFV,crewmax-cab
+200771538,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$40,535",Limited,crewmax-cab
+200771539,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$40,535",Limited FFV,crewmax-cab
+200771548,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$43,585",Limited,crewmax-cab
+200771567,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$43,585",Limited FFV,crewmax-cab
+200771547,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$45,560",TRD PRO,crewmax-cab
+200771566,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$45,560",TRD PRO FFV,crewmax-cab
+200771540,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$46,530",Platinum,crewmax-cab
+200771541,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$46,530",1794,crewmax-cab
+200771542,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$46,530",Platinum FFV,crewmax-cab
+200771543,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$46,530",1794 FFV,crewmax-cab
+200771576,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$49,580",Platinum,crewmax-cab
+200771577,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$49,580",1794,crewmax-cab
+200771578,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$49,580",Platinum FFV,crewmax-cab
+200771579,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$49,580",1794 FFV,crewmax-cab
+401671592,4.6L V8 6-speed Automatic 5.6 ft. Bed,"$34,250",SR5,crewmax-cab
+401671590,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$35,520",SR5,crewmax-cab
+401671591,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$35,520",SR5 FFV,crewmax-cab
+401671638,4.6L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$37,300",SR5,crewmax-cab
+401671639,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$38,570",SR5,crewmax-cab
+401671637,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$38,570",SR5 FFV,crewmax-cab
+401671588,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$41,245",Limited,crewmax-cab
+401671589,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$41,245",Limited FFV,crewmax-cab
+401671644,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$44,295",Limited,crewmax-cab
+401671635,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$44,295",Limited FFV,crewmax-cab
+401671632,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$46,110",TRD PRO,crewmax-cab
+401671633,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$46,110",TRD PRO FFV,crewmax-cab
+401671586,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$47,080",Platinum,crewmax-cab
+401671587,5.7L V8 6-speed Automatic 5.6 ft. Bed,"$47,080",1794,crewmax-cab
+401671584,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$47,080",Platinum FFV,crewmax-cab
+401671585,5.7L V8 FFV 6-speed Automatic 5.6 ft. Bed,"$47,080",1794 FFV,crewmax-cab
+401671636,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$50,130",Platinum,crewmax-cab
+401671640,5.7L V8 4x4 6-speed Automatic 5.6 ft. Bed,"$50,130",1794,crewmax-cab
+401671641,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$50,130",Platinum FFV,crewmax-cab
+401671642,5.7L V8 FFV 4x4 6-speed Automatic 5.6 ft. Bed,"$50,130",1794 FFV,crewmax-cab
+200711330,0-cyl. Electric 1-speed Direct Drive,"$57,500",Base,sedan
+401689573,0-cyl. Electric 1-speed Direct Drive,"$57,500",Base,sedan
+401596974,3.5L V6 Hybrid AWD CVT Automatic,"$47,870",Limited,suv
+401596975,3.5L V6 Hybrid AWD CVT Automatic,"$50,485",Limited Platinum,suv
+401694422,3.5L V6 Hybrid AWD CVT Automatic,"$36,270",LE,suv
+401694437,3.5L V6 Hybrid AWD CVT Automatic,"$41,330",XLE,suv
+401694438,3.5L V6 Hybrid AWD CVT Automatic,"$44,760",Limited,suv
+401694421,3.5L V6 Hybrid AWD CVT Automatic,"$47,880",Limited Platinum,suv
+200746663,1.8L 4-cyl. 6-speed Manual,"$17,300",L,sedan
+200746664,1.8L 4-cyl. 4-speed Automatic,"$17,900",L,sedan
+200746659,1.8L 4-cyl. CVT Automatic,"$18,735",LE,sedan
+200746654,1.8L 4-cyl. CVT Automatic,"$19,135",LE Eco,sedan
+200746657,1.8L 4-cyl. CVT Automatic,"$19,135",LE Plus,sedan
+200746661,1.8L 4-cyl. CVT Automatic,"$19,365",S,sedan
+200746653,1.8L 4-cyl. CVT Automatic,"$19,835",LE Eco Plus,sedan
+200746665,1.8L 4-cyl. CVT Automatic,"$20,065",S Plus,sedan
+200746656,1.8L 4-cyl. CVT Automatic,"$20,635",Special Edition,sedan
+200746662,1.8L 4-cyl. 6-speed Manual,"$21,665",S Plus,sedan
+200746660,1.8L 4-cyl. CVT Automatic,"$22,195",LE Premium,sedan
+200746658,1.8L 4-cyl. CVT Automatic,"$22,895",LE Eco Premium,sedan
+200746655,1.8L 4-cyl. CVT Automatic,"$23,125",S Premium,sedan
+401668011,1.8L 4-cyl. CVT Automatic,"$18,500",L,sedan
+401668010,1.8L 4-cyl. CVT Automatic,"$18,935",LE,sedan
+401668009,1.8L 4-cyl. CVT Automatic,"$19,335",LE Eco,sedan
+401668047,1.8L 4-cyl. CVT Automatic,"$20,445",SE,sedan
+401668040,1.8L 4-cyl. CVT Automatic,"$21,300",LE Eco w/Premium Package,sedan
+401668044,1.8L 4-cyl. 6-speed Manual,"$21,665",SE,sedan
+401668041,1.8L 4-cyl. CVT Automatic,"$21,825",XLE,sedan
+401668048,1.8L 4-cyl. CVT Automatic,"$21,900",50th Anniversary Special Edition,sedan
+401668050,1.8L 4-cyl. CVT Automatic,"$22,680",XSE,sedan
+200745889,3.0L V6 Turbo 7-speed Automatic,"$66,900",CLS 400,sedan
+200745888,3.0L V6 Turbo AWD 7-speed Automatic,"$69,400",CLS 400 4MATIC,sedan
+200745886,4.7L V8 Twin-turbo 9-speed Automatic,"$74,100",CLS 550,sedan
+200745887,4.7L V8 Twin-turbo AWD 9-speed Automatic,"$76,600",CLS 550 4MATIC,sedan
+200745890,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$107,800",AMG CLS 63 S 4MATIC,sedan
+401714684,3.0L V6 Turbo 9-speed Automatic,"$67,550",CLS 400,sedan
+401714685,3.0L V6 Turbo AWD 9-speed Automatic,"$70,050",CLS 400 4MATIC,sedan
+401670636,4.7L V8 Twin-turbo 9-speed Automatic,"$74,850",CLS 550,sedan
+401670637,4.7L V8 Twin-turbo AWD 9-speed Automatic,"$77,350",CLS 550 4MATIC,sedan
+401670635,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$108,900",AMG CLS 63 S,sedan
+200748638,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$99,950",AMG GLE 63 4MATIC,amg-gle-63-4matic
+401660740,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$101,690",AMG GLE 63 4MATIC,amg-gle-63-4matic
+401719885,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$59,650",AMG GLC 43,amg-glc-43
+200773059,4.0L V8 Twin-turbo 7-speed Automatic,"$73,250",AMG C 63 S,amg-c-63-s
+401676376,4.0L V8 Twin-turbo 7-speed Automatic,"$72,800",AMG C 63 S,amg-c-63-s
+401646801,4.0L V8 Twin-turbo 7-speed Automatic,"$75,000",AMG C 63 S,amg-c-63-s
+401677806,4.0L V8 Twin-turbo 7-speed Automatic,"$80,850",AMG C 63 S,amg-c-63-s
+200741200,6.0L V12 Twin-turbo 7-speed Automatic,"$224,650",S 65 AMG,s-65-amg
+200741196,6.0L V12 Twin-turbo 7-speed Automatic,"$234,050",S 65 AMG,s-65-amg
+200731834,2.0L 4-cyl. Turbo 9-speed Automatic,"$47,950",SLC 300,convertible
+401661373,3.0L V6 Twin-turbo 9-speed Automatic,"$60,300",AMG SLC 43,convertible
+200747592,2.4L 4-cyl. 6-speed Automatic,"$21,065",1SV,sedan
+200747593,2.4L 4-cyl. 6-speed Automatic,"$23,480",Base,sedan
+401650260,2.4L 4-cyl. 6-speed Automatic,"$24,065",Sport Touring,sedan
+200747591,2.4L 4-cyl. 6-speed Automatic,"$24,475",Convenience Group,sedan
+200747590,2.4L 4-cyl. 6-speed Automatic,"$26,505",Leather Group,sedan
+200747589,2.0L 4-cyl. Turbo 6-speed Automatic,"$28,670",Premium Turbo Group,sedan
+401659369,2.4L 4-cyl. 6-speed Automatic,"$21,065",1SV,sedan
+401659371,2.4L 4-cyl. 6-speed Automatic,"$24,115",Sport Touring,sedan
+401659370,2.4L 4-cyl. 6-speed Automatic,"$26,555",Leather Group,sedan
+401583528,1.4L 4-cyl. Turbo 6-speed Automatic,"$24,065",Base,suv
+401583534,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$25,565",Base,suv
+401583530,1.4L 4-cyl. Turbo 6-speed Automatic,"$26,355",Convenience,suv
+401583536,1.4L 4-cyl. Turbo 6-speed Automatic,"$27,350",Sport Touring,suv
+401583531,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$27,855",Convenience,suv
+401583529,1.4L 4-cyl. Turbo 6-speed Automatic,"$28,300",Leather,suv
+401583537,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$28,850",Sport Touring,suv
+401583532,1.4L 4-cyl. Turbo 6-speed Automatic,"$29,785",Premium,suv
+401583533,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$29,800",Leather,suv
+401583535,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$31,285",Premium,suv
+401647999,1.4L 4-cyl. Turbo 6-speed Automatic,"$22,990",1SV,suv
+401631199,1.4L 4-cyl. Turbo 6-speed Automatic,"$24,365",Preferred,suv
+401647996,1.4L 4-cyl. Turbo 6-speed Automatic,"$25,565",Sport Touring,suv
+401648001,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$25,865",Preferred,suv
+401647997,1.4L 4-cyl. Turbo 6-speed Automatic,"$26,865",Preferred II,suv
+401647995,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$27,065",Sport Touring,suv
+401647998,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$28,365",Preferred II,suv
+401648000,1.4L 4-cyl. Turbo 6-speed Automatic,"$29,065",Essence,suv
+401648003,1.4L 4-cyl. Turbo 6-speed Automatic,"$30,465",Premium,suv
+401648004,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$30,565",Essence,suv
+401648002,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$31,965",Premium,suv
+401720380,1.4L 4-cyl. Turbo 6-speed Automatic,"$22,990",1SV,suv
+401720387,1.4L 4-cyl. Turbo 6-speed Automatic,"$24,365",Preferred,suv
+401720386,1.4L 4-cyl. Turbo 6-speed Automatic,"$25,565",Sport Touring,suv
+401720379,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$25,865",Preferred,suv
+401720384,1.4L 4-cyl. Turbo 6-speed Automatic,"$26,865",Preferred II,suv
+401720377,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$27,065",Sport Touring,suv
+401720382,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$28,365",Preferred II,suv
+401720381,1.4L 4-cyl. Turbo 6-speed Automatic,"$29,065",Essence,suv
+401720383,1.4L 4-cyl. Turbo 6-speed Automatic,"$30,515",Premium,suv
+401720378,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$30,565",Essence,suv
+401720385,1.4L 4-cyl. Turbo AWD 6-speed Automatic,"$32,015",Premium,suv
+401575890,2.0L 4-cyl. Hybrid AWD CVT Automatic,"$26,395",Hybrid,hybrid
+401575891,2.0L 4-cyl. Hybrid AWD CVT Automatic,"$29,995",Hybrid Touring,hybrid
+200674639,0-cyl. Electric AWD 1-speed Direct Drive,"$83,000",75D,suv
+401638696,0-cyl. Electric AWD 1-speed Direct Drive,"$95,500",90D,suv
+401638697,0-cyl. Electric AWD 1-speed Direct Drive,"$115,500",P90D,suv
+401702541,0-cyl. Electric AWD 1-speed Direct Drive,"$82,500",75D,suv
+401702540,0-cyl. Electric AWD 1-speed Direct Drive,"$93,500",90D,suv
+401702543,0-cyl. Electric AWD 1-speed Direct Drive,"$98,500",100D,suv
+401702542,0-cyl. Electric AWD 1-speed Direct Drive,"$135,500",P100D,suv
+401689280,0-cyl. Electric AWD 1-speed Direct Drive,"$66,000",60,sedan
+401632874,0-cyl. Electric 1-speed Direct Drive,"$70,000",70,sedan
+401689279,0-cyl. Electric AWD 1-speed Direct Drive,"$71,000",60D,sedan
+401689281,0-cyl. Electric 1-speed Direct Drive,"$74,500",75,sedan
+401632897,0-cyl. Electric AWD 1-speed Direct Drive,"$75,000",70D,sedan
+401689282,0-cyl. Electric AWD 1-speed Direct Drive,"$79,500",75D,sedan
+401632908,0-cyl. Electric AWD 1-speed Direct Drive,"$89,500",90D,sedan
+401632910,0-cyl. Electric AWD 1-speed Direct Drive,"$112,000",P90D,sedan
+401689283,0-cyl. Electric AWD 1-speed Direct Drive,"$134,500",P100D,sedan
+401702528,0-cyl. Electric 1-speed Direct Drive,"$68,000",60,sedan
+401702530,0-cyl. Electric 1-speed Direct Drive,"$69,500",75,sedan
+401702529,0-cyl. Electric AWD 1-speed Direct Drive,"$73,000",60D,sedan
+401702531,0-cyl. Electric AWD 1-speed Direct Drive,"$74,500",75D,sedan
+401702532,0-cyl. Electric AWD 1-speed Direct Drive,"$87,500",90D,sedan
+401702533,0-cyl. Electric AWD 1-speed Direct Drive,"$92,500",100D,sedan
+401702534,0-cyl. Electric AWD 1-speed Direct Drive,"$134,500",P100D,sedan
+200743814,3.0L V6 Turbo Diesel 8-speed Automatic 6.4 ft. Bed,"$37,685",Tradesman HFE,diesel
+200746283,3.0L V6 Turbo Diesel 8-speed Automatic 6.4 ft. Bed,"$38,380",Express HFE,diesel
+401656134,3.0L V6 Turbo Diesel 8-speed Automatic,"$37,895",Tradesman HFE,diesel
+401707756,3.0L V6 Turbo Diesel 8-speed Automatic,"$41,195",Lone Star Silver,diesel
+200743915,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$32,960",Tradesman,crew-cab
+200743914,5.7L V8 6-speed Automatic 6.4 ft. Bed,"$33,570",Tradesman,crew-cab
+200744208,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$34,820",Express,crew-cab
+200743957,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$36,540",Tradesman,crew-cab
+200743960,5.7L V8 4x4 6-speed Automatic 6.4 ft. Bed,"$37,150",Tradesman,crew-cab
+200743922,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$37,380",SLT,crew-cab
+200744237,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$38,400",Express,crew-cab
+200743923,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$39,330",SLT,crew-cab
+200744215,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$39,945",Lone Star,crew-cab
+200744216,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$39,945",Big Horn,crew-cab
+200743961,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$40,960",SLT,crew-cab
+200743918,3.6L V6 FFV 8-speed Automatic 5.6 ft. Bed,"$41,510",Laramie,crew-cab
+200743919,5.7L V8 8-speed Automatic 5.6 ft. Bed,"$41,550",Sport,crew-cab
+200743917,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$41,850",Sport,crew-cab
+200744246,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$41,885",Outdoorsman,crew-cab
+401597398,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$41,895",Big Horn,crew-cab
+401655786,3.6L V6 FFV 8-speed Automatic,"$32,995",Tradesman,crew-cab
+401655785,5.7L V8 8-speed Automatic,"$33,695",Tradesman,crew-cab
+401656074,3.6L V6 FFV 8-speed Automatic,"$34,895",Express,crew-cab
+401655778,3.6L V6 FFV 4x4 8-speed Automatic,"$36,695",Tradesman,crew-cab
+401655784,5.7L V8 4x4 8-speed Automatic,"$37,295",Tradesman,crew-cab
+401656220,3.6L V6 FFV 8-speed Automatic,"$37,595",SLT,crew-cab
+401656219,3.6L V6 FFV 8-speed Automatic,"$38,295",Lone Star,crew-cab
+401656076,3.6L V6 FFV 4x4 8-speed Automatic,"$38,595",Express,crew-cab
+401707755,3.6L V6 FFV 8-speed Automatic,"$39,195",Lone Star Silver,crew-cab
+401656227,5.7L V8 8-speed Automatic,"$39,595",SLT,crew-cab
+401597399,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$41,895",Lone Star,crew-cab
+200743962,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$42,910",SLT,crew-cab
+200744219,5.7L V8 8-speed Automatic 5.6 ft. Bed,"$43,270",Rebel,crew-cab
+200743916,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$43,460",Laramie,crew-cab
+200744242,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$43,525",Lone Star,crew-cab
+200744245,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$43,525",Big Horn,crew-cab
+200744251,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$43,835",Outdoorsman,crew-cab
+200743955,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$45,090",Laramie,crew-cab
+200743953,5.7L V8 4x4 8-speed Automatic 5.6 ft. Bed,"$45,130",Sport,crew-cab
+200744253,3.6L V6 FFV 4x4 8-speed Automatic 5.6 ft. Bed,"$45,200",Rebel,crew-cab
+200743959,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$45,430",Sport,crew-cab
+200744249,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$45,475",Big Horn,crew-cab
+200744250,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$45,475",Lone Star,crew-cab
+200743954,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$47,040",Laramie,crew-cab
+200743921,5.7L V8 8-speed Automatic 5.6 ft. Bed,"$48,785",Longhorn,crew-cab
+200743920,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$49,085",Longhorn,crew-cab
+200744226,5.7L V8 8-speed Automatic 5.6 ft. Bed,"$52,320",Limited,crew-cab
+200743958,5.7L V8 4x4 8-speed Automatic 5.6 ft. Bed,"$52,365",Longhorn,crew-cab
+200744236,5.7L V8 8-speed Automatic 6.4 ft. Bed,"$52,620",Limited,crew-cab
+200743956,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$52,665",Longhorn,crew-cab
+200744254,5.7L V8 4x4 8-speed Automatic 5.6 ft. Bed,"$55,900",Limited,crew-cab
+200744255,5.7L V8 4x4 8-speed Automatic 6.4 ft. Bed,"$56,200",Limited,crew-cab
+401656221,3.6L V6 FFV 8-speed Automatic,"$40,295",Big Horn,crew-cab
+401656228,5.7L V8 8-speed Automatic,"$40,295",Lone Star,crew-cab
+401656122,3.6L V6 FFV 8-speed Automatic,"$40,495",Sport,crew-cab
+401707750,3.6L V6 FFV 8-speed Automatic,"$40,890",Night,crew-cab
+401707756,3.0L V6 Turbo Diesel 8-speed Automatic,"$41,195",Lone Star Silver,crew-cab
+401656207,3.6L V6 FFV 4x4 8-speed Automatic,"$41,195",SLT,crew-cab
+401716813,5.7L V8 8-speed Automatic,"$41,195",Lone Star Silver,crew-cab
+401656206,3.6L V6 FFV 4x4 8-speed Automatic,"$41,895",Lone Star,crew-cab
+401655771,3.6L V6 FFV 8-speed Automatic,"$42,095",Laramie,crew-cab
+401656229,5.7L V8 8-speed Automatic,"$42,295",Big Horn,crew-cab
+401656123,5.7L V8 8-speed Automatic,"$42,495",Sport,crew-cab
+401716896,3.6L V6 FFV 4x4 8-speed Automatic,"$42,795",Lone Star Silver,crew-cab
+401707749,5.7L V8 8-speed Automatic,"$42,890",Night,crew-cab
+401656209,5.7L V8 4x4 8-speed Automatic,"$43,195",SLT,crew-cab
+401656205,3.6L V6 FFV 4x4 8-speed Automatic,"$43,895",Big Horn,crew-cab
+401656210,5.7L V8 4x4 8-speed Automatic,"$43,895",Lone Star,crew-cab
+401655772,5.7L V8 8-speed Automatic,"$43,995",Laramie,crew-cab
+401656124,3.6L V6 FFV 4x4 8-speed Automatic,"$44,095",Sport,crew-cab
+401707751,3.6L V6 FFV 4x4 8-speed Automatic,"$44,490",Night,crew-cab
+401716900,5.7L V8 4x4 8-speed Automatic,"$44,795",Lone Star Silver,crew-cab
+401656126,5.7L V8 8-speed Automatic,"$45,095",Rebel,crew-cab
+401656242,3.6L V6 FFV 4x4 8-speed Automatic,"$45,595",Laramie,crew-cab
+200743123,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$32,285",Tradesman,regular-cab
+200743524,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$35,405",Tradesman,regular-cab
+200743474,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$36,595",SLT,regular-cab
+200743530,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$39,565",SLT,regular-cab
+401691105,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$33,245",Tradesman,regular-cab
+401691106,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$36,045",Tradesman,regular-cab
+401691071,5.7L V8 6-speed Automatic 8.2 ft. Bed,"$37,445",SLT,regular-cab
+401691070,5.7L V8 4x4 6-speed Automatic 8.2 ft. Bed,"$40,245",SLT,regular-cab
+200734215,3.6L V6 6-speed Automatic,"$34,150",2500 High Roof,van
+200734216,3.6L V6 6-speed Automatic,"$38,275",3500 High Roof,van
+401660394,3.6L V6 6-speed Automatic,"$34,345",2500 High Roof,van
+401660393,3.6L V6 6-speed Automatic,"$38,445",3500 High Roof,van
+401656208,5.7L V8 4x4 8-speed Automatic,"$45,895",Big Horn,crew-cab
+401656125,5.7L V8 4x4 8-speed Automatic,"$46,095",Sport,crew-cab
+401707752,5.7L V8 4x4 8-speed Automatic,"$46,490",Night,crew-cab
+401656127,3.6L V6 FFV 4x4 8-speed Automatic,"$47,195",Rebel,crew-cab
+401656243,5.7L V8 4x4 8-speed Automatic,"$47,595",Laramie,crew-cab
+401655773,5.7L V8 8-speed Automatic,"$49,675",Longhorn,crew-cab
+401655775,5.7L V8 8-speed Automatic,"$49,975",Longhorn,crew-cab
+401655774,5.7L V8 8-speed Automatic,"$52,875",Limited,crew-cab
+401656244,5.7L V8 4x4 8-speed Automatic,"$53,175",Longhorn,crew-cab
+401655776,5.7L V8 8-speed Automatic,"$53,175",Limited,crew-cab
+401656246,5.7L V8 4x4 8-speed Automatic,"$53,575",Longhorn,crew-cab
+401656245,5.7L V8 4x4 8-speed Automatic,"$56,375",Limited,crew-cab
+401656247,5.7L V8 4x4 8-speed Automatic,"$56,775",Limited,crew-cab
+401701501,2.0L 4-cyl. Hybrid 6-speed Automatic,"$35,210",EX,sedan
+200745339,1.8L 4-cyl. 6-speed Manual,"$15,990",LX,sedan
+200745338,1.8L 4-cyl. 6-speed Automatic,"$17,700",LX,sedan
+200745337,2.0L 4-cyl. 6-speed Automatic,"$19,990",EX,sedan
+401646833,2.0L 4-cyl. 6-speed Manual,"$16,600",LX,sedan
+401637970,2.0L 4-cyl. 6-speed Automatic,"$17,600",LX,sedan
+401637982,2.0L 4-cyl. 6-speed Automatic,"$19,300",S,sedan
+401637971,2.0L 4-cyl. 6-speed Automatic,"$21,300",EX,sedan
+200748661,1.6L 4-cyl. 6-speed Manual,"$15,900",Base,wagon
+200748660,1.6L 4-cyl. 6-speed Automatic,"$17,400",Base,wagon
+200748659,2.0L 4-cyl. 6-speed Automatic,"$19,400",+,wagon
+200748662,2.0L 4-cyl. 6-speed Automatic,"$21,300",!,wagon
+401693670,1.6L 4-cyl. 6-speed Manual,"$16,100",Base,wagon
+401693671,1.6L 4-cyl. 6-speed Automatic,"$17,700",Base,wagon
+401693673,2.0L 4-cyl. 6-speed Automatic,"$19,800",+,wagon
+401693672,1.6L 4-cyl. Turbo 7-speed Automated Manual,"$22,800",!,wagon
+401583175,3.3L V6 6-speed Automatic,"$32,990",Base,sedan
+401583150,3.3L V6 6-speed Automatic,"$35,990",Premium,sedan
+401583149,3.3L V6 6-speed Automatic,"$44,090",Limited,sedan
+401693558,3.3L V6 8-speed Automatic,"$31,990",Premium,sedan
+401610778,3.3L V6 8-speed Automatic,"$38,990",Technology,sedan
+401693557,3.3L V6 8-speed Automatic,"$44,390",Limited,sedan
+200745343,2.0L 4-cyl. 6-speed Automatic,"$18,090",LX,hatchback
+200745342,2.0L 4-cyl. 6-speed Automatic,"$20,390",EX,hatchback
+200745341,1.6L 4-cyl. Turbo 6-speed Manual,"$20,990",SX,hatchback
+200745340,1.6L 4-cyl. Turbo 6-speed Automatic,"$21,990",SX,hatchback
+200726388,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$29,475",RT,crew-cab
+401642827,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$31,275",RT,crew-cab
+401642825,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$31,515",RTS,crew-cab
+401642824,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$33,015",Sport,crew-cab
+401642831,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$33,315",RTS,crew-cab
+401642826,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$33,780",RTL,crew-cab
+401642830,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$34,815",Sport,crew-cab
+401642823,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$35,580",RTL,crew-cab
+401642832,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$35,930",RTL-T,crew-cab
+401642822,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$37,730",RTL-T,crew-cab
+401642828,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$41,370",RTL-E,crew-cab
+401642829,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$42,870",Black Edition,crew-cab
+401725465,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$29,630",RT,crew-cab
+401725463,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$33,170",Sport,crew-cab
+401725462,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$33,930",RTL,crew-cab
+401725464,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$35,070",Sport,crew-cab
+401725460,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$35,830",RTL,crew-cab
+401725459,3.5L V6 6-speed Automatic 5.3 ft. Bed,"$36,080",RTL-T,crew-cab
+401725461,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$37,980",RTL-T,crew-cab
+401725467,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$41,620",RTL-E,crew-cab
+401725466,3.5L V6 AWD 6-speed Automatic 5.3 ft. Bed,"$43,120",Black Edition,crew-cab
+200751257,3.5L V6 6-speed Automatic,"$29,400",LX,minivan
+200751253,3.5L V6 6-speed Automatic,"$32,550",EX,minivan
+200751260,3.5L V6 6-speed Automatic,"$33,500",SE,minivan
+200751252,3.5L V6 6-speed Automatic,"$36,050",EX-L,minivan
+200751254,3.5L V6 6-speed Automatic,"$37,650",EX-L w/Rear Entertainment,minivan
+200751255,3.5L V6 6-speed Automatic,"$38,050",EX-L w/Navigation,minivan
+200751256,3.5L V6 6-speed Automatic,"$42,305",Touring,minivan
+200751258,3.5L V6 6-speed Automatic,"$44,875",Touring Elite,minivan
+401633974,3.5L V6 6-speed Automatic,"$29,850",LX,minivan
+401696156,3.5L V6 6-speed Automatic,"$33,000",EX,minivan
+401696158,3.5L V6 6-speed Automatic,"$33,950",SE,minivan
+401696157,3.5L V6 6-speed Automatic,"$36,500",EX-L,minivan
+401696155,3.5L V6 6-speed Automatic,"$38,100",EX-L w/Rear Entertainment System,minivan
+401696154,3.5L V6 6-speed Automatic,"$38,500",EX-L w/Navigation,minivan
+401696160,3.5L V6 6-speed Automatic,"$42,755",Touring,minivan
+401696159,3.5L V6 6-speed Automatic,"$45,325",Touring Elite,minivan
+401699933,3.5L V6 9-speed Automatic,"$29,990",LX,minivan
+401716754,3.5L V6 9-speed Automatic,"$33,860",EX,minivan
+401716753,3.5L V6 9-speed Automatic,"$37,360",EX-L,minivan
+401716752,3.5L V6 9-speed Automatic,"$39,360",EX-L w/Navigation and Rear Entertainment System,minivan
+401716751,3.5L V6 10-speed Automatic,"$44,510",Touring,minivan
+401716755,3.5L V6 10-speed Automatic,"$46,670",Elite,minivan
+401644274,2.0L 4-cyl. Hybrid CVT Automatic,"$29,605",Hybrid,sedan
+401647902,2.0L 4-cyl. Hybrid CVT Automatic,"$32,905",EX-L,sedan
+401647901,2.0L 4-cyl. Hybrid CVT Automatic,"$35,955",Touring,sedan
+401575244,2.4L 4-cyl. 6-speed Manual,"$23,875",LX-S,coupe
+401575246,2.4L 4-cyl. CVT Automatic,"$24,725",LX-S,coupe
+401575251,2.4L 4-cyl. CVT Automatic,"$25,725",LX-S w/Honda Sensing,coupe
+401575245,2.4L 4-cyl. 6-speed Manual,"$26,000",EX,coupe
+401575242,2.4L 4-cyl. CVT Automatic,"$26,850",EX,coupe
+401575249,2.4L 4-cyl. CVT Automatic,"$27,850",EX w/Honda Sensing,coupe
+401575243,2.4L 4-cyl. CVT Automatic,"$28,845",EX-L,coupe
+401575250,2.4L 4-cyl. CVT Automatic,"$30,845",EX-L w/Navigation and Honda Sensing,coupe
+401575241,3.5L V6 6-speed Automatic,"$31,025",EX-L V-6,coupe
+401575247,3.5L V6 6-speed Manual,"$31,025",EX-L V-6,coupe
+401575248,3.5L V6 6-speed Automatic,"$33,025",EX-L V-6 w/Navigation and Honda Sensing,coupe
+401575252,3.5L V6 6-speed Automatic,"$34,225",Touring V-6,coupe
+401649938,2.4L 4-cyl. 6-speed Manual,"$24,025",LX-S,coupe
+401649936,2.4L 4-cyl. CVT Automatic,"$24,875",LX-S,coupe
+401649944,2.4L 4-cyl. CVT Automatic,"$25,875",LX-S w/Honda Sensing,coupe
+401649937,2.4L 4-cyl. 6-speed Manual,"$26,150",EX,coupe
+401649940,2.4L 4-cyl. CVT Automatic,"$27,000",EX,coupe
+401649946,2.4L 4-cyl. CVT Automatic,"$28,000",EX w/Honda Sensing,coupe
+401649939,2.4L 4-cyl. CVT Automatic,"$28,995",EX-L,coupe
+401649943,2.4L 4-cyl. CVT Automatic,"$30,995",EX-L w/Navigation and Honda Sensing,coupe
+401649941,3.5L V6 6-speed Automatic,"$31,175",EX-L V-6,coupe
+401649935,3.5L V6 6-speed Manual,"$31,175",EX-L V-6,coupe
+401649945,3.5L V6 6-speed Automatic,"$33,175",EX-L V-6 w/Navigation and Honda Sensing,coupe
+401649942,3.5L V6 6-speed Automatic,"$34,375",Touring V-6,coupe
+401611612,3.5L V6 6-speed Automatic,"$28,850",L 7-Passenger,minivan
+401611605,3.5L V6 6-speed Automatic,"$31,640",LE 8-Passenger,minivan
+401611615,3.5L V6 6-speed Automatic,"$31,840",LE 7-Passenger Mobility,minivan
+401611614,3.5L V6 AWD 6-speed Automatic,"$34,180",LE 7-Passenger,minivan
+401611599,3.5L V6 6-speed Automatic,"$35,210",SE 8-Passenger,minivan
+401611604,3.5L V6 6-speed Automatic,"$35,410",XLE 8-Passenger,minivan
+401611600,3.5L V6 AWD 6-speed Automatic,"$37,620",XLE 7-Passenger,minivan
+401611608,3.5L V6 6-speed Automatic,"$37,655",LE 7-Passenger Mobility Auto Access,minivan
+401611609,3.5L V6 6-speed Automatic,"$38,605",XLE Premium 8-Passenger,minivan
+401611613,3.5L V6 6-speed Automatic,"$39,930",SE Premium 8-Passenger,minivan
+401611601,3.5L V6 AWD 6-speed Automatic,"$40,815",XLE Premium 7-Passenger,minivan
+401611602,3.5L V6 6-speed Automatic,"$41,245",XLE 7-Passenger Mobility Auto Access,minivan
+401611611,3.5L V6 6-speed Automatic,"$41,900",Limited 7-Passenger,minivan
+401611606,3.5L V6 AWD 6-speed Automatic,"$43,040",Limited 7-Passenger,minivan
+401611610,3.5L V6 6-speed Automatic,"$45,270",Limited Premium 7-Passenger,minivan
+401611603,3.5L V6 AWD 6-speed Automatic,"$46,410",Limited Premium 7-Passenger,minivan
+401659114,3.5L V6 8-speed Automatic,"$27,645",CE Fleet Cargo Van,minivan
+401659123,3.5L V6 8-speed Automatic,"$29,750",L 7-Passenger,minivan
+401659116,3.5L V6 8-speed Automatic,"$32,540",LE 8-Passenger,minivan
+401659122,3.5L V6 8-speed Automatic,"$32,740",LE 7-Passenger Mobility,minivan
+401659121,3.5L V6 AWD 8-speed Automatic,"$35,080",LE 7-Passenger,minivan
+401659112,3.5L V6 8-speed Automatic,"$36,110",SE 8-Passenger,minivan
+401659115,3.5L V6 8-speed Automatic,"$36,310",XLE 8-Passenger,minivan
+401659119,3.5L V6 AWD 8-speed Automatic,"$38,520",XLE 7-Passenger,minivan
+401659127,3.5L V6 8-speed Automatic,"$38,555",LE 7-Passenger Mobility Auto Access,minivan
+401659128,3.5L V6 8-speed Automatic,"$39,505",XLE Premium 8-Passenger,minivan
+401659124,3.5L V6 8-speed Automatic,"$40,830",SE Premium 8-Passenger,minivan
+401659120,3.5L V6 AWD 8-speed Automatic,"$41,715",XLE Premium 7-Passenger,minivan
+401659117,3.5L V6 8-speed Automatic,"$42,145",XLE 7-Passenger Mobility Auto Access,minivan
+401659126,3.5L V6 8-speed Automatic,"$42,800",Limited 7-Passenger,minivan
+401659113,3.5L V6 AWD 8-speed Automatic,"$43,940",Limited 7-Passenger,minivan
+401659125,3.5L V6 8-speed Automatic,"$46,170",Limited Premium 7-Passenger,minivan
+401659118,3.5L V6 AWD 8-speed Automatic,"$47,310",Limited Premium 7-Passenger,minivan
+200771448,1.8L 4-cyl. Hybrid CVT Automatic,"$26,675",Two,wagon
+200771447,1.8L 4-cyl. Hybrid CVT Automatic,"$28,060",Three,wagon
+200771445,1.8L 4-cyl. Hybrid CVT Automatic,"$29,695",Four,wagon
+200771446,1.8L 4-cyl. Hybrid CVT Automatic,"$30,935",Five,wagon
+401596892,2.7L 4-cyl. 6-speed Automatic,"$30,490",LE,suv
+401596894,3.5L V6 6-speed Automatic,"$32,015",LE,suv
+401596900,3.5L V6 AWD 6-speed Automatic,"$33,475",LE,suv
+401596893,3.5L V6 6-speed Automatic,"$34,395",LE Plus,suv
+401596901,3.5L V6 AWD 6-speed Automatic,"$35,855",LE Plus,suv
+401596895,3.5L V6 6-speed Automatic,"$37,315",XLE,suv
+401596898,3.5L V6 AWD 6-speed Automatic,"$38,775",XLE,suv
+401596897,3.5L V6 6-speed Automatic,"$40,915",Limited,suv
+401596899,3.5L V6 AWD 6-speed Automatic,"$42,375",Limited,suv
+401596896,3.5L V6 6-speed Automatic,"$43,530",Limited Platinum,suv
+401596902,3.5L V6 AWD 6-speed Automatic,"$44,990",Limited Platinum,suv
+401694391,2.7L 4-cyl. 6-speed Automatic,"$30,630",LE,suv
+401694393,3.5L V6 8-speed Automatic,"$32,680",LE,suv
+401694399,3.5L V6 AWD 8-speed Automatic,"$34,140",LE,suv
+401694390,3.5L V6 8-speed Automatic,"$35,060",LE Plus,suv
+401694400,3.5L V6 AWD 8-speed Automatic,"$36,520",LE Plus,suv
+401694392,3.5L V6 8-speed Automatic,"$38,520",XLE,suv
+401633261,3.5L V6 8-speed Automatic,"$39,690",SE,suv
+401694394,3.5L V6 AWD 8-speed Automatic,"$39,980",XLE,suv
+401694418,3.5L V6 AWD 8-speed Automatic,"$41,150",SE,suv
+401694397,3.5L V6 8-speed Automatic,"$41,680",Limited,suv
+401694395,3.5L V6 AWD 8-speed Automatic,"$43,140",Limited,suv
+401694396,3.5L V6 8-speed Automatic,"$44,800",Limited Platinum,suv
+401694398,3.5L V6 AWD 8-speed Automatic,"$46,260",Limited Platinum,suv
+401628174,2.0L 4-cyl. CVT Automatic,"$22,500",XLE,suv
+401708232,2.0L 4-cyl. CVT Automatic,"$24,350",XLE Premium,suv
+401649191,1.8L 4-cyl. Hybrid CVT Automatic,"$27,100",Plus,hatchback
+401690601,1.8L 4-cyl. Hybrid CVT Automatic,"$28,800",Premium,hatchback
+401690600,1.8L 4-cyl. Hybrid CVT Automatic,"$33,100",Advanced,hatchback
+401578401,2.0L 4-cyl. Turbo 7-speed Automatic,"$42,650",C 300,coupe
+401646798,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$44,650",C 300 4MATIC,coupe
+401646799,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$55,500",AMG C 43,coupe
+401646800,4.0L V8 Twin-turbo 7-speed Automatic,"$67,000",AMG C 63,coupe
+401646801,4.0L V8 Twin-turbo 7-speed Automatic,"$75,000",AMG C 63 S,coupe
+200739150,5.5L V8 Twin-turbo 7-speed Automatic,"$149,700",SL 63 AMG,sl-63-amg
+401655567,5.5L V8 Twin-turbo 7-speed Automatic,"$151,350",SL 63 AMG,sl-63-amg
+401597153,5.5L V8 Twin-turbo 4x4 7-speed Automatic,"$139,900",AMG G 63,amg-g-63
+401695062,5.5L V8 Twin-turbo 4x4 7-speed Automatic,"$141,400",AMG G 63,amg-g-63
+401676377,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$52,000",AMG C 43,amg-c-43
+401646799,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$55,500",AMG C 43,amg-c-43
+401677804,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$60,400",AMG C 43,amg-c-43
+200735314,3.0L V6 Twin-turbo 7-speed Automatic,"$54,200",E 400,coupe
+200735313,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$56,700",E 400 4MATIC,coupe
+200735312,4.7L V8 Twin-turbo 7-speed Automatic,"$60,300",E 550,coupe
+401657383,3.0L V6 Twin-turbo 7-speed Automatic,"$54,550",E 400,coupe
+401657384,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$57,050",E 400 4MATIC,coupe
+401657385,4.7L V8 Twin-turbo 7-speed Automatic,"$60,650",E 550,coupe
+200773060,4.0L V8 Twin-turbo 7-speed Automatic,"$65,250",AMG C 63,amg-c-63
+401676381,4.0L V8 Twin-turbo 7-speed Automatic,"$65,200",AMG C 63,amg-c-63
+401646800,4.0L V8 Twin-turbo 7-speed Automatic,"$67,000",AMG C 63,amg-c-63
+401677805,4.0L V8 Twin-turbo 7-speed Automatic,"$72,850",AMG C 63,amg-c-63
+401691506,1.8L 4-cyl. Turbo AWD 6-speed Manual,"$25,850",TSI S,wagon
+200487674,1.8L 4-cyl. Turbo AWD 6-speed Automated Manual,"$26,950",TSI S,wagon
+401691505,1.8L 4-cyl. Turbo AWD 6-speed Manual,"$29,430",TSI SE,wagon
+401690717,1.8L 4-cyl. Turbo AWD 6-speed Automated Manual,"$30,530",TSI SE,wagon
+401690718,1.8L 4-cyl. Turbo AWD 6-speed Automated Manual,"$32,890",TSI SEL,wagon
+401597487,2.0L 4-cyl. Turbo 6-speed Manual,"$29,280",2.0T GLI SEL,20t-gli-sel
+401597489,2.0L 4-cyl. Turbo 6-speed Automatic,"$30,380",2.0T GLI SEL,20t-gli-sel
+200705025,2.0L 4-cyl. Turbo 8-speed Automatic,"$30,500",S,suv
+401709827,3.6L V6 8-speed Automatic,"$31,900",V6 S,suv
+401709807,3.6L V6 8-speed Automatic,"$33,500",V6 Launch Edition,suv
+401709802,2.0L 4-cyl. Turbo 8-speed Automatic,"$33,590",SE,suv
+401709828,3.6L V6 AWD 8-speed Automatic,"$33,700",V6 S,suv
+401709839,3.6L V6 8-speed Automatic,"$34,990",V6 SE,suv
+401709826,3.6L V6 AWD 8-speed Automatic,"$35,300",V6 Launch Edition,suv
+401709805,2.0L 4-cyl. Turbo 8-speed Automatic,"$35,690",SE w/Technology,suv
+401709840,3.6L V6 AWD 8-speed Automatic,"$36,790",V6 SE,suv
+401709849,3.6L V6 8-speed Automatic,"$37,090",V6 SE w/Technology,suv
+401709850,3.6L V6 AWD 8-speed Automatic,"$38,890",V6 SE w/Technology,suv
+401709806,2.0L 4-cyl. Turbo 8-speed Automatic,"$39,160",SEL,suv
+401709866,3.6L V6 8-speed Automatic,"$40,890",V6 SEL,suv
+401709865,3.6L V6 AWD 8-speed Automatic,"$42,690",V6 SEL,suv
+401709867,3.6L V6 AWD 8-speed Automatic,"$48,490",V6 SEL Premium,suv
+401691194,2.0L 4-cyl. Hybrid 6-speed Automatic,"$25,995",Premium,sedan
+401691195,2.0L 4-cyl. Hybrid 6-speed Automatic,"$30,990",EX,sedan
+200707604,2.4L 4-cyl. 6-speed Automatic,"$25,100",L,suv
+200724191,2.4L 4-cyl. 6-speed Automatic,"$26,400",LX,suv
+200724192,2.4L 4-cyl. AWD 6-speed Automatic,"$28,200",LX,suv
+200724193,3.3L V6 6-speed Automatic,"$28,700",LX,suv
+200724194,3.3L V6 AWD 6-speed Automatic,"$30,500",LX,suv
+200724195,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,100",EX,suv
+200724198,3.3L V6 6-speed Automatic,"$32,100",EX,suv
+200724197,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$32,900",EX,suv
+200724199,3.3L V6 AWD 6-speed Automatic,"$33,900",EX,suv
+200724200,3.3L V6 6-speed Automatic,"$38,300",SX,suv
+200724202,2.0L 4-cyl. Turbo 6-speed Automatic,"$39,900",Limited,suv
+200724201,3.3L V6 AWD 6-speed Automatic,"$40,100",SX,suv
+200724204,3.3L V6 6-speed Automatic,"$41,500",Limited,suv
+200724203,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$41,700",Limited,suv
+200724205,3.3L V6 AWD 6-speed Automatic,"$43,300",Limited,suv
+401666187,3.5L V6 Supercharger 6-speed Manual,"$91,900",2+0,coupe
+401666188,3.5L V6 Supercharger 6-speed Manual,"$91,900",2+2,coupe
+200759707,2.4L 4-cyl. 6-speed Manual,"$22,205",LX,sedan
+200759701,2.4L 4-cyl. CVT Automatic,"$23,005",LX,sedan
+200759759,2.4L 4-cyl. CVT Automatic,"$24,005",LX w/Honda Sensing,sedan
+200759705,2.4L 4-cyl. 6-speed Manual,"$24,265",Sport,sedan
+200759708,2.4L 4-cyl. CVT Automatic,"$25,065",Sport,sedan
+200759710,2.4L 4-cyl. 6-speed Manual,"$25,580",EX,sedan
+200759760,2.4L 4-cyl. CVT Automatic,"$26,065",Sport w/Honda Sensing,sedan
+200759702,2.4L 4-cyl. CVT Automatic,"$26,380",EX,sedan
+200759758,2.4L 4-cyl. CVT Automatic,"$27,380",EX w/Honda Sensing,sedan
+200759704,2.4L 4-cyl. CVT Automatic,"$28,670",EX-L,sedan
+200759709,2.4L 4-cyl. CVT Automatic,"$30,670",EX-L w/Navigation and Honda Sensing,sedan
+200759711,3.5L V6 6-speed Automatic,"$30,745",EX-L V-6,sedan
+200759706,3.5L V6 6-speed Automatic,"$32,745",EX-L V-6 w/Navigation and Honda Sensing,sedan
+200759703,3.5L V6 6-speed Automatic,"$34,680",Touring V-6,sedan
+401649927,2.4L 4-cyl. 6-speed Manual,"$22,355",LX,sedan
+401649925,2.4L 4-cyl. CVT Automatic,"$23,155",LX,sedan
+401649922,2.4L 4-cyl. CVT Automatic,"$24,155",LX w/Honda Sensing,sedan
+401649929,2.4L 4-cyl. 6-speed Manual,"$24,415",Sport,sedan
+401649934,2.4L 4-cyl. CVT Automatic,"$25,215",Sport,sedan
+401650000,2.4L 4-cyl. 6-speed Manual,"$25,415",Sport Special Edition,sedan
+401649932,2.4L 4-cyl. 6-speed Manual,"$25,730",EX,sedan
+401649926,2.4L 4-cyl. CVT Automatic,"$26,215",Sport w/Honda Sensing,sedan
+401649999,2.4L 4-cyl. CVT Automatic,"$26,215",Sport Special Edition,sedan
+401649924,2.4L 4-cyl. CVT Automatic,"$26,530",EX,sedan
+401649921,2.4L 4-cyl. CVT Automatic,"$27,530",EX w/Honda Sensing,sedan
+401649930,2.4L 4-cyl. CVT Automatic,"$28,820",EX-L,sedan
+401649933,2.4L 4-cyl. CVT Automatic,"$30,820",EX-L w/Navigation and Honda Sensing,sedan
+401649931,3.5L V6 6-speed Automatic,"$30,895",EX-L V-6,sedan
+401649928,3.5L V6 6-speed Automatic,"$32,895",EX-L V-6 w/Navigation and Honda Sensing,sedan
+401649923,3.5L V6 6-speed Automatic,"$34,830",Touring V-6,sedan
+401718942,2.0L 4-cyl. Turbo 6-speed Manual,"$33,900",Type R,type-r
+200731280,1.5L 4-cyl. Turbo 6-speed Manual,"$19,700",LX,hatchback
+401672327,1.5L 4-cyl. Turbo CVT Automatic,"$20,500",LX,hatchback
+401672329,1.5L 4-cyl. Turbo 6-speed Manual,"$21,300",Sport,hatchback
+401672331,1.5L 4-cyl. Turbo CVT Automatic,"$22,100",Sport,hatchback
+401672326,1.5L 4-cyl. Turbo CVT Automatic,"$22,800",EX,hatchback
+401672332,1.5L 4-cyl. Turbo CVT Automatic,"$25,300",EX-L Navigation,hatchback
+401704371,1.5L 4-cyl. Turbo CVT Automatic,"$28,300",Sport Touring,hatchback
+401718942,2.0L 4-cyl. Turbo 6-speed Manual,"$33,900",Type R,hatchback
+200707982,3.5L V6 6-speed Automatic,"$30,145",LX,suv
+200738531,3.5L V6 AWD 6-speed Automatic,"$31,945",LX,suv
+200738527,3.5L V6 6-speed Automatic,"$32,580",EX,suv
+200738532,3.5L V6 6-speed Automatic,"$33,580",EX w/Honda Sensing,suv
+200738524,3.5L V6 AWD 6-speed Automatic,"$34,380",EX,suv
+200738530,3.5L V6 AWD 6-speed Automatic,"$35,380",EX w/Honda Sensing,suv
+200738528,3.5L V6 6-speed Automatic,"$36,055",EX-L,suv
+200738520,3.5L V6 6-speed Automatic,"$37,055",EX-L w/Navigation,suv
+200738529,3.5L V6 6-speed Automatic,"$37,055",EX-L w/Honda Sensing,suv
+200738522,3.5L V6 6-speed Automatic,"$37,655",EX-L w/Rear Entertainment System,suv
+200738519,3.5L V6 AWD 6-speed Automatic,"$37,855",EX-L,suv
+200738523,3.5L V6 AWD 6-speed Automatic,"$38,855",EX-L w/Navigation,suv
+200738533,3.5L V6 AWD 6-speed Automatic,"$38,855",EX-L w/Honda Sensing,suv
+200738526,3.5L V6 AWD 6-speed Automatic,"$39,455",EX-L w/Rear Entertainment System,suv
+200738521,3.5L V6 9-speed Automatic,"$41,170",Touring w/Navigation and Rear Entertainment System,suv
+200738534,3.5L V6 AWD 9-speed Automatic,"$42,970",Touring w/Navigation and Rear Entertainment System,suv
+200738525,3.5L V6 AWD 9-speed Automatic,"$46,570",Elite w/Navigation and Rear Entertainment System,suv
+200731214,2.0L 4-cyl. 6-speed Manual,"$18,640",LX,sedan
+401588685,2.0L 4-cyl. CVT Automatic,"$19,440",LX,sedan
+401588679,2.0L 4-cyl. CVT Automatic,"$20,440",LX w/Honda Sensing,sedan
+401588675,2.0L 4-cyl. CVT Automatic,"$21,040",EX,sedan
+401588683,2.0L 4-cyl. CVT Automatic,"$22,040",EX w/Honda Sensing,sedan
+401588684,1.5L 4-cyl. Turbo CVT Automatic,"$22,200",EX-T,sedan
+401588676,1.5L 4-cyl. Turbo CVT Automatic,"$23,200",EX-T w/Honda Sensing,sedan
+401588682,1.5L 4-cyl. Turbo CVT Automatic,"$23,700",EX-L,sedan
+401588673,1.5L 4-cyl. Turbo CVT Automatic,"$24,700",EX-L w/Navigation,sedan
+401588680,1.5L 4-cyl. Turbo CVT Automatic,"$24,700",EX-L w/Honda Sensing,sedan
+401588674,1.5L 4-cyl. Turbo CVT Automatic,"$26,500",Touring,sedan
+401679045,2.0L 4-cyl. 6-speed Manual,"$18,740",LX,sedan
+401679040,2.0L 4-cyl. CVT Automatic,"$19,540",LX,sedan
+401679044,2.0L 4-cyl. CVT Automatic,"$20,540",LX w/Honda Sensing,sedan
+401679042,2.0L 4-cyl. CVT Automatic,"$21,140",EX,sedan
+401679047,1.5L 4-cyl. Turbo 6-speed Manual,"$21,500",EX-T,sedan
+401679037,2.0L 4-cyl. CVT Automatic,"$22,140",EX w/Honda Sensing,sedan
+401679039,1.5L 4-cyl. Turbo CVT Automatic,"$22,300",EX-T,sedan
+401679046,1.5L 4-cyl. Turbo CVT Automatic,"$23,300",EX-T w/Honda Sensing,sedan
+401679036,1.5L 4-cyl. Turbo CVT Automatic,"$23,800",EX-L,sedan
+401714474,1.5L 4-cyl. Turbo 6-speed Manual,"$23,900",Si,sedan
+401714476,1.5L 4-cyl. Turbo 6-speed Manual,"$24,100",Si w/Summer Tires,sedan
+401679038,1.5L 4-cyl. Turbo CVT Automatic,"$24,800",EX-L w/Honda Sensing,sedan
+401679043,1.5L 4-cyl. Turbo CVT Automatic,"$24,800",EX-L w/Navigation,sedan
+401679041,1.5L 4-cyl. Turbo CVT Automatic,"$26,600",Touring,sedan
+401597746,1.5L 4-cyl. Hybrid CVT Automatic,"$19,560",One,hatchback
+401597749,1.5L 4-cyl. Hybrid CVT Automatic,"$20,360",Two,hatchback
+401597750,1.5L 4-cyl. Hybrid CVT Automatic,"$21,355",Persona Series Special Edition,hatchback
+401597747,1.5L 4-cyl. Hybrid CVT Automatic,"$21,785",Three,hatchback
+401597748,1.5L 4-cyl. Hybrid CVT Automatic,"$24,495",Four,hatchback
+401696204,1.5L 4-cyl. Hybrid CVT Automatic,"$20,150",One,hatchback
+401696203,1.5L 4-cyl. Hybrid CVT Automatic,"$20,950",Two,hatchback
+401696205,1.5L 4-cyl. Hybrid CVT Automatic,"$22,375",Three,hatchback
+401696202,1.5L 4-cyl. Hybrid CVT Automatic,"$24,965",Four,hatchback
+401725244,1.5L 4-cyl. Hybrid CVT Automatic,"$20,630",One,hatchback
+401725247,1.5L 4-cyl. Hybrid CVT Automatic,"$21,430",Two,hatchback
+401725245,1.5L 4-cyl. Hybrid CVT Automatic,"$22,855",Three,hatchback
+401725246,1.5L 4-cyl. Hybrid CVT Automatic,"$24,965",Four,hatchback
+401628169,2.0L 4-cyl. 6-speed Manual,"$26,255",Base,coupe
+401670320,2.0L 4-cyl. 6-speed Automatic,"$26,975",Base,coupe
+401706976,2.0L 4-cyl. 6-speed Manual,"$29,155",Special Edition,coupe
+401706977,2.0L 4-cyl. 6-speed Automatic,"$29,875",Special Edition,coupe
+200746616,2.5L 4-cyl. 6-speed Automatic,"$23,070",LE,sedan
+200746619,2.5L 4-cyl. 6-speed Automatic,"$23,840",SE,sedan
+200746620,2.5L 4-cyl. 6-speed Automatic,"$25,715",Special Edition,sedan
+200746615,2.5L 4-cyl. 6-speed Automatic,"$26,310",XSE,sedan
+200746618,2.5L 4-cyl. 6-speed Automatic,"$26,310",XLE,sedan
+200746614,3.5L V6 6-speed Automatic,"$31,370",XLE,sedan
+200746617,3.5L V6 6-speed Automatic,"$31,370",XSE,sedan
+401647953,2.5L 4-cyl. 6-speed Automatic,"$23,070",LE,sedan
+401647954,2.5L 4-cyl. 6-speed Automatic,"$23,840",SE,sedan
+401647950,2.5L 4-cyl. 6-speed Automatic,"$26,310",XSE,sedan
+401647955,2.5L 4-cyl. 6-speed Automatic,"$26,310",XLE,sedan
+401647951,3.5L V6 6-speed Automatic,"$31,370",XLE,sedan
+401647952,3.5L V6 6-speed Automatic,"$31,370",XSE,sedan
+401699938,2.5L 4-cyl. 8-speed Automatic,"$23,495",L,sedan
+401720477,2.5L 4-cyl. 8-speed Automatic,"$24,000",LE,sedan
+401720480,2.5L 4-cyl. 8-speed Automatic,"$25,200",SE,sedan
+401720479,2.5L 4-cyl. 8-speed Automatic,"$28,450",XLE,sedan
+401720475,2.5L 4-cyl. 8-speed Automatic,"$29,000",XSE,sedan
+401720476,3.5L V6 8-speed Automatic,"$34,400",XLE,sedan
+401720478,3.5L V6 8-speed Automatic,"$34,950",XSE,sedan
+401583414,3.5L V6 6-speed Automatic,"$32,650",XLE,sedan
+401583412,3.5L V6 6-speed Automatic,"$34,400",XLE Plus,sedan
+401583413,3.5L V6 6-speed Automatic,"$35,850",XLE Premium,sedan
+401583410,3.5L V6 6-speed Automatic,"$37,050",Touring,sedan
+401583411,3.5L V6 6-speed Automatic,"$40,450",Limited,sedan
+401689592,3.5L V6 6-speed Automatic,"$33,300",XLE,sedan
+401689593,3.5L V6 6-speed Automatic,"$35,050",XLE Plus,sedan
+401689594,3.5L V6 6-speed Automatic,"$36,500",XLE Premium,sedan
+401689590,3.5L V6 6-speed Automatic,"$37,700",Touring,sedan
+401689591,3.5L V6 6-speed Automatic,"$41,100",Limited,sedan
+401573713,2.7L 4-cyl. 6-speed Automatic 5.0 ft. Bed,"$24,490",SR,double-cab
+401573723,2.7L 4-cyl. 6-speed Automatic 5.0 ft. Bed,"$26,635",SR5,double-cab
+401573735,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$28,345",SR5,double-cab
+401573724,3.5L V6 6-speed Automatic 6.1 ft. Bed,"$28,845",SR5,double-cab
+401573711,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$29,275",SR,double-cab
+401573720,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$31,125",TRD Off Road,double-cab
+401573726,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$31,125",TRD Sport,double-cab
+401573737,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$31,420",SR5,double-cab
+401573725,3.5L V6 6-speed Automatic 6.1 ft. Bed,"$31,625",TRD Sport,double-cab
+401573730,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$31,920",SR5,double-cab
+401573728,3.5L V6 4x4 6-speed Manual 5.0 ft. Bed,"$32,460",TRD Off Road,double-cab
+401573717,3.5L V6 4x4 6-speed Manual 6.1 ft. Bed,"$32,460",TRD Sport,double-cab
+401573710,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$34,090",TRD Sport,double-cab
+401573715,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$34,090",TRD Off Road,double-cab
+401573719,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$34,700",TRD Off Road,double-cab
+401573731,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$34,700",TRD Sport,double-cab
+401573722,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$35,105",Limited,double-cab
+401659177,2.7L 4-cyl. 6-speed Automatic 5.0 ft. Bed,"$25,405",SR,double-cab
+401659167,2.7L 4-cyl. 6-speed Automatic 5.0 ft. Bed,"$27,550",SR5,double-cab
+401659193,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$30,145",SR5,double-cab
+401659185,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$30,190",SR,double-cab
+401659172,3.5L V6 6-speed Automatic 6.1 ft. Bed,"$30,645",SR5,double-cab
+401659168,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$32,195",TRD Off Road,double-cab
+401659170,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$32,195",TRD Sport,double-cab
+401659173,3.5L V6 6-speed Automatic 6.1 ft. Bed,"$32,695",TRD Sport,double-cab
+401659182,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$33,220",SR5,double-cab
+401659188,3.5L V6 4x4 6-speed Manual 5.0 ft. Bed,"$33,530",TRD Off Road,double-cab
+401659181,3.5L V6 4x4 6-speed Manual 6.1 ft. Bed,"$33,530",TRD Sport,double-cab
+401659190,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$33,720",SR5,double-cab
+401659175,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$35,160",TRD Off Road,double-cab
+401659186,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$35,160",TRD Sport,double-cab
+401659179,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$35,770",TRD Off Road,double-cab
+401659189,3.5L V6 4x4 6-speed Automatic 6.1 ft. Bed,"$35,770",TRD Sport,double-cab
+401659166,3.5L V6 6-speed Automatic 5.0 ft. Bed,"$36,175",Limited,double-cab
+401659171,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$39,250",Limited,double-cab
+401659196,3.5L V6 4x4 6-speed Manual 5.0 ft. Bed,"$41,215",TRD PRO,double-cab
+401659195,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$43,215",TRD PRO,double-cab
+401573727,3.5L V6 4x4 6-speed Automatic 5.0 ft. Bed,"$38,180",Limited,double-cab
+200749716,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$109,300",AMG GLE 63 S 4MATIC,amg-gle-63-s-4matic
+401597613,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$32,500",GLA 250,suv
+401597611,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$34,500",GLA 250 4MATIC,suv
+401597612,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$49,580",AMG GLA 45 4MATIC,suv
+401660458,2.0L 4-cyl. Turbo 7-speed Automatic,"$32,850",GLA 250,suv
+401660459,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$34,850",GLA 250 4MATIC,suv
+401660457,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$49,900",AMG GLA 45 4MATIC,suv
+401709811,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$33,400",GLA 250,suv
+401709810,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$35,400",GLA 250 4MATIC,suv
+401709812,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$50,600",AMG GLA 45 4MATIC,suv
+200748635,3.0L V6 Twin-turbo Hybrid AWD 7-speed Automatic,"$65,550",GLE 550e 4MATIC,hybrid
+401660744,3.0L V6 Twin-turbo Hybrid AWD 7-speed Automatic,"$66,300",GLE 550e 4MATIC,hybrid
+401601388,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$32,050",CLA 250,sedan
+401601389,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$34,050",CLA 250 4MATIC,sedan
+401601387,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$49,500",AMG CLA 45,sedan
+401665029,2.0L 4-cyl. Turbo 7-speed Automatic,"$32,400",CLA 250,sedan
+401665030,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$34,400",CLA 250 4MATIC,sedan
+401665031,2.0L 4-cyl. Turbo AWD 7-speed Automatic,"$49,950",AMG CLA 45,sedan
+401717008,2.0L 4-cyl. Turbo 7-speed Automated Manual,"$32,700",CLA 250,sedan
+401717006,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$34,700",CLA 250 4MATIC,sedan
+401717007,2.0L 4-cyl. Turbo AWD 7-speed Automated Manual,"$50,400",AMG CLA 45,sedan
+200735400,2.0L 4-cyl. Turbo 9-speed Automatic,"$38,950",GLC 300,suv
+401589096,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$40,950",GLC 300 4MATIC,suv
+401638666,2.0L 4-cyl. Turbo 9-speed Automatic,"$39,150",GLC 300,suv
+401662174,2.0L 4-cyl. Turbo AWD 9-speed Automatic,"$41,150",GLC 300 4MATIC,suv
+401694490,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$54,900",AMG GLC 43,suv
+401694490,3.0L V6 Twin-turbo AWD 9-speed Automatic,"$54,900",AMG GLC 43,amg-glc-43
+401694832,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$164,750",AMG S 63 4MATIC,amg-s-63-4matic
+200694320,2.1L 4-cyl. Twin-turbo Diesel AWD 7-speed Automatic,"$52,500",GLE 300d 4MATIC,diesel
+200732532,3.0L V6 Turbo Diesel AWD 7-speed Automatic,"$63,600",GL 350 BlueTEC 4MATIC,suv
+200732533,3.0L V6 Twin-turbo AWD 7-speed Automatic,"$65,200",GL 450 4MATIC,suv
+200732531,4.7L V8 Twin-turbo AWD 7-speed Automatic,"$89,950",GL 550 4MATIC,suv
+200732534,5.5L V8 Twin-turbo AWD 7-speed Automatic,"$119,450",GL 63 AMG,suv
+200721410,2.0L 4-cyl. Turbo 7-speed Automatic,"$28,950",Cargo,minivan
+401567064,2.0L 4-cyl. Turbo 7-speed Automatic,"$32,500",Passenger,minivan
+401700064,2.0L 4-cyl. Turbo 7-speed Automatic,"$25,995",Worker Cargo,minivan
+401700014,2.0L 4-cyl. Turbo 7-speed Automatic,"$28,950",Cargo,minivan
+401700065,2.0L 4-cyl. Turbo 7-speed Automatic,"$29,995",Worker Passenger,minivan
+401700013,2.0L 4-cyl. Turbo 7-speed Automatic,"$32,900",Passenger,minivan
+200745346,5.5L V8 7-speed Automatic,"$72,600",AMG SLK 55,amg-slk-55
+200734753,2.0L 4-cyl. 6-speed Manual,"$25,305",Base,coupe
+200734752,2.0L 4-cyl. 6-speed Automatic,"$26,405",Base,coupe
+401613790,2.0L 4-cyl. 6-speed Manual,"$29,510",Release Series 2.0,coupe
+401613789,2.0L 4-cyl. 6-speed Automatic,"$30,610",Release Series 2.0,coupe
+200730056,1.5L 4-cyl. 6-speed Manual,"$15,700",Base,sedan
+200742456,1.5L 4-cyl. 6-speed Automatic,"$16,800",Base,sedan
+200722069,1.8L 4-cyl. 6-speed Manual,"$18,460",Base,hatchback
+200742459,1.8L 4-cyl. CVT Automatic,"$19,200",Base,hatchback
+200745613,2.5L 4-cyl. 6-speed Manual,"$19,385",Base,hatchback
+200745614,2.5L 4-cyl. 6-speed Automatic,"$20,535",Base,hatchback
+401642440,2.5L 4-cyl. 6-speed Manual,"$23,190",Release Series 10.0,hatchback
+401642439,2.5L 4-cyl. 6-speed Automatic,"$24,340",Release Series 10.0,hatchback
+401597486,2.0L 4-cyl. Turbo 6-speed Manual,"$29,280",2.0T GLI SEL PZEV,20t-gli-sel-pzev
+401597488,2.0L 4-cyl. Turbo 6-speed Automatic,"$30,380",2.0T GLI SEL PZEV,20t-gli-sel-pzev
+200759791,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$50,245",TDI Sport w/Technology,diesel
+200759792,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$54,950",TDI Lux,diesel
+200759789,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$63,245",TDI Executive,diesel
+401628497,1.8L 4-cyl. Turbo 6-speed Automatic,"$19,595",1.8T Wolfsburg Edition,hatchback
+401575741,1.8L 4-cyl. Turbo 6-speed Automatic,"$19,795",1.8T S,hatchback
+401575744,1.8L 4-cyl. Turbo 6-speed Automatic,"$19,795",1.8T S PZEV,hatchback
+401575745,1.8L 4-cyl. Turbo 5-speed Manual,"$21,350",1.8T SE,hatchback
+401575746,1.8L 4-cyl. Turbo 5-speed Manual,"$21,350",1.8T SE PZEV,hatchback
+401575747,1.8L 4-cyl. Turbo 6-speed Automatic,"$22,450",1.8T SE,hatchback
+401575748,1.8L 4-cyl. Turbo 6-speed Automatic,"$22,450",1.8T SE PZEV,hatchback
+401633599,1.8L 4-cyl. Turbo 6-speed Automatic,"$23,995",1.8T Dune,hatchback
+401633600,1.8L 4-cyl. Turbo 6-speed Automatic,"$23,995",1.8T Dune PZEV,hatchback
+401575749,1.8L 4-cyl. Turbo 6-speed Automatic,"$25,975",1.8T SEL,hatchback
+401575750,1.8L 4-cyl. Turbo 6-speed Automatic,"$25,975",1.8T SEL PZEV,hatchback
+401575757,2.0L 4-cyl. Turbo 6-speed Manual,"$25,995",R-Line SE PZEV,hatchback
+401575758,2.0L 4-cyl. Turbo 6-speed Manual,"$25,995",R-Line SE,hatchback
+401575755,2.0L 4-cyl. Turbo 6-speed Automated Manual,"$27,095",R-Line SE PZEV,hatchback
+401575756,2.0L 4-cyl. Turbo 6-speed Automated Manual,"$27,095",R-Line SE,hatchback
+401575766,2.0L 4-cyl. Turbo 6-speed Manual,"$31,450",R-Line SEL,hatchback
+401575767,2.0L 4-cyl. Turbo 6-speed Manual,"$31,450",R-Line SEL PZEV,hatchback
+401575765,2.0L 4-cyl. Turbo 6-speed Automated Manual,"$32,550",R-Line SEL PZEV,hatchback
+401575768,2.0L 4-cyl. Turbo 6-speed Automated Manual,"$32,550",R-Line SEL,hatchback
+401691522,1.8L 4-cyl. Turbo 6-speed Automatic,"$19,995",1.8T S,hatchback
+401691527,1.8L 4-cyl. Turbo 6-speed Automatic,"$20,475",1.8T Classic,hatchback
+401691528,1.8L 4-cyl. Turbo 6-speed Automatic,"$21,890",#PinkBeetle,hatchback
+401691524,1.8L 4-cyl. Turbo 6-speed Automatic,"$22,450",1.8T SE,hatchback
+401691525,1.8L 4-cyl. Turbo 6-speed Automatic,"$23,995",1.8T Dune,hatchback
+401691526,1.8L 4-cyl. Turbo 6-speed Automatic,"$25,975",1.8T SEL,hatchback
+401691523,2.0L 4-cyl. Turbo 6-speed Automated Manual,"$32,550",R-Line SEL,hatchback
+200749534,2.0L 4-cyl. Turbo 6-speed Automatic,"$24,890",S,suv
+200749532,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$26,865",S 4Motion,suv
+200749528,2.0L 4-cyl. Turbo 6-speed Automatic,"$28,700",R-Line,suv
+200749530,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$30,675",R-Line 4Motion,suv
+200749533,2.0L 4-cyl. Turbo 6-speed Automatic,"$31,390",SE,suv
+200749531,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$33,365",SE 4Motion,suv
+200749529,2.0L 4-cyl. Turbo 6-speed Automatic,"$34,445",SEL,suv
+200749527,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$36,420",SEL 4Motion,suv
+401578394,2.0L 4-cyl. Turbo 6-speed Automatic,"$24,995",S,suv
+401665727,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$26,970",S 4Motion,suv
+401665723,2.0L 4-cyl. Turbo 6-speed Automatic,"$30,095",Wolfsburg Edition,suv
+401665725,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$32,070",Wolfsburg Edition 4Motion,suv
+401665726,2.0L 4-cyl. Turbo 6-speed Automatic,"$32,605",Sport,suv
+401665722,2.0L 4-cyl. Turbo 6-speed Automatic,"$34,500",SEL,suv
+401665724,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$34,580",Sport 4Motion,suv
+401665721,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$36,475",SEL 4Motion,suv
+401720215,2.0L 4-cyl. Turbo 8-speed Automatic,"$25,345",S,suv
+401720217,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$26,645",S 4Motion,suv
+401720216,2.0L 4-cyl. Turbo 8-speed Automatic,"$29,080",SE,suv
+401720214,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$30,380",SE 4Motion,suv
+401720219,2.0L 4-cyl. Turbo 8-speed Automatic,"$32,550",SEL,suv
+401720218,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$33,850",SEL 4Motion,suv
+401720222,2.0L 4-cyl. Turbo 8-speed Automatic,"$36,250",SEL Premium,suv
+401720223,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$37,550",SEL Premium 4Motion,suv
+200759790,3.6L V6 AWD 8-speed Automatic,"$42,705",VR6 Sport,suv
+200759793,3.6L V6 AWD 8-speed Automatic,"$46,745",VR6 Sport w/Technology,suv
+200759791,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$50,245",TDI Sport w/Technology,suv
+200759794,3.6L V6 AWD 8-speed Automatic,"$51,450",VR6 Lux,suv
+200759792,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$54,950",TDI Lux,suv
+200759795,3.6L V6 AWD 8-speed Automatic,"$59,745",VR6 Executive,suv
+200759789,3.0L V6 Turbo Diesel AWD 8-speed Automatic,"$63,245",TDI Executive,suv
+401666616,3.6L V6 AWD 8-speed Automatic,"$49,495",V6 Sport w/Technology,suv
+401666618,3.6L V6 AWD 8-speed Automatic,"$52,795",V6 Wolfsburg Edition,suv
+401666617,3.6L V6 AWD 8-speed Automatic,"$60,195",V6 Executive,suv
+401597483,1.4L 4-cyl. Turbo Hybrid 7-speed Automated Manual,"$31,120",Hybrid SEL Premium,hybrid
+401645676,2.0L 4-cyl. Turbo 8-speed Automatic,"$49,950",T5 R-Design,wagon
+401707056,2.0L 4-cyl. Turbo 8-speed Automatic,"$51,950",T5 Inscription,wagon
+401707058,2.0L 4-cyl. AWD 8-speed Automatic,"$55,950",T6 R-Design,wagon
+401707059,2.0L 4-cyl. AWD 8-speed Automatic,"$57,950",T6 Inscription,wagon
+401578242,3.6L V6 Twin-turbo 8-speed Automatic,"$59,955",V-Sport,v-sport
+401656292,3.6L V6 Twin-turbo 8-speed Automatic,"$60,695",V-Sport,v-sport
+401575654,6.2L V8 8-speed Automatic,"$72,970",Standard,suv
+401575655,6.2L V8 4x4 8-speed Automatic,"$75,570",Standard,suv
+401575658,6.2L V8 8-speed Automatic,"$77,045",Luxury,suv
+401575661,6.2L V8 4x4 8-speed Automatic,"$79,645",Luxury,suv
+401575660,6.2L V8 8-speed Automatic,"$81,545",Premium,suv
+401575659,6.2L V8 4x4 8-speed Automatic,"$84,145",Premium,suv
+401575656,6.2L V8 8-speed Automatic,"$89,350",Platinum,suv
+401575657,6.2L V8 4x4 8-speed Automatic,"$91,950",Platinum,suv
+401661761,6.2L V8 8-speed Automatic,"$73,395",Base,suv
+401661762,6.2L V8 4x4 8-speed Automatic,"$76,395",Base,suv
+401661763,6.2L V8 8-speed Automatic,"$78,395",Luxury,suv
+401661768,6.2L V8 4x4 8-speed Automatic,"$81,395",Luxury,suv
+401661767,6.2L V8 8-speed Automatic,"$82,895",Premium Luxury,suv
+401661764,6.2L V8 4x4 8-speed Automatic,"$85,895",Premium Luxury,suv
+401661765,6.2L V8 8-speed Automatic,"$92,195",Platinum,suv
+401661766,6.2L V8 4x4 8-speed Automatic,"$95,195",Platinum,suv
+401614378,2.0L 4-cyl. Turbo 8-speed Automatic,"$53,495",Base,sedan
+401614376,3.6L V6 AWD 8-speed Automatic,"$55,495",Base,sedan
+401614381,2.0L 4-cyl. Turbo 8-speed Automatic,"$58,395",Luxury,sedan
+401614380,3.6L V6 AWD 8-speed Automatic,"$60,395",Luxury,sedan
+401614383,3.6L V6 AWD 8-speed Automatic,"$63,570",Premium Luxury,sedan
+401614382,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$64,395",Luxury,sedan
+401614377,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$67,570",Premium Luxury,sedan
+401614379,3.6L V6 AWD 8-speed Automatic,"$83,465",Platinum,sedan
+200693498,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$87,465",Platinum,sedan
+401656087,2.0L 4-cyl. Turbo 8-speed Automatic,"$53,795",Base,sedan
+401656084,3.6L V6 AWD 8-speed Automatic,"$55,795",Base,sedan
+401656090,2.0L 4-cyl. Turbo 8-speed Automatic,"$58,695",Luxury,sedan
+401656089,3.6L V6 AWD 8-speed Automatic,"$60,695",Luxury,sedan
+401656092,3.6L V6 AWD 8-speed Automatic,"$63,895",Premium Luxury,sedan
+401656091,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$64,695",Luxury,sedan
+401656086,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$67,895",Premium Luxury,sedan
+401705815,2.0L 4-cyl. Turbo Hybrid Automatic,"$75,095",PLUG-IN,sedan
+401656088,3.6L V6 AWD 8-speed Automatic,"$83,795",Platinum,sedan
+401656085,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$87,795",Platinum,sedan
+401720912,2.0L 4-cyl. Turbo 8-speed Automatic,"$54,095",Base,sedan
+401720915,3.6L V6 AWD 8-speed Automatic,"$56,095",Base,sedan
+401720908,2.0L 4-cyl. Turbo 8-speed Automatic,"$59,195",Luxury,sedan
+401720909,3.6L V6 AWD 8-speed Automatic,"$61,195",Luxury,sedan
+401720907,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$65,195",Luxury,sedan
+401720911,3.6L V6 AWD 8-speed Automatic,"$65,295",Premium Luxury,sedan
+401720913,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$69,295",Premium Luxury,sedan
+401720910,3.6L V6 AWD 8-speed Automatic,"$84,295",Platinum,sedan
+401720914,3.0L V6 Twin-turbo AWD 8-speed Automatic,"$88,295",Platinum,sedan
+401578249,2.0L 4-cyl. Turbo 8-speed Automatic,"$45,560",Standard,sedan
+401578250,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$47,560",Standard,sedan
+401578251,2.0L 4-cyl. Turbo 8-speed Automatic,"$51,285",Luxury,sedan
+401578252,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$53,285",Luxury,sedan
+401578253,3.6L V6 8-speed Automatic,"$53,285",Luxury,sedan
+401578254,3.6L V6 AWD 8-speed Automatic,"$55,285",Luxury,sedan
+401578241,2.0L 4-cyl. Turbo 8-speed Automatic,"$56,285",Performance,sedan
+401578243,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$58,285",Performance,sedan
+401578244,3.6L V6 8-speed Automatic,"$58,285",Performance,sedan
+401578242,3.6L V6 Twin-turbo 8-speed Automatic,"$59,955",V-Sport,sedan
+401578246,3.6L V6 AWD 8-speed Automatic,"$60,285",Performance,sedan
+401578245,2.0L 4-cyl. Turbo 8-speed Automatic,"$60,685",Premium,sedan
+401578247,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$62,685",Premium,sedan
+401578248,3.6L V6 8-speed Automatic,"$62,685",Premium,sedan
+401578240,3.6L V6 AWD 8-speed Automatic,"$64,685",Premium,sedan
+401578239,3.6L V6 Twin-turbo 8-speed Automatic,"$69,955",V-Sport Premium,sedan
+401656298,2.0L 4-cyl. Turbo 8-speed Automatic,"$45,995",Base,sedan
+401656296,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$47,995",Base,sedan
+401656297,2.0L 4-cyl. Turbo 8-speed Automatic,"$51,695",Luxury,sedan
+401656300,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$53,695",Luxury,sedan
+401656301,3.6L V6 8-speed Automatic,"$53,695",Luxury,sedan
+401656299,3.6L V6 AWD 8-speed Automatic,"$55,695",Luxury,sedan
+401656295,3.6L V6 8-speed Automatic,"$59,195",Premium Luxury,sedan
+401656292,3.6L V6 Twin-turbo 8-speed Automatic,"$60,695",V-Sport,sedan
+401656294,3.6L V6 AWD 8-speed Automatic,"$61,195",Premium Luxury,sedan
+401656293,3.6L V6 Twin-turbo 8-speed Automatic,"$70,795",V-Sport Premium Luxury,sedan
+200714823,0-cyl. Hybrid 1-speed Direct Drive,"$65,000",Base,coupe
+401633359,5.9L V12 7-speed Automated Manual,"$183,695",Base,coupe
+401699785,5.9L V12 7-speed Automated Manual,"$186,195",Base,coupe
+401699784,5.9L V12 7-speed Manual,"$197,395",Base,coupe
+401710085,5.9L V12 8-speed Automatic,"$293,650",Base,coupe
+401632440,5.9L V12 8-speed Automatic,"$206,000",Base,sedan
+401698012,5.9L V12 8-speed Automatic,"$206,000",Base,sedan
+401660114,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$44,200",T5 Platinum,sedan
+401588249,2.0L 4-cyl. Turbo 8-speed Automatic,"$46,950",T5 Momentum,sedan
+401661837,2.0L 4-cyl. Turbo 8-speed Automatic,"$50,450",T5 Inscription,sedan
+401661839,2.0L 4-cyl. AWD 8-speed Automatic,"$52,950",T6 Momentum,sedan
+401661838,2.0L 4-cyl. AWD 8-speed Automatic,"$56,250",T6 Inscription,sedan
+401647270,3.0L 6-cyl. Turbo AWD 6-speed Automatic,"$59,700",T6 Polestar,t6-polestar
+401714495,2.0L 4-cyl. AWD 8-speed Automatic,"$60,000",T6 Polestar,t6-polestar
+401695786,3.6L V6 Hybrid Automatic,"$41,995",Premium,minivan
+401695787,3.6L V6 Hybrid Automatic,"$44,995",Platinum,minivan
+401723182,3.6L V6 Hybrid Automatic,"$39,995",Touring Plus,minivan
+401723181,3.6L V6 Hybrid Automatic,"$41,995",Touring L,minivan
+401723180,3.6L V6 Hybrid Automatic,"$44,995",Limited,minivan
+200740451,3.6L V6 FFV 6-speed Automatic,"$29,995",LX,minivan
+200740452,3.6L V6 FFV 6-speed Automatic,"$31,875",Touring,minivan
+200740453,3.6L V6 FFV 6-speed Automatic,"$34,145",S,minivan
+200740454,3.6L V6 FFV 6-speed Automatic,"$35,845",Touring-L,minivan
+200740463,3.6L V6 FFV 6-speed Automatic,"$37,345",Anniversary Edition,minivan
+200740455,3.6L V6 FFV 6-speed Automatic,"$38,445",Limited,minivan
+200740456,3.6L V6 FFV 6-speed Automatic,"$40,645",Limited Platinum,minivan
+200696429,3.6L V6 9-speed Automatic,"$28,995",LX,minivan
+401633827,3.6L V6 9-speed Automatic,"$30,995",Touring,minivan
+401709615,3.6L V6 9-speed Automatic,"$32,360",Touring Plus,minivan
+401633828,3.6L V6 9-speed Automatic,"$34,995",Touring-L,minivan
+401633829,3.6L V6 9-speed Automatic,"$38,295",Touring-L Plus,minivan
+401633830,3.6L V6 9-speed Automatic,"$42,895",Limited,minivan
+401723446,3.6L V6 9-speed Automatic,"$26,995",L,minivan
+401723443,3.6L V6 9-speed Automatic,"$29,795",LX,minivan
+401723444,3.6L V6 9-speed Automatic,"$32,595",Touring Plus,minivan
+401723441,3.6L V6 9-speed Automatic,"$35,495",Touring L,minivan
+401723440,3.6L V6 9-speed Automatic,"$38,695",Touring L Plus,minivan
+401723442,3.6L V6 9-speed Automatic,"$43,695",Limited,minivan
+401724120,3.6L V6 8-speed Automatic,"$28,995",Touring,sedan
+401724121,3.6L V6 AWD 8-speed Automatic,"$31,495",Touring,sedan
+401725358,3.6L V6 8-speed Automatic,"$32,640",Touring L,sedan
+401725359,3.6L V6 AWD 8-speed Automatic,"$35,140",Touring L,sedan
+401723956,3.6L V6 8-speed Automatic,"$35,795",S,sedan
+401723954,3.6L V6 8-speed Automatic,"$36,595",Limited,sedan
+401723955,3.6L V6 AWD 8-speed Automatic,"$38,295",S,sedan
+401723957,3.6L V6 AWD 8-speed Automatic,"$39,095",Limited,sedan
+401723958,5.7L V8 8-speed Automatic,"$40,995",C,sedan
+200741384,2.4L 4-cyl. FFV 9-speed Automatic,"$21,995",LX,sedan
+401630236,2.4L 4-cyl. FFV 9-speed Automatic,"$22,490",Touring,sedan
+200741385,2.4L 4-cyl. FFV 9-speed Automatic,"$24,490",Limited,sedan
+200741386,2.4L 4-cyl. FFV 9-speed Automatic,"$25,690",S,sedan
+200741387,2.4L 4-cyl. FFV 9-speed Automatic,"$27,570",C,sedan
+401630238,2.4L 4-cyl. FFV 9-speed Automatic,"$27,795",C Platinum,sedan
+200741388,3.6L V6 FFV AWD 9-speed Automatic,"$29,905",S,sedan
+200741389,3.6L V6 FFV AWD 9-speed Automatic,"$31,785",C,sedan
+401649789,2.4L 4-cyl. FFV 9-speed Automatic,"$22,115",LX,sedan
+401649790,2.4L 4-cyl. FFV 9-speed Automatic,"$22,610",Touring,sedan
+401649796,2.4L 4-cyl. FFV 9-speed Automatic,"$24,610",Limited Platinum,sedan
+401649814,2.4L 4-cyl. FFV 9-speed Automatic,"$25,690",S,sedan
+401649815,2.4L 4-cyl. FFV 9-speed Automatic,"$26,685",S Alloy Edition,sedan
+401649819,2.4L 4-cyl. FFV 9-speed Automatic,"$27,795",C Platinum,sedan
+401649816,3.6L V6 FFV AWD 9-speed Automatic,"$29,905",S,sedan
+401649817,3.6L V6 FFV AWD 9-speed Automatic,"$30,900",S Alloy Edition,sedan
+401650125,3.6L V6 FFV AWD 9-speed Automatic,"$31,785",C Platinum,sedan
+401705815,2.0L 4-cyl. Turbo Hybrid Automatic,"$75,095",PLUG-IN,hybrid
+401581027,2.0L 4-cyl. Turbo 8-speed Automatic,"$37,995",Standard,coupe
+401581026,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$40,445",Standard,coupe
+401581024,2.0L 4-cyl. Turbo 8-speed Automatic,"$41,920",Luxury,coupe
+401581025,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$44,520",Luxury,coupe
+401581033,3.6L V6 8-speed Automatic,"$45,150",Luxury,coupe
+401581028,2.0L 4-cyl. Turbo 8-speed Automatic,"$45,445",Performance,coupe
+401581036,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$47,445",Performance,coupe
+401581034,2.0L 4-cyl. Turbo 8-speed Automatic,"$47,605",Premium,coupe
+401581023,3.6L V6 AWD 8-speed Automatic,"$47,750",Luxury,coupe
+401581029,3.6L V6 8-speed Automatic,"$48,675",Performance,coupe
+401581030,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$48,715",Premium,coupe
+401581035,3.6L V6 AWD 8-speed Automatic,"$50,675",Performance,coupe
+401581032,3.6L V6 8-speed Automatic,"$50,835",Premium,coupe
+401581031,3.6L V6 AWD 8-speed Automatic,"$51,945",Premium,coupe
+401650441,2.0L 4-cyl. Turbo 8-speed Automatic,"$37,595",Base,coupe
+401650440,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$39,995",Base,coupe
+401650442,2.0L 4-cyl. Turbo 8-speed Automatic,"$41,395",Luxury,coupe
+401650443,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$43,395",Luxury,coupe
+401650444,3.6L V6 8-speed Automatic,"$46,995",Premium Luxury,coupe
+401650438,3.6L V6 AWD 8-speed Automatic,"$48,995",Premium Luxury,coupe
+401650439,3.6L V6 8-speed Automatic,"$49,495",Premium Performance,coupe
+401724112,2.0L 4-cyl. Turbo 8-speed Automatic,"$37,895",Base,coupe
+401724113,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$40,295",Base,coupe
+401724115,2.0L 4-cyl. Turbo 8-speed Automatic,"$41,695",Luxury,coupe
+401724114,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$43,695",Luxury,coupe
+401724116,3.6L V6 8-speed Automatic,"$47,295",Premium Luxury,coupe
+401724118,3.6L V6 AWD 8-speed Automatic,"$49,295",Premium Luxury,coupe
+401724117,3.6L V6 8-speed Automatic,"$49,795",Premium Performance,coupe
+200689239,3.6L V6 Twin-turbo 6-speed Manual,"$62,665",Base,coupe
+401655127,3.6L V6 Twin-turbo 6-speed Manual,"$62,895",Base,coupe
+401724109,3.6L V6 Twin-turbo 6-speed Manual,"$63,195",Base,coupe
+200742450,3.6L V6 8-speed Automatic,"$39,395",Base,suv
+401632269,3.6L V6 8-speed Automatic,"$45,295",Luxury,suv
+401632273,3.6L V6 AWD 8-speed Automatic,"$47,795",Luxury,suv
+401632271,3.6L V6 8-speed Automatic,"$52,295",Premium Luxury,suv
+401632270,3.6L V6 AWD 8-speed Automatic,"$54,795",Premium Luxury,suv
+401632272,3.6L V6 AWD 8-speed Automatic,"$62,895",Platinum,suv
+401722893,3.6L V6 8-speed Automatic,"$39,995",Base,suv
+401722894,3.6L V6 AWD 8-speed Automatic,"$42,995",Base,suv
+401722897,3.6L V6 8-speed Automatic,"$45,995",Luxury,suv
+401722898,3.6L V6 AWD 8-speed Automatic,"$48,495",Luxury,suv
+401722896,3.6L V6 8-speed Automatic,"$52,495",Premium Luxury,suv
+401722895,3.6L V6 AWD 8-speed Automatic,"$54,995",Premium Luxury,suv
+401722899,3.6L V6 AWD 8-speed Automatic,"$62,995",Platinum,suv
+401575666,6.2L V8 8-speed Automatic,"$75,970",Standard,suv
+401575664,6.2L V8 4x4 8-speed Automatic,"$78,570",Standard,suv
+401575668,6.2L V8 8-speed Automatic,"$80,045",Luxury,suv
+401575665,6.2L V8 4x4 8-speed Automatic,"$82,645",Luxury,suv
+401575669,6.2L V8 8-speed Automatic,"$84,545",Premium,suv
+401575667,6.2L V8 4x4 8-speed Automatic,"$87,145",Premium,suv
+401575663,6.2L V8 8-speed Automatic,"$92,350",Platinum,suv
+401575670,6.2L V8 4x4 8-speed Automatic,"$94,950",Platinum,suv
+401661801,6.2L V8 8-speed Automatic,"$76,395",Base,suv
+401661803,6.2L V8 4x4 8-speed Automatic,"$79,395",Base,suv
+401661806,6.2L V8 8-speed Automatic,"$81,395",Luxury,suv
+401661802,6.2L V8 4x4 8-speed Automatic,"$84,395",Luxury,suv
+401661805,6.2L V8 8-speed Automatic,"$85,895",Premium Luxury,suv
+401661800,6.2L V8 4x4 8-speed Automatic,"$88,895",Premium Luxury,suv
+401661807,6.2L V8 8-speed Automatic,"$95,195",Platinum,suv
+401661804,6.2L V8 4x4 8-speed Automatic,"$98,195",Platinum,suv
+401580745,2.5L 4-cyl. 8-speed Automatic,"$33,215",Standard,sedan
+401580753,2.0L 4-cyl. Turbo 8-speed Automatic,"$35,245",Standard,sedan
+401580748,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$37,245",Standard,sedan
+401580750,2.5L 4-cyl. 8-speed Automatic,"$37,340",Luxury,sedan
+401580744,2.0L 4-cyl. Turbo 8-speed Automatic,"$39,340",Luxury,sedan
+401580752,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$41,340",Luxury,sedan
+401580749,3.6L V6 8-speed Automatic,"$41,340",Luxury,sedan
+401580746,2.0L 4-cyl. Turbo 8-speed Automatic,"$43,155",Performance,sedan
+401580751,3.6L V6 AWD 8-speed Automatic,"$43,340",Luxury,sedan
+401580742,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$45,155",Performance,sedan
+401580757,3.6L V6 8-speed Automatic,"$45,155",Performance,sedan
+401580747,2.0L 4-cyl. Turbo 8-speed Automatic,"$46,110",Premium,sedan
+401580743,3.6L V6 AWD 8-speed Automatic,"$47,155",Performance,sedan
+401580756,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$47,210",Premium,sedan
+401580754,3.6L V6 8-speed Automatic,"$48,110",Premium,sedan
+401580755,3.6L V6 AWD 8-speed Automatic,"$49,210",Premium,sedan
+401648808,2.0L 4-cyl. Turbo 8-speed Automatic,"$34,595",Base,sedan
+401648806,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$36,595",Base,sedan
+401648805,2.0L 4-cyl. Turbo 8-speed Automatic,"$38,395",Luxury,sedan
+401648809,2.0L 4-cyl. Turbo AWD 8-speed Automatic,"$40,395",Luxury,sedan
+401648811,3.6L V6 8-speed Automatic,"$43,995",Premium Luxury,sedan
+401648810,3.6L V6 AWD 8-speed Automatic,"$45,995",Premium Luxury,sedan
+401648807,3.6L V6 8-speed Automatic,"$46,995",Premium Performance,sedan
+200744028,3.6L V6 6-speed Automatic,"$37,605",Standard,suv
+200744025,3.6L V6 6-speed Automatic,"$43,640",Luxury,suv
+200744026,3.6L V6 6-speed Automatic,"$46,030",Performance,suv
+200744024,3.6L V6 AWD 6-speed Automatic,"$46,135",Luxury,suv
+200744029,3.6L V6 AWD 6-speed Automatic,"$48,840",Performance,suv
+200744030,3.6L V6 6-speed Automatic,"$48,920",Premium,suv
+200744027,3.6L V6 AWD 6-speed Automatic,"$51,730",Premium,suv
+200729078,2.0L 4-cyl. Hybrid CVT Automatic,"$35,190",Hybrid,sedan
+200729076,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,190",Base,sedan
+200729077,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,080",Base,sedan
+200729084,2.0L 4-cyl. Hybrid CVT Automatic,"$45,605",Black Label Hybrid,sedan
+200729082,2.0L 4-cyl. Turbo 6-speed Automatic,"$45,605",Black Label,sedan
+200729083,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$47,495",Black Label,sedan
+200737212,2.4L 4-cyl. 9-speed Automatic,"$23,495",Sport,suv
+200737213,2.4L 4-cyl. 9-speed Automatic,"$24,290",Altitude,suv
+200737214,2.4L 4-cyl. 9-speed Automatic,"$25,295",Latitude,suv
+200737216,2.4L 4-cyl. 4x4 9-speed Automatic,"$25,495",Sport,suv
+200737217,2.4L 4-cyl. 4x4 9-speed Automatic,"$26,290",Altitude,suv
+200737218,2.4L 4-cyl. 4x4 9-speed Automatic,"$27,295",Latitude,suv
+401626212,2.4L 4-cyl. 9-speed Automatic,"$27,875",75th Anniversary,suv
+200737215,2.4L 4-cyl. 9-speed Automatic,"$29,195",Limited,suv
+401626213,2.4L 4-cyl. 4x4 9-speed Automatic,"$29,875",75th Anniversary,suv
+401632265,2.4L 4-cyl. 9-speed Automatic,"$29,990",High Altitude,suv
+200737220,2.4L 4-cyl. 4x4 9-speed Automatic,"$30,995",Trailhawk,suv
+200737219,2.4L 4-cyl. 4x4 9-speed Automatic,"$31,195",Limited,suv
+401632266,2.4L 4-cyl. 4x4 9-speed Automatic,"$31,990",High Altitude,suv
+401632267,2.4L 4-cyl. 9-speed Automatic,"$34,695",Overland,suv
+401632268,3.2L V6 4x4 9-speed Automatic,"$38,395",Overland,suv
+401630485,2.0L 4-cyl. Hybrid CVT Automatic,"$35,170",Hybrid Premiere,sedan
+401630482,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,170",Premiere,sedan
+401630484,2.0L 4-cyl. Hybrid CVT Automatic,"$36,920",Hybrid Select,sedan
+401630478,2.0L 4-cyl. Turbo 6-speed Automatic,"$36,920",Select,sedan
+401630477,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,060",Premiere,sedan
+401630481,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$38,810",Select,sedan
+401630483,2.0L 4-cyl. Hybrid CVT Automatic,"$39,670",Hybrid Reserve,sedan
+401630480,2.0L 4-cyl. Turbo 6-speed Automatic,"$39,670",Reserve,sedan
+401630479,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$41,560",Reserve,sedan
+401630623,2.0L 4-cyl. Hybrid CVT Automatic,"$47,830",Hybrid Black Label,sedan
+401630625,2.0L 4-cyl. Turbo 6-speed Automatic,"$47,830",Black Label,sedan
+401630624,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$49,720",Black Label,sedan
+401723202,2.0L 4-cyl. Hybrid CVT Automatic,"$35,445",Hybrid Premiere,sedan
+401723201,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,445",Premiere,sedan
+401723203,2.0L 4-cyl. Hybrid CVT Automatic,"$37,195",Hybrid Select,sedan
+401723196,2.0L 4-cyl. Turbo 6-speed Automatic,"$37,195",Select,sedan
+401723195,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$37,335",Premiere,sedan
+401723198,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$39,085",Select,sedan
+401723200,2.0L 4-cyl. Hybrid CVT Automatic,"$40,010",Hybrid Reserve,sedan
+401723199,2.0L 4-cyl. Turbo 6-speed Automatic,"$40,010",Reserve,sedan
+401723197,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$41,900",Reserve,sedan
+401723204,2.0L 4-cyl. Hybrid CVT Automatic,"$47,830",Hybrid Black Label,sedan
+401723193,2.0L 4-cyl. Turbo 6-speed Automatic,"$47,830",Black Label,sedan
+401723194,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$49,720",Black Label,sedan
+200729078,2.0L 4-cyl. Hybrid CVT Automatic,"$35,190",Hybrid,hybrid
+200729084,2.0L 4-cyl. Hybrid CVT Automatic,"$45,605",Black Label Hybrid,hybrid
+401630485,2.0L 4-cyl. Hybrid CVT Automatic,"$35,170",Hybrid Premiere,hybrid
+401630484,2.0L 4-cyl. Hybrid CVT Automatic,"$36,920",Hybrid Select,hybrid
+401630483,2.0L 4-cyl. Hybrid CVT Automatic,"$39,670",Hybrid Reserve,hybrid
+401630623,2.0L 4-cyl. Hybrid CVT Automatic,"$47,830",Hybrid Black Label,hybrid
+401723202,2.0L 4-cyl. Hybrid CVT Automatic,"$35,445",Hybrid Premiere,hybrid
+401723203,2.0L 4-cyl. Hybrid CVT Automatic,"$37,195",Hybrid Select,hybrid
+401723200,2.0L 4-cyl. Hybrid CVT Automatic,"$40,010",Hybrid Reserve,hybrid
+401723204,2.0L 4-cyl. Hybrid CVT Automatic,"$47,830",Hybrid Black Label,hybrid
+200696422,3.7L V6 6-speed Automatic,"$38,260",Premiere,suv
+200729313,3.7L V6 AWD 6-speed Automatic,"$40,755",Premiere,suv
+200729329,3.7L V6 6-speed Automatic,"$41,550",Select,suv
+200729332,3.7L V6 AWD 6-speed Automatic,"$44,045",Select,suv
+200729336,3.7L V6 6-speed Automatic,"$45,315",Reserve,suv
+200729354,3.7L V6 AWD 6-speed Automatic,"$47,810",Reserve,suv
+200729355,3.7L V6 6-speed Automatic,"$53,475",Black Label,suv
+200729357,3.7L V6 AWD 6-speed Automatic,"$55,970",Black Label,suv
+401677304,3.7L V6 6-speed Automatic,"$38,260",Premiere,suv
+401677305,3.7L V6 AWD 6-speed Automatic,"$40,755",Premiere,suv
+401677302,3.7L V6 6-speed Automatic,"$41,550",Select,suv
+401677303,3.7L V6 AWD 6-speed Automatic,"$44,045",Select,suv
+401677306,3.7L V6 6-speed Automatic,"$45,560",Reserve,suv
+401677307,3.7L V6 AWD 6-speed Automatic,"$48,055",Reserve,suv
+401677365,3.7L V6 6-speed Automatic,"$53,475",Black Label,suv
+401677366,3.7L V6 AWD 6-speed Automatic,"$55,970",Black Label,suv
+200737089,3.5L V6 Twin-turbo 6-speed Automatic,"$63,195",Select,suv
+200737242,3.5L V6 Twin-turbo 6-speed Automatic,"$65,560",L Select,suv
+200737221,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$66,770",Select,suv
+200737244,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$69,135",L Select,suv
+200737167,3.5L V6 Twin-turbo 6-speed Automatic,"$71,260",Reserve,suv
+200737243,3.5L V6 Twin-turbo 6-speed Automatic,"$73,645",L Reserve,suv
+200737241,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$74,260",Reserve,suv
+200737247,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$76,650",L Reserve,suv
+401640549,3.5L V6 Twin-turbo 6-speed Automatic,"$63,195",Select,suv
+401640545,3.5L V6 Twin-turbo 6-speed Automatic,"$65,560",L Select,suv
+401640544,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$66,770",Select,suv
+401640551,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$69,135",L Select,suv
+401640546,3.5L V6 Twin-turbo 6-speed Automatic,"$71,260",Reserve,suv
+401640547,3.5L V6 Twin-turbo 6-speed Automatic,"$73,650",L Reserve,suv
+401640548,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$74,260",Reserve,suv
+401640550,3.5L V6 Twin-turbo 4x4 6-speed Automatic,"$76,645",L Reserve,suv
+200732077,2.0L 4-cyl. Turbo 6-speed Automatic,"$33,260",Premiere,suv
+200732079,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$35,755",Premiere,suv
+200732082,2.0L 4-cyl. Turbo 6-speed Automatic,"$37,090",Select,suv
+200732081,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$39,585",Select,suv
+200732083,2.0L 4-cyl. Turbo 6-speed Automatic,"$40,460",Reserve,suv
+200732084,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$42,955",Reserve,suv
+200732080,2.0L 4-cyl. Turbo 6-speed Automatic,"$46,455",Black Label,suv
+200732078,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$48,950",Black Label,suv
+401630387,2.0L 4-cyl. Turbo 6-speed Automatic,"$32,720",Premiere,suv
+401630386,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$35,130",Premiere,suv
+401630381,2.0L 4-cyl. Turbo 6-speed Automatic,"$35,720",Select,suv
+401630382,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$38,125",Select,suv
+401630380,2.0L 4-cyl. Turbo 6-speed Automatic,"$39,485",Reserve,suv
+401630384,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$41,895",Reserve,suv
+401630383,2.0L 4-cyl. Turbo 6-speed Automatic,"$45,475",Black Label,suv
+401630385,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$47,880",Black Label,suv
+401724322,2.0L 4-cyl. Twin-turbo 6-speed Automatic,"$33,355",Premiere,suv
+401724321,2.0L 4-cyl. Twin-turbo AWD 6-speed Automatic,"$35,765",Premiere,suv
+401724323,2.0L 4-cyl. Twin-turbo 6-speed Automatic,"$36,110",Select,suv
+401724326,2.0L 4-cyl. Twin-turbo AWD 6-speed Automatic,"$38,520",Select,suv
+401724324,2.0L 4-cyl. Twin-turbo 6-speed Automatic,"$39,985",Reserve,suv
+401724319,2.0L 4-cyl. Twin-turbo AWD 6-speed Automatic,"$42,395",Reserve,suv
+401724325,2.0L 4-cyl. Turbo 6-speed Automatic,"$45,975",Black Label,suv
+401724320,2.0L 4-cyl. Turbo AWD 6-speed Automatic,"$48,380",Black Label,suv
+401640264,3.7L V6 6-speed Automatic,"$44,720",Premiere,sedan
+200730688,3.7L V6 AWD 6-speed Automatic,"$46,720",Premiere,sedan
+401640267,3.7L V6 6-speed Automatic,"$47,675",Select,sedan
+401640268,3.7L V6 AWD 6-speed Automatic,"$49,675",Select,sedan
+401640270,2.7L V6 Twin-turbo 6-speed Automatic,"$54,075",Reserve,sedan
+401640271,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$56,075",Reserve,sedan
+401640272,2.7L V6 Twin-turbo 6-speed Automatic,"$63,075",Black Label,sedan
+401640273,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$65,075",Black Label,sedan
+401723214,3.7L V6 6-speed Automatic,"$45,000",Premiere,sedan
+401723215,3.7L V6 AWD 6-speed Automatic,"$47,000",Premiere,sedan
+401723216,3.7L V6 6-speed Automatic,"$47,955",Select,sedan
+401723217,3.7L V6 AWD 6-speed Automatic,"$49,955",Select,sedan
+401723218,2.7L V6 Twin-turbo 6-speed Automatic,"$54,625",Reserve,sedan
+401723219,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$56,625",Reserve,sedan
+401723220,2.7L V6 Twin-turbo 6-speed Automatic,"$65,255",Black Label,sedan
+401723221,2.7L V6 Twin-turbo AWD 6-speed Automatic,"$67,255",Black Label,sedan
+401582337,2.0L 4-cyl. 5-speed Manual,"$17,595",ES,sedan
+401582338,2.0L 4-cyl. CVT Automatic,"$18,595",ES,sedan
+401582341,2.4L 4-cyl. AWD CVT Automatic,"$19,995",ES,sedan
+401582339,2.4L 4-cyl. AWD CVT Automatic,"$20,995",SE,sedan
+401582342,2.4L 4-cyl. AWD CVT Automatic,"$21,995",SEL,sedan
+401582340,2.4L 4-cyl. 5-speed Manual,"$22,495",GT,sedan
+401582336,2.4L 4-cyl. CVT Automatic,"$23,495",GT,sedan
+401658215,2.0L 4-cyl. 5-speed Manual,"$17,795",ES,sedan
+401658217,2.0L 4-cyl. CVT Automatic,"$18,795",ES,sedan
+401704514,2.0L 4-cyl. CVT Automatic,"$19,795",LE,sedan
+401658218,2.4L 4-cyl. AWD CVT Automatic,"$20,295",ES,sedan
+401658216,2.4L 4-cyl. AWD CVT Automatic,"$21,095",SE,sedan
+401658219,2.4L 4-cyl. AWD CVT Automatic,"$22,095",SEL,sedan
+401612366,2.0L 4-cyl. 5-speed Manual,"$19,595",2.0 ES,suv
+401612368,2.0L 4-cyl. CVT Automatic,"$20,795",2.0 ES,suv
+401612364,2.4L 4-cyl. CVT Automatic,"$21,295",2.4 ES,suv
+401612369,2.0L 4-cyl. 4x4 CVT Automatic,"$22,195",2.0 ES,suv
+401612370,2.4L 4-cyl. CVT Automatic,"$22,495",2.4 SE,suv
+401612365,2.4L 4-cyl. 4x4 CVT Automatic,"$22,695",2.4 ES,suv
+401612363,2.4L 4-cyl. 4x4 CVT Automatic,"$23,895",2.4 SE,suv
+401612372,2.4L 4-cyl. CVT Automatic,"$23,995",2.4 SEL,suv
+401612373,2.4L 4-cyl. 4x4 CVT Automatic,"$25,395",2.4 SEL,suv
+401612362,2.4L 4-cyl. CVT Automatic,"$25,995",2.4 GT,suv
+401612367,2.4L 4-cyl. 4x4 CVT Automatic,"$27,395",2.4 GT,suv
+401677109,2.0L 4-cyl. 5-speed Manual,"$19,795",2.0 ES,suv
+401677113,2.0L 4-cyl. CVT Automatic,"$20,995",2.0 ES,suv
+401696066,2.0L 4-cyl. CVT Automatic,"$21,995",2.0 LE,suv
+401677114,2.0L 4-cyl. 4x4 CVT Automatic,"$22,495",2.0 ES,suv
+401677115,2.4L 4-cyl. CVT Automatic,"$22,695",2.4 SE,suv
+401696067,2.0L 4-cyl. 4x4 CVT Automatic,"$23,495",2.0 LE,suv
+401677110,2.4L 4-cyl. 4x4 CVT Automatic,"$24,195",2.4 SE,suv
+401677111,2.4L 4-cyl. CVT Automatic,"$24,195",2.4 SEL,suv
+401677112,2.4L 4-cyl. 4x4 CVT Automatic,"$25,695",2.4 SEL,suv
+401677108,2.4L 4-cyl. 4x4 CVT Automatic,"$27,695",2.4 GT,suv
+200726944,Electric 1-speed Direct Drive,"$22,995",ES,hatchback
+401643579,Electric 1-speed Direct Drive,"$22,995",ES,hatchback
+401637705,1.2L 3-cyl. 5-speed Manual,"$13,995",ES,sedan
+401637706,1.2L 3-cyl. CVT Automatic,"$15,195",ES,sedan
+401637704,1.2L 3-cyl. CVT Automatic,"$16,995",SE,sedan
+401717169,1.2L 3-cyl. 5-speed Manual,"$14,395",ES,sedan
+401717167,1.2L 3-cyl. CVT Automatic,"$15,595",ES,sedan
+401717168,1.2L 3-cyl. CVT Automatic,"$17,095",SE,sedan
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
+id,name,price,trim,submodel
