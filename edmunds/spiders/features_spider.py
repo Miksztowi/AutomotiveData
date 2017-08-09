@@ -13,7 +13,7 @@ class FeaturesSpider(scrapy.Spider):
         self.cursor = self.connect.cursor()  # todo  how to aovid this options?
 
     def start_requests(self):
-        self.cursor.execute('SELECT style_id FROM car_styles')
+        self.cursor.execute('SELECT id FROM car_styles')
         new_cars = {x[0] for x in self.cursor.fetchall()}
 
         self.cursor.execute('SELECT id FROM car_features')

@@ -10,6 +10,58 @@ from scrapy.loader import ItemLoader
 from scrapy.loader.processors import TakeFirst, MapCompose, Join, Identity
 
 
+class StoneItem(scrapy.Item):
+    id = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    year = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    make = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    model = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    submodel = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+
+    front_rear_both = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    size = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    speed_rating = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    front_inflation = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    rear_inflation = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    standard_optional = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+    tire_pressure = scrapy.Field(
+        input_processor=Identity(),
+        out_processor=Identity()
+    )
+
+
 class NewItem(scrapy.Item):
     # sql = 'INSERT INTO car_features VALUES(' \
     #       '%(id)s, %(name)s, %(baseMsrp)s, %(msrpWithTypicalOptions)s, %(mpg)s,' \

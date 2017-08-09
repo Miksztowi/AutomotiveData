@@ -71,7 +71,7 @@ class EdmundsPipeline(object):
 
         if spider.name == 'get_params_spider':
             sql = 'INSERT INTO car_styles VALUES ' \
-                  '(%(style_id)s, %(make)s, %(model)s, %(year)s)'
+                  '(%(id)s, %(make)s, %(model)s, %(year)s)'
             self._excute_db(sql, item._values)
             return item
 
@@ -87,11 +87,39 @@ class EdmundsPipeline(object):
             self._excute_db(sql, item._values)
             # return item
 
+        if spider.name == 'firestone_spider':
+            sql = 'INSERT INTO car_styles3(make, model, submodel, year) VALUE ' \
+                  '( %(make)s, %(model)s, %(submodel)s, %(year)s)'
+            self._excute_db(sql, item._values)
+            return item
+
+        if spider.name == 'tires_spider':
+            # sql = 'INSERT INTO car_styles2(front_rear_both, size, speed_rating, front_inflation, ' \
+            #       'rear_inflation, standard_optional) ' \
+            #       'VALUE ' \
+            #       '( %(front_rear_both)s, %(size)s, %(speed_rating)s, %(front_inflation)s,' \
+            #       '  %(rear_inflation)s, %(standard_optional)s)' \
+            #       'WHERE id=%(id)s'
+            # sql = 'UPDATE automotive.car_styles2 SET front_rear_both=%(front_rear_both)s, size=%(size)s,' \
+            #       'speed_rating=%(speed_rating)s, front_inflation=%(front_inflation)s, ' \
+            #       'rear_inflation=%(rear_inflation)s, standard_optional=%(standard_optional)s' \
+            #       'WHERE id="%(id)s" '
+            sql = 'UPDATE automotive.car_styles3 SET tire_pressure=%(tire_pressure)s WHERE id=%(id)s'
+            self._excute_db(sql, item._values)
+            return item
+
     def _excute_db(self, sql, lis):
-
+        # try:
         self.cursor.execute(sql, lis)
-
+        # except Exception as e:
+        #     print(e)
+        #     self.connect.rollback()
         self.connect.commit()
+
+
+    def close_spider(self, spider):
+        self.cursor.close()
+        self.connect.close()
 
 
 
