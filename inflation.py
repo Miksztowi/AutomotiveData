@@ -4,71 +4,471 @@ import scrapy
 import MySQLdb
 import logging
 import re
-#
-# cookies = {'domain': 'www.firestonecompleteautocare.com',
-#   # 'httpOnly': False,
-#   'name': 'bsro.cp-fcac',
-#   # 'path': '/',
-#   # 'secure': False,
-#   'value': '%7B%22vehicles%22%3A%7B%22main%22%3A%7B%22lvl%22%3A0%2C%22ymm%22%3A%22%22%2C%22year%22%3A%22%22%2C%22make%22%3A%22%22%2C%22model%22%3A%22%22%2C%22trim%22%3A%22%22%2C%22tpms%22%3A%22%22%2C%22dt%22%3A%22%22%7D%2C%22tce%22%3A%7B%22lvl%22%3A4%2C%22ymm%22%3A%222017-Acura-ILX%22%2C%22year%22%3A%222017%22%2C%22make%22%3A%22Acura%22%2C%22model%22%3A%22ILX%22%2C%22trim%22%3A%22Base%22%2C%22tpms%22%3A%221%22%2C%22dt%22%3A%2208%2F08%2F2017%2003%3A16%3A07%20GMT%22%7D%2C%22aux%22%3A%7B%22lvl%22%3A0%2C%22ymm%22%3A%22%22%2C%22year%22%3A%22%22%2C%22make%22%3A%22%22%2C%22model%22%3A%22%22%2C%22engine%22%3A%22%22%2C%22dt%22%3A%22%22%7D%7D%2C%22site%22%3A%22FCAC%22%2C%22location%22%3A%7B%22storeNumber%22%3A%2212858%22%2C%22locationLvl%22%3A2%2C%22myZip%22%3A%2294301%22%2C%22myCity%22%3A%22%22%2C%22myState%22%3A%22%22%2C%22autoZip%22%3A%2260605%22%7D%2C%22tires%22%3A%7B%22main%22%3A%7B%22lvl%22%3A0%2C%22cs%22%3A%22%22%2C%22ar%22%3A%22%22%2C%22rs%22%3A%22%22%2C%22tireSize%22%3A%22%22%2C%22dt%22%3A%22%22%7D%2C%22tce%22%3A%7B%22lvl%22%3A0%2C%22cs%22%3A%22%22%2C%22ar%22%3A%22%22%2C%22rs%22%3A%22%22%2C%22tireSize%22%3A%22%22%2C%22dt%22%3A%22%22%7D%7D%7D'}
-#
-# url = 'http://www.firestonecompleteautocare.com/tires/tire-pressure/inflation/'
-#
-# def parse(response):
-#     print(response.text)
-#
-#
-# scrapy.Request(url=url, cookies=cookies, callback=parse)
+
+def direct_merge():
+        for e in edmunds_lower:
+            e[2] = e[2].split(' ')[0]
+            edmunds_index = ''.join(e[:4])
+            if edmunds_index not in edmunds_dict:
+                edmunds_dict[edmunds_index] = e[4]
+        for f in fire_lower:
+            fire_index = ''.join(f[:4])
+            if fire_index not in fire_dict:
+                fire_dict[fire_index] = (f[4], f[5])
+
+        for e_key in edmunds_dict:
+            if e_key in fire_dict:
+                e_id = edmunds_dict[e_key]
+                f_id = fire_dict[e_key][0]
+                flag = fire_dict[e_key][1]
+                flag += 1
+                try:
+                    results.append((e_id,e_key))
+                    cursor.execute('UPDATE car_features SET '
+                                   'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                                   'WHERE id=%s' % (f_id, e_id))
+                    cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' %(flag, f_id))
+                    logger.debug('%s has update' %((e_key, e_id, f_id),))
+                except Exception as e:
+                    connect.rollback()
+                    logger.debug('%s' %(e))
+                finally:
+                    connect.commit()
+        print(len(results))
+
+def base_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if len(e[2]) < 3:
+            e[2] = 'base'
+        else:
+            continue
+        edmunds_index = ''.join(e[:4])
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join(f[:4])
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def re_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if len(e[2]) < 3:
+            e[2] = 'base'
+        else:
+            e[2] = e[2][0]
+        edmunds_index = ''.join(e[:4])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join(f[:4])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def base_re_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            continue
+        edmunds_index = ''.join(e[:4])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join(f[:4])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def submodel_model_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            e[2] = e[2][0]
+        edmunds_index = ''.join([e[i] for i in [0, 2, 3]])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join([f[i] for i in [0, 1, 3]])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                continue
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def model_submodel_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            e[2] = e[2][0]
+        edmunds_index = ''.join([e[i] for i in [0, 1, 3]])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join([f[i] for i in [0, 2, 3]])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                continue
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def name_divide_merge():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            try:
+                e[2] = e[2]['++++']
+            except:
+                continue
+        edmunds_index = ''.join([e[i] for i in range(4)])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join([f[i] for i in range(4)])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def all_no_use_submodel():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            try:
+                e[2] = e[2][0]
+            except:
+                continue
+        edmunds_index = ''.join([e[i] for i in [0, 1, 3, ]])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join([f[i] for i in [0, 1, 3]])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+    for e_key in edmunds_dict:
+        if e_key in fire_dict:
+            e_id = edmunds_dict[e_key]
+            f_id = fire_dict[e_key][0]
+            flag = fire_dict[e_key][1]
+            flag += 1
+            try:
+                print(e_key)
+                continue
+                results.append((e_id, e_key))
+                cursor.execute('UPDATE car_features SET '
+                               'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                               'WHERE id=%s' % (f_id, e_id))
+                cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                logger.debug('%s has update' % ((e_key, e_id, f_id),))
+            except Exception as e:
+                connect.rollback()
+                logger.debug('%s' % (e))
+            finally:
+                connect.commit()
+    print(len(results))
+
+def each_in():
+    for e in edmunds_lower:
+        e[2] = e[2].split(' ')
+        if 'dr' in e[2][0]:
+            e[2] = 'base'
+        else:
+            try:
+                e[2] = e[2][1]
+            except:
+                continue
+        edmunds_index = ''.join([e[i] for i in [0, 1, 2, 3]])
+        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+        if edmunds_index not in edmunds_dict:
+            edmunds_dict[edmunds_index] = e[4]
+    for f in fire_lower:
+        fire_index = ''.join([f[i] for i in [0, 1, 3]])
+        fire_index = re.sub(r'[ -]', '', fire_index)
+        if fire_index not in fire_dict:
+            fire_dict[fire_index] = (f[4], f[5])
+
+    for e_key in edmunds_dict:
+        for f_key in fire_dict:
+            if (e_key in f_key) or (f_key in e_key):
+                e_id = edmunds_dict[e_key]
+                f_id = fire_dict[f_key][0]
+                flag = fire_dict[f_key][1]
+                flag += 1
+                try:
+                    print(e_key)
+                    results.append((e_id, e_key))
+                    continue
+                    cursor.execute('UPDATE car_features SET '
+                                   'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                                   'WHERE id=%s' % (f_id, e_id))
+                    cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                    logger.debug('%s has update' % ((e_key, e_id, f_id),))
+                except Exception as e:
+                    connect.rollback()
+                    logger.debug('%s' % (e))
+                finally:
+                    connect.commit()
+    print(len(results))
+
+
 if __name__ == '__main__':
-    logging.basicConfig(filename='intersection.log', level='DEBUG')
-    logger = logging.getLogger('inflation_contain2')
+    logging.basicConfig(filename='intersection17.log', level='DEBUG')
+    logger = logging.getLogger('filter_suburban_merge')
     connect = MySQLdb.connect(user='root', password='', database='automotive')
     cursor = connect.cursor()
 
     # cursor.execute('SELECT make, model, year, b.name, b.id FROM '
     #                 'automotive.car_styles as a INNER JOIN automotive.car_features as b ON a.id=b.id ')
     #
-    cursor.execute('SELECT make, model, submodel, year, id FROM automotive.car_styles3')
-    fire_car = cursor.fetchall()
+    results = [1]
 
-    cursor.execute('SELECT make, model, b.name, year, b.id FROM '
-                   'automotive.car_styles as a '
-                   'INNER JOIN '
-                   '(SELECT * FROM automotive.car_features WHERE tire_pressure IS NULL) as b '
-                   'ON a.id=b.id')
+    while results != []:
+        results = []
+        cursor.execute('SELECT make, model, submodel, year, id, flag FROM automotive.car_styles3')
+        fire_car = cursor.fetchall()
+        cursor.execute('SELECT make, model, b.name, year, b.id FROM '
+                       'automotive.car_styles as a '
+                       'INNER JOIN '
+                       '(SELECT * FROM automotive.car_features WHERE tire_pressure IS NULL) as b '
+                       'ON a.id=b.id')
+        edmunds_car = cursor.fetchall()
+        fire_lower = [[x.lower() if isinstance(x, str) else x for x in a] for a in fire_car]
+        edmunds_lower = [[x.lower() if isinstance(x, str) else x for x in a] for a in edmunds_car]
+        edmunds_dict = {}
+        fire_dict = {}
 
-    edmunds_car = cursor.fetchall()
+        for e in edmunds_lower:
+            e[2] = e[2].split(' ')
+            # try:
+            #     if 'dr' in e[2][0]:
+            #         e[2][0] = 'base'
+            #     else:
+            #         e[2] = e[2][0]
+            # except:
+            #     continue
+            # e[2] = 'base'
+            try:
+                # if 'dr' not in e[2][1]:
+                #     e[1] = e[1] + e[2][1]
+                # if e[2][0] == 'gts':
+                #     e[2] = 'gtsportback'
+                # elif e[2][0] == 'ets':
+                #     e[2] = 'etsportback'
+                # else:
+                e[1] = e[1] + e[2][0]
+                e[2] = 'base'
+            except:
+                continue
+            # e[2] = e[2][0] + 'superduty' + e[2][2]
+            edmunds_index = ''.join([e[i] for i in [0, 1, 2, 3]])
+            edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+            edmunds_index = re.sub(r'wagon', '', edmunds_index)
+            edmunds_index = re.sub(r'sport', '', edmunds_index)
+            edmunds_index = re.sub(r'cargo', '', edmunds_index)
+            edmunds_index = re.sub(r'econoline', '', edmunds_index)
+            edmunds_index = re.sub(r'suburban', '', edmunds_index)
+            if edmunds_index not in edmunds_dict:
+                edmunds_dict[edmunds_index] = e[4]
+        for f in fire_lower:
+            fire_index = ''.join([f[i] for i in [0, 1, 2, 3]])
+            fire_index = re.sub(r'[ &-]', '', fire_index)
+            # fire_index = re.sub(r'wagon', '', fire_index)
+            fire_index = re.sub(r'sportback', '', fire_index)
+            fire_index = re.sub(r'wagon', '', fire_index)
+            fire_index = re.sub(r'econoline', '', fire_index)
+            fire_index = re.sub(r'suburban', '', fire_index)
+            # fire_index = re.sub(r'club', '', fire_index)
+            if fire_index not in fire_dict:
+                fire_dict[fire_index] = (f[4], f[5])
 
-    fire_car = [[x.lower() if isinstance(x, str) else x for x in a ] for a in fire_car]
-    edmunds_car = [[x.lower() if isinstance(x, str) else x for x in a] for a in edmunds_car]
-    intersection = []
-
-    for e in edmunds_car:
-        e[2] = e[2].split(' ')
-        if len(e[2]) < 3:
-            e[2] = 'base'
-        else:
-            e[2] = ''.join(e[2])
-        edmunds_index = ''.join(e[:3])
-        edmunds_index = re.sub(r'[ -]', '', edmunds_index)
-        for f in fire_car:
-            fire_index = ''.join(f[:3])
-            fire_index = re.sub(r'[ -]', '', fire_index)
-            # if edmunds_index in fire_index and e[3]==f[3] and len(edmunds_index)< len(fire_index):
-            if ((fire_index in edmunds_index) or (edmunds_index in fire_index)) and f[3]==e[3]:
-                intersection.append([e, f])
-                logger.debug('%s' % ((e, f),))
-                try:
-                    cursor.execute('UPDATE car_features SET '
-                                   'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
-                                   'WHERE id=%s' % (f[4], e[4]))
-                except Exception as e:
-                    connect.rollback()
-                    logger.debug('%s' %(e))
-                finally:
-                    connect.commit()
-                break
+        for e_key in edmunds_dict:
+            # if 'lancer' in e_key:
+            #     print(e_key)
+            for f_key in fire_dict:
+                # if 'econoline' in f_key:
+                #     print(f_key)
+                if (e_key in f_key) or (f_key in e_key):
+                    e_id = edmunds_dict[e_key]
+                    f_id = fire_dict[f_key][0]
+                    flag = fire_dict[f_key][1]
+                    flag += 1
+                    try:
+                        print(e_key, e_id, f_id)
+                        results.append(e_key)
+                        # continue
+                        cursor.execute('UPDATE car_features SET '
+                                       'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+                                       'WHERE id=%s' % (f_id, e_id))
+                        cursor.execute('UPDATE car_styles3 SET flag=%d WHERE id=%s' % (flag, f_id))
+                        logger.debug('%s has update' % ((e_key, e_id, f_id),))
+                    except Exception as e:
+                        connect.rollback()
+                        logger.debug('%s' % (e))
+                    finally:
+                        connect.commit()
+        print(len(results))
+        # break
+    #
+    # for e in edmunds_car:
+    #     e[2] = e[2].split(' ')
+    #     if len(e[2]) < 3:
+    #         e[2] = 'base'
+    #     else:
+    #         e[2] = ''.join(e[2])
+    #     edmunds_index = ''.join(e[:3])
+    #     edmunds_index = re.sub(r'[ -]', '', edmunds_index)
+    #     for f in fire_car:
+    #         fire_index = ''.join(f[:3])
+    #         fire_index = re.sub(r'[ -]', '', fire_index)
+    #         # if edmunds_index in fire_index and e[3]==f[3] and len(edmunds_index)< len(fire_index):
+    #         if ((fire_index in edmunds_index) or (edmunds_index in fire_index)) and f[3]==e[3]:
+    #             intersection.append([e, f])
+    #             logger.debug('%s' % ((e, f),))
+    #             try:
+    #                 cursor.execute('UPDATE car_features SET '
+    #                                'tire_pressure=(SELECT tire_pressure FROM car_styles3 WHERE id=%s) '
+    #                                'WHERE id=%s' % (f[4], e[4]))
+    #             except Exception as e:
+    #                 connect.rollback()
+    #                 logger.debug('%s' %(e))
+    #             finally:
+    #                 connect.commit()
+    #             break
 
     cursor.close()
     connect.close()
-    print(len(intersection))
