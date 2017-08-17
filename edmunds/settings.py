@@ -12,9 +12,7 @@
 BOT_NAME = 'edmunds'
 
 
-# LOG_FILE = 'edmunds.log'
 # LOG_LEVEL = 'WARNING'
-# LOG_LEVEL = 'DEBUG'
 
 SPIDER_MODULES = ['edmunds.spiders']
 NEWSPIDER_MODULE = 'edmunds.spiders'
@@ -25,7 +23,6 @@ NEWSPIDER_MODULE = 'edmunds.spiders'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 100
 DOWNLOAD_DELAY = 0
@@ -59,18 +56,16 @@ DEFAULT_REQUEST_HEADERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'edmunds.middlewares.UserAgentMiddleWare': 542,
-   # 'edmunds.middlewares.HttpProxyMiddleware': 543,
-   # 'edmunds.middlewares.RetryMiddleWare': 544,
+   'edmunds.middlewares.HttpProxyMiddleware': 543,
    'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
-   # 'scrapy.downloadermiddlewares.retry.RetryMiddleware': 550,
 }
 
-# COOKIES_ENABLED = False
 # REDIRECT_ENABLED = False
 # retry
 RETRY_HTTP_CODES = [403, 302]
-# RETRY_TIMES = 2
-# RETRY_ENABLED = True
+RETRY_TIMES = 3
+# RETRY_ENABLED = False
+
 
 # Enable or disable extensions
 # See http://scrapy.readthedocs.org/en/latest/topics/extensions.html
@@ -104,3 +99,17 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+
+
+###### Custom Settings
+DB = 'automotive'
+DB_USER = 'root'
+DB_PASSWORD = ''
+
+
+
+
+
+
+

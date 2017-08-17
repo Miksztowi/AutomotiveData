@@ -6,13 +6,10 @@ from datetime import datetime
 import MySQLdb
 from edmunds.items import StoneItem
 import json
-# import logging
 
 
 class TiresSpider(scrapy.Spider):
     name = 'tires_spider'
-    # logging.basicConfig(filename='tires.log', level='DEBUG')
-    # logging.Logger("Binwen's Spider")
 
     def __init__(self, *args):
         self.connect = MySQLdb.connect(user='root', password='', db='automotive')
@@ -37,13 +34,12 @@ class TiresSpider(scrapy.Spider):
                                  meta={'data': p, 'style_id': style_id})
 
     def parse(self, response):
-        # logger = logging.getLogger()
         item = StoneItem()
         item['id'] = response.meta['style_id']
         tires_res = response.xpath('//*[@class="results"]/table/tbody')
         tire_configurations = [x.strip('\n ') for x in tires_res.xpath('tr//*/text()').extract()]
         tire_pressure_list = []
-        for t in tire_configurations: # pop data
+        for t in tire_configurations:  # pop data
             item['standard_optional'] = tire_configurations.pop()
             item['rear_inflation'] = tire_configurations.pop()
             item['front_inflation'] = tire_configurations.pop()
@@ -71,7 +67,6 @@ class TiresSpider(scrapy.Spider):
         trim = configurations[submodel]
         convert2gmt = lambda a: a.strftime("%d/%m/%Y %H:%M:%S") + " GMT"
         dt = convert2gmt(datetime.utcnow())  # 08/08/2017 02:50:36 GMT
-
         base = '{"vehicles":{"main":{"lvl":0,"ymm":"","year":"","make":"","model":"","trim":"","tpms":"","dt":""},' \
                '"tce":{"lvl":4,"ymm": "%s","year": "%s","make": "%s","model":"%s","trim":"%s",' \
                '"tpms":"0","dt":"%s"},' \

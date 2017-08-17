@@ -5,117 +5,78 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import MySQLdb
-import pymongo
+import edmunds.settings as settings
+import logging
 
 
 class EdmundsPipeline(object):
-    def __init__(self):
-        self.connect = MySQLdb.connect(user='root', password='', db='automotive')
-        self.cursor = self.connect.cursor()
-        # self.client = pymongo.MongoClient(host="127.0.0.1", port=27017)
-        # self.db = self.client.get_database("car")
-        # self.collection = self.db.get_collection("features")
+    logger = logging.getLogger(__name__)
 
-    def open_spider(self, spider):
-        if spider.name == 'get_paramas_spider':
-            pass # todo use sqlalchemy to realize database options.
+    def __init__(self):
+        self.connect = MySQLdb.connect(
+            user=settings.DB_USER,
+            password=settings.DB_PASSWORD,
+            db=settings.DB
+        )
+        self.cursor = self.connect.cursor()
 
     def process_item(self, item, spider):
-        if spider.name == 'id_spiders':
-            sql = 'INSERT INTO car_informations(' \
-                  'car_id, make_id, model_id, make_name, model_name, car_name, year, submodel) ' \
-                  'VALUE (%s, %s, %s, %s, %s, %s, %s, %s)'
-            lis = (
-                item['car_id'], item['make_id'], item['model_id'],
-                item['make_name'], item['model_name'], item['car_name'],
-                item['year'], item['submodel'])
-            self._excute_db(sql, lis)
-            return item
-
-        if spider.name == 'configurations_spider':
-            sql = 'INSERT INTO car_configurations(' \
-                  'car_id, msrp, invoice, true_market_value, base_engine, cylinder, ' \
-                  'drive_type, fuel_capacity, fuel_economy, fuel_type, horsepower,' \
-                  'monthly_fuel_cost, torque, transmission, ac_with_climate_control,' \
-                  'bluetooth, builtin_hard_drive, concierge_service, destination_download,' \
-                  'destination_guidance, hd_radio, hand_free_calling, heatedcooled_seats,' \
-                  'keyless_ignition, navigation, parking_assistance, power_seats,' \
-                  'premium_sound_system, rear_seat_dvd, roadside_assistance, satellite_radio,' \
-                  'seating_capacity, upholstery, ipod, all_season_tires, power_glass_sunroof,' \
-                  'run_flat_tires, tire_size, wheel_tire_size, wheels, airbag_deployment_notification,' \
-                  'anti_lock_brakes, anti_theft_system, child_seat_anchors, emergency_service,' \
-                  'side_curtain_airbags, stabillity_control, stolen_vehicle_tracking_assistance,' \
-                  'traction_control, vehicle_alarm_notification, average_cost_per_mile,' \
-                  'true_cost_to_own, depreciation, taxes_fees, financing, fuel,' \
-                  'insurance, maintenance, repairs, tax_credit) ' \
-                  'VALUE (   %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,' \
-                            '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,' \
-                            '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,' \
-                            '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,' \
-                            '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,' \
-                            '%s, %s, %s, %s, %s, %s, %s, %s, %s)'
-            lis = (item['car_id'], item['msrp'], item['invoice'], item['true_market_value'], item['base_engine'], item['cylinder'],
-                   item['drive_type'],item['fuel_capacity'], item['fuel_economy'], item['fuel_type'], item['horsepower'],
-                   item['monthly_fuel_cost'],item['torque'], item['transmission'], item['ac_with_climate_control'], item['bluetooth'],
-                   item['builtin_hard_drive'],item['concierge_service'], item['destination_download'], item['destination_guidance'], item['hd_radio'],
-                   item['hand_free_calling'],item['heatedcooled_seats'], item['keyless_ignition'], item['navigation'], item['parking_assistance'],
-                   item['power_seats'],item['premium_sound_system'], item['rear_seat_dvd'], item['roadside_assistance'], item['satellite_radio'],
-                   item['seating_capacity'],item['upholstery'], item['ipod'], item['all_season_tires'], item['power_glass_sunroof'],
-                   item['run_flat_tires'],item['tire_size'], item['wheel_tire_size'], item['wheels'], item['airbag_deployment_notification'],
-                   item['anti_lock_brakes'],item['anti_theft_system'], item['child_seat_anchors'], item['emergency_service'], item['side_curtain_airbags'],
-                   item['stabillity_control'],item['stolen_vehicle_tracking_assistance'], item['traction_control'], item['vehicle_alarm_notification'], item['average_cost_per_mile'],
-                   item['true_cost_to_own'],item['depreciation'], item['taxes_fees'], item['financing'],  item['fuel'], item['insurance'],
-                   item['maintenance'], item['repairs'],  item['tax_credit'])
-            self._excute_db(sql, lis)
-            return item
-
-        if spider.name == 'get_params_spider':
-            sql = 'INSERT INTO car_styles VALUES ' \
+        if spider.name in ['edmunds_cars_spider',]:
+            sql = 'INSERT INTO car_features3(id, make, model, year) VALUES ' \
                   '(%(id)s, %(make)s, %(model)s, %(year)s)'
             self._excute_db(sql, item._values)
             return item
 
-        if spider.name == 'features_spider':
-            sql = 'INSERT INTO car_features VALUE' \
-                  '(%(id)s, %(name)s, %(baseMsrp)s, %(msrpWithTypicalOptions)s, %(mpg)s,'\
-                  '%(totalSeating)s, %(colors)s, %(safety)s, %(comfort_convenience)s,' \
-                  '%(performance)s, %(technology)s, %(fuel)s, %(engine)s, %(measurements)s, %(frontseats)s,' \
-                  '%(rearseats)s, %(drive_train)s, %(power_feature)s, %(instrumentation)s, ' \
-                  '%(suspension)s, %(in_car_entertainment)s, %(warranty)s, %(telematics)s, %(tires_and_wheels)s,' \
-                  '%(interior_options)s, %(exterior_options)s, %(packages)s)'
-            # print(item._values)
+        if spider.name in ['edmunds_cars2_spider',]:
+            sql = 'INSERT INTO car_features4(id, make, model, submodel, year) VALUES ' \
+                  '(%(id)s, %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(sql, item._values)
-            # return item
+            return item
 
-        if spider.name == 'firestone_spider':
-            sql = 'INSERT INTO car_styles3(make, model, submodel, year) VALUE ' \
+        if spider.name == 'edmunds_feature_spider':
+            # sql = 'INSERT INTO car_features2 VALUE' \
+            #       '(%(id)s, %(name)s, %(baseMsrp)s, %(msrpWithTypicalOptions)s, %(mpg)s,'\
+            #       '%(totalSeating)s, %(colors)s, %(safety)s, %(comfort_convenience)s,' \
+            #       '%(performance)s, %(technology)s, %(fuel)s, %(engine)s, %(measurements)s, %(frontseats)s,' \
+            #       '%(rearseats)s, %(drive_train)s, %(power_feature)s, %(instrumentation)s, ' \
+            #       '%(suspension)s, %(in_car_entertainment)s, %(warranty)s, %(telematics)s, %(tires_and_wheels)s,' \
+            #       '%(interior_options)s, %(exterior_options)s, %(packages)s)'
+            sql = 'UPDATE car_features2 ' \
+                  'SET name=%(name)s, baseMsrp=%(baseMsrp)s,msrpWithTypicalOptions=%(msrpWithTypicalOptions)s, ' \
+                  'mpg=%(mpg)s, totalSeating=%(totalSeating)s, colors=%(colors)s, ' \
+                  'safety=%(safety)s, comfort_convenience=%(comfort_convenience)s, performance=%(performance)s, ' \
+                  'technology=%(technology)s, fuel=%(fuel)s, engine=%(engine)s, ' \
+                  'measurements=%(measurements)s, frontseats=%(frontseats)s, rearseats=%(rearseats)s, ' \
+                  'drive_train=%(drive_train)s, power_feature=%(power_feature)s, instrumentation=%(instrumentation)s, ' \
+                  'suspension=%(suspension)s, in_car_entertainment=%(in_car_entertainment)s, warranty=%(warranty)s, ' \
+                  'telematics=%(telematics)s, tires_and_wheels=%(tires_and_wheels)s, interior_options=%(interior_options)s, ' \
+                  'exterior_options=%(exterior_options)s, packages=%(packages)s' \
+                  'WHERE id=%(id)s'
+            self._excute_db(sql, item._values)
+            return item
+
+        if spider.name == 'firestone_cars_spider':
+            sql = 'INSERT INTO car_styles5(make, model, submodel, year) VALUE ' \
                   '( %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(sql, item._values)
             return item
 
-        if spider.name == 'tires_spider':
-            # sql = 'INSERT INTO car_styles2(front_rear_both, size, speed_rating, front_inflation, ' \
-            #       'rear_inflation, standard_optional) ' \
-            #       'VALUE ' \
-            #       '( %(front_rear_both)s, %(size)s, %(speed_rating)s, %(front_inflation)s,' \
-            #       '  %(rear_inflation)s, %(standard_optional)s)' \
-            #       'WHERE id=%(id)s'
-            # sql = 'UPDATE automotive.car_styles2 SET front_rear_both=%(front_rear_both)s, size=%(size)s,' \
-            #       'speed_rating=%(speed_rating)s, front_inflation=%(front_inflation)s, ' \
-            #       'rear_inflation=%(rear_inflation)s, standard_optional=%(standard_optional)s' \
-            #       'WHERE id="%(id)s" '
-            sql = 'UPDATE automotive.car_styles3 SET tire_pressure=%(tire_pressure)s WHERE id=%(id)s'
+        if spider.name == 'firestone_tire_spider':
+            sql = 'UPDATE automotive.car_styles4 SET tire_pressure=%(tire_pressure)s WHERE id=%(id)s'
             self._excute_db(sql, item._values)
             return item
 
-    def _excute_db(self, sql, lis):
-        # try:
-        self.cursor.execute(sql, lis)
-        # except Exception as e:
-        #     print(e)
-        #     self.connect.rollback()
-        self.connect.commit()
 
+
+
+    def _excute_db(self, sql, lis):
+        try:
+            self.cursor.execute(sql, lis)
+            self.logger.debug('sql:%s lis:%s' % (sql, lis))
+        except Exception as e:
+            self.logger.warning(e)
+            self.connect.rollback()
+        self.connect.commit()
 
     def close_spider(self, spider):
         self.cursor.close()

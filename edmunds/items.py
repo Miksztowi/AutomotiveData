@@ -62,15 +62,7 @@ class StoneItem(scrapy.Item):
     )
 
 
-class NewItem(scrapy.Item):
-    # sql = 'INSERT INTO car_features VALUES(' \
-    #       '%(id)s, %(name)s, %(baseMsrp)s, %(msrpWithTypicalOptions)s, %(mpg)s,' \
-    #       '%(totalSeating)s, %(colors)s, %(safety)s, %(comfort_convenience)s,' \
-    #       '%(performance)s, %(technology)s, %(fuel)s, %(engine)s, %(measurements)s, %(frontseats)s,' \
-    #       '%(rearseats)s, %(drive_train)s, %(power_feature)s, %(instrumentation)s, ' \
-    #       '%(suspension)s, %(in_car_entertainment)s, %(warranty)s, %(telematics)s, %(tires_and_wheels)s,' \
-    #       '%(interior_options)s, %(exterior_options)s, %(packages)s,)'
-
+class EdmundsItem(scrapy.Item):
     _id = scrapy.Field(
         input_processor=Identity(),
         out_processor=Identity()
@@ -186,13 +178,12 @@ class NewItem(scrapy.Item):
         out_processor=Identity()
     )
 
-class CarItem(scrapy.Item):
     car_id = scrapy.Field(
         input_processor=Identity(),
         out_processor=Identity()
     )
 
-    make_name = scrapy.Field(
+    make = scrapy.Field(
         input_processor=Identity(),
         out_processor=Identity(),
     )
@@ -204,7 +195,7 @@ class CarItem(scrapy.Item):
         input_processor=Identity(),
         out_processor=Identity(),
     )
-    model_name = scrapy.Field(
+    model = scrapy.Field(
         input_processor=Identity(),
         out_processor=Identity(),
     )
@@ -231,9 +222,6 @@ class CarItem(scrapy.Item):
         input_processor=Identity(),
         out_processor=Identity(),
     )
-
-
-
     base_engine = scrapy.Field(
         input_processor=Identity(),
         out_processor=Identity(),
