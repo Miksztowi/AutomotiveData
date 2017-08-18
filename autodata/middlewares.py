@@ -10,6 +10,7 @@ import random
 import json
 from fake_useragent import UserAgent
 
+
 class UserAgentMiddleWare(object):
     def __init__(self, crawler):
         super(UserAgentMiddleWare, self).__init__()
@@ -25,7 +26,6 @@ class UserAgentMiddleWare(object):
             return getattr(self.ua, self.ua_type)
         request.meta['dont_redirect'] = True
         request.headers.setdefault('User-Agent', get_ua())
-
 
 
 class EdmundsSpiderMiddleware(object):
@@ -102,8 +102,6 @@ class HttpProxyMiddleware(object):
     def process_response(self, request, response, spider):
         if response.status != 200:
             request.meta['proxy'] = "https://%s" % (random.choice(self.proxies))
-            # request.meta['proxy'] = "http://138.0.50.123:53281"
-            print(request.meta['proxy'])
             new_request = request.copy()
             new_request.dont_filter = True
             return new_request

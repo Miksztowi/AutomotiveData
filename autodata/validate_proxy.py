@@ -10,7 +10,7 @@ if __name__ == '__main__':
     proxy_list = [ x.strip('\n') for x in rf if x.strip('\n') != '']
     validate_proxt = []
 
-    for p in proxy_list[2846:]:
+    for p in proxy_list[3566:]:
         proxies = {
             'https': 'http://%s' %(p),
         }
@@ -24,7 +24,7 @@ if __name__ == '__main__':
         if r.status_code == requests.codes.ok:
             print('good ip', p)
             validate_proxt.append(p)
-            if len(validate_proxt) > 30:
+            if len(validate_proxt) > 40:
                 break
 
 
