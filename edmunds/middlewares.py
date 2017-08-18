@@ -104,7 +104,6 @@ class EdmundsSpiderMiddleware(object):
 
 class HttpProxyMiddleware(object):
     def __init__(self):
-        # self.proxies = ['1.179.146.153 8080', '1.179.181.17 8081', '1.179.183.86 8080', '1.179.183.89 8080', '1.179.198.37 8080', '1.52.160.100 53281', '101.37.79.125 3128', '101.79.242.34 8080', '101.79.242.43 8080', '101.79.242.44 8080', '101.79.242.65 8080']
         with open('validate_proxys.txt', 'r') as f:
             rf = json.loads(f.read())
         self.proxies = [x.strip('\n') for x in rf]
@@ -116,7 +115,7 @@ class HttpProxyMiddleware(object):
             new_request.dont_filter = True
             return new_request
         else:
-            return  response
+            return response
 
 
 

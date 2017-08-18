@@ -4,17 +4,14 @@ import re
 from functools import wraps
 import sys
 import time
+import edmunds.settings as settings
 
-connect = MySQLdb.connect(user='root', password='', database='automotive')
+connect = MySQLdb.connect(
+    host=settings.DB_HOST, port=settings.DB_PORT,
+    user=settings.DB_USER, password=settings.DB_PASSWORD, database=settings.DB
+)
 cursor = connect.cursor()
-logging.basicConfig(filename='test_merge.log', level="DEBUG")
-
-
-def merge_data(logfile='merge.log', logger='merge', level='DEBUG'):
-    def wrapper(func):
-        @wraps(func)
-        def wraper(*args, **kwargs):
-            pass
+logging.basicConfig(filename='merge.log', level="DEBUG")
 
 
 def get_cars_lower():
@@ -43,10 +40,10 @@ def update_mysql(e_key, e_id, f_id, flag):
     logger = logging.getLogger(sys._getframe(2).f_code.co_name)
     e_id = ','.join([str(x) for x in e_id])
     try:
-        cursor.execute('UPDATE car_styles SET '
-                       'tire_pressure=(SELECT tire_pressure FROM car_styles4 WHERE id=%s) '
+        cursor.execute('UPDATE edmunds_cars SET '
+                       'tire_pressure=(SELECT tire_pressure FROM firestone_cars WHERE id=%s) '
                        'WHERE id in (%s)' % (f_id, e_id))
-        cursor.execute('UPDATE car_styles4 SET flag=%d WHERE id=%s' % (flag, f_id))
+        cursor.execute('UPDATE firestone_cars SET flag=%d WHERE id=%s' % (flag, f_id))
         logger.debug('%s has update' % ((e_key, e_id, f_id),))
     except Exception as e:
         connect.rollback()
@@ -381,7 +378,7 @@ def other_merge():
     find_intersection(edmunds_dict, fire_dict, each_in=True)
 
 
-if __name__ == '__main__':
+def merge():
     start = time.perf_counter()
     direct_merge()
     step_merge()
@@ -392,7 +389,11 @@ if __name__ == '__main__':
     each_in()
     other_merge()
     cost = time.perf_counter() - start
-    print('all merge options have cost %s seconds' %(cost))
+    print('all merge options have cost %s seconds' % (cost))
+
+
+if __name__ == '__main__':
+   merge()
 
 
 

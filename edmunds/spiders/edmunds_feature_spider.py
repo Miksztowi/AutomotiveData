@@ -1,25 +1,34 @@
 # -*- coding:utf-8 -*-
-__author__ = "ganbin"
 import scrapy
 import MySQLdb
 import json
-from edmunds.items import  NewItem
+from edmunds.items import EdmundsItem
+import logging
+import edmunds.settings as settings
 
-class FeaturesSpider(scrapy.Spider):
-    name = 'features_spider'
+
+
+class EdmundsFeatureSpider(scrapy.Spider):
+    logger  = logging.getLogger(__name__)
+    name = 'edmunds_feature_spider'
+    custom_settings = {
+        'CONCURRENT_REQUESTS': 100,
+        'DOWNLOAD_DELAY': 0,
+        'LOG_FILE': 'edmunds_feature.log'
+    }
 
     def __init__(self):
-        self.connect = MySQLdb.connect(user='root', password='', db='automotive')
-        self.cursor = self.connect.cursor()  # todo  how to aovid this options?
+        self.connect = MySQLdb.connect(
+            user=settings.DB_USER,
+            password=settings.DB_PASSWORD,
+            db=settings.DB
+        )
+        self.cursor = self.connect.cursor()
 
     def start_requests(self):
-        self.cursor.execute('SELECT id FROM car_styles')
-        new_cars = {x[0] for x in self.cursor.fetchall()}
+        self.cursor.execute('SELECT id FROM edmunds_cars WHERE name IS NULL')
+        style_ids = [x[0] for x in self.cursor.fetchall()]
 
-        self.cursor.execute('SELECT id FROM car_features')
-        old_cars = {x[0] for x in self.cursor.fetchall()}
-
-        style_ids = list(new_cars.difference(old_cars))
         base_url = 'https://www.edmunds.com/api/groundwork/feature/styles?styleIds={}'
         for style_id in style_ids:
             url = base_url.format(style_id)
@@ -30,9 +39,9 @@ class FeaturesSpider(scrapy.Spider):
 
     def parse(self, response):
         res_json = json.loads(response.text)
-        item = NewItem()
+        item = EdmundsItem()
         if res_json.get('styles'):
-            styles = res_json.pop('styles')[0] # list
+            styles = res_json.pop('styles')[0]  # list
             features = styles['features']
             item['name'] = styles['name']
             item['id'] = styles['id']
@@ -61,8 +70,13 @@ class FeaturesSpider(scrapy.Spider):
             item['interior_options'] = json.dumps(features['Interior Options'])
             item['exterior_options'] = json.dumps(features['Exterior Options'])
             item['packages'] = json.dumps(features['Packages'])
-
         return item
+
+    def spider_closed(self, spider):
+        self.cursor.close()
+        self.connect.close()
+        self.connect.close()
+        spider.logger.info('Spider closed: %s', spider.name)
 
 
 

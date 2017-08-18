@@ -1,34 +1,47 @@
 # -*- coding:utf-8 -*-
-__author__ = "ganbin"
 import scrapy
 from urllib.parse import quote
 from datetime import datetime
 import MySQLdb
 from edmunds.items import StoneItem
 import json
+import edmunds.settings as settings
+import logging
 
 
-class TiresSpider(scrapy.Spider):
-    name = 'tires_spider'
+
+class FirestoneTireSpider(scrapy.Spider):
+    logger = logging.getLogger(__name__)
+    name = 'firestone_tire_spider'
+    custom_settings = {
+        'CONCURRENT_REQUESTS': 100,
+        'DOWNLOAD_DELAY': 0,
+        'LOG_FILE': 'firestone_features.log',
+    }
 
     def __init__(self, *args):
-        self.connect = MySQLdb.connect(user='root', password='', db='automotive')
+        self.connect = MySQLdb.connect(
+            user=settings.DB_USER,
+            password=settings.DB_PASSWORD,
+            db=settings.DB,
+
+        )
         self.cursor = self.connect.cursor()
 
     def start_requests(self):
         url = 'http://www.firestonecompleteautocare.com/tires/tire-pressure/inflation/'
-        # self.cursor.execute('SELECT make, model, year, name FROM '
-        #                     'automotive.car_styles as a INNER JOIN automotive.car_features as b ON a.id=b.id ')
-        # self.cursor.execute('SELECT make, model, submodel, year, id FROM automotive.car_styles3 WHERE tire_pressure IS NULL ')
-        self.cursor.execute('SELECT make, model, submodel, year, id FROM automotive.car_styles3  ')
+        self.cursor.execute(
+            'SELECT make, model, submodel, year, id '
+            'FROM firestone_cars WHERE tire_pressure IS NULL'
+        )
         cars_param = self.cursor.fetchall()
         map_params = map(self._configuration_params, cars_param)
+
         for p, style_id in map_params:
             param = quote(p)
             cookies = {
                 "bsro.cp-fcac": param
             }
-            # print(param)
             yield scrapy.Request(url=url, cookies=cookies,
                                  callback=self.parse, dont_filter=True,
                                  meta={'data': p, 'style_id': style_id})
@@ -78,3 +91,8 @@ class TiresSpider(scrapy.Spider):
                '"tce":{"lvl":0,"cs":"","ar":"","rs":"","tireSize":"","dt":""}}}'
         vehicles = base % (ymm, year, make, model, trim, dt)
         return vehicles, configurations[style_id]
+
+    def spider_closed(self, spider):
+        self.cursor.close()
+        self.connect.close()
+        spider.logger.info('Spider closed: %s', spider.name)

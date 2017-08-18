@@ -1,14 +1,30 @@
 # -*- coding:utf-8 -*-
-__author__ = "ganbin"
 import scrapy
 import json
 from edmunds.items import StoneItem
+from urllib.parse import quote
+import MySQLdb
+import edmunds.settings as settings
+import logging
 
-class FireStone(scrapy.Spider):
-    name = 'firestone_spider'
+
+class FirestoneCarsSpider(scrapy.Spider):
+    name = 'firestone_cars_spider'
+    custom_settings = {
+        'CONCURRENT_REQUESTS': 50,
+        'DOWNLOAD_DELAY': 0,
+        'LOG_FILE': 'firestone_cars.log',
+    }
+    logger = logging.getLogger(__name__)
+
 
     def __init__(self):
-        pass
+        self.connect = MySQLdb.connect(
+            user=settings.DB_USER,
+            password=settings.DB_PASSWORD,
+            db=settings.DB
+        )
+        self.cursor = self.connect.cursor()
 
     #  get years
     def start_requests(self):
@@ -19,7 +35,7 @@ class FireStone(scrapy.Spider):
         base_url = 'http://www.firestonecompleteautocare.com/bsro/services/vehicle/get-makes?year={}&vehicleType=tce'
         res_json = json.loads(response.text)
         year_list = res_json['data']['year']
-        year_generator = self._generate_url(base_url=base_url, param_list=year_list)
+        year_generator = self._generate_url(base_url, year_list)
         for url, year in year_generator:
             yield scrapy.Request(url=url, callback=self.get_models,
                                  meta={'year': year})
@@ -57,8 +73,22 @@ class FireStone(scrapy.Spider):
             item['submodel'] = t['trim']
             yield item
 
-    def _generate_url(self,base_url, param_list, *args):
-        for p in param_list:
-            yield (base_url.format(p, *args), p)
+    # avoid getting quoted data and 502 error_code
+    def _generate_url(self,base_url, *args):
+        if len(args) > 1:
+            index_param, *other_params = args
+            quoted_args = [quote(x) for x in other_params]
+        else:
+            index_param = args[0]
+            quoted_args = []
+        for p in index_param:
+            quoted_p = quote(p)
+            yield (base_url.format(quoted_p, *quoted_args), p)
+
+    def spider_closed(self, spider):
+        self.cursor.close()
+        self.connect.close()
+        self.connect.close()
+        spider.logger.info('Spider closed: %s', spider.name)
 
 

@@ -11,8 +11,8 @@
 
 BOT_NAME = 'edmunds'
 
-
-# LOG_LEVEL = 'WARNING'
+LOG_FILE = 'data.log'
+LOG_LEVEL = 'DEBUG'
 
 SPIDER_MODULES = ['edmunds.spiders']
 NEWSPIDER_MODULE = 'edmunds.spiders'
@@ -106,6 +106,8 @@ ITEM_PIPELINES = {
 DB = 'automotive'
 DB_USER = 'root'
 DB_PASSWORD = ''
+DB_PORT = 3306
+DB_HOST = '127.0.0.1'
 
 
 
