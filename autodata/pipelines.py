@@ -4,23 +4,14 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
-import MySQLdb
-import autodata.settings as settings
 import logging
 
 
 class EdmundsPipeline(object):
     logger = logging.getLogger(__name__)
 
-
     def process_item(self, item, spider):
         if spider.name in ['edmunds_cars_spider',]:
-            sql = 'INSERT INTO car_features3(id, make, model, year) VALUES ' \
-                  '(%(id)s, %(make)s, %(model)s, %(year)s)'
-            self._excute_db(sql, item._values)
-            return item
-
-        if spider.name in ['edmunds_cars2_spider',]:
             sql = 'INSERT INTO edmunds_cars(id, make, model, submodel, year) VALUES ' \
                   '(%(id)s, %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(spider.connect, sql, item._values)

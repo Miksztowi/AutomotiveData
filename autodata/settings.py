@@ -10,9 +10,8 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'autodata'
-
-LOG_FILE = 'data.log'
 LOG_LEVEL = 'DEBUG'
+
 
 SPIDER_MODULES = ['autodata.spiders']
 NEWSPIDER_MODULE = 'autodata.spiders'
@@ -20,11 +19,9 @@ NEWSPIDER_MODULE = 'autodata.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'autodata (+http://www.yourdomain.com)'
-
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 100
 DOWNLOAD_DELAY = 0
 
 # Configure a delay for requests for the same website (default: 0)
@@ -57,14 +54,14 @@ DEFAULT_REQUEST_HEADERS = {
 DOWNLOADER_MIDDLEWARES = {
    'autodata.middlewares.UserAgentMiddleWare': 542,
    'autodata.middlewares.HttpProxyMiddleware': 543,
-   'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
+   # 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
 }
 
 # REDIRECT_ENABLED = False
 # retry
 RETRY_HTTP_CODES = [403, 302]
-RETRY_TIMES = 3
-# RETRY_ENABLED = False
+RETRY_TIMES = 4
+RETRY_ENABLED = False
 
 
 # Enable or disable extensions

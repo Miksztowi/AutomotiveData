@@ -13,7 +13,7 @@ class EdmundsFeatureSpider(scrapy.Spider):
     name = 'edmunds_feature_spider'
     custom_settings = {
         'CONCURRENT_REQUESTS': 100,
-        'DOWNLOAD_DELAY': 0,
+        'DOWNLOAD_DELAY': 0.5,
         'LOG_FILE': 'edmunds_feature.log'
     }
 
@@ -29,7 +29,7 @@ class EdmundsFeatureSpider(scrapy.Spider):
         self.cursor.execute('SELECT id FROM edmunds_cars WHERE name IS NULL')
         style_ids = [x[0] for x in self.cursor.fetchall()]
 
-        base_url = 'https://www.autodata.com/api/groundwork/feature/styles?styleIds={}'
+        base_url = 'https://www.edmunds.com/api/groundwork/feature/styles?styleIds={}'
         for style_id in style_ids:
             url = base_url.format(style_id)
             yield scrapy.Request(

@@ -11,7 +11,7 @@ import logging
 class FirestoneCarsSpider(scrapy.Spider):
     name = 'firestone_cars_spider'
     custom_settings = {
-        'CONCURRENT_REQUESTS': 50,
+        'CONCURRENT_REQUESTS': 100,
         'DOWNLOAD_DELAY': 0,
         'LOG_FILE': 'firestone_cars.log',
     }

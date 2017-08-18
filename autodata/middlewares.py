@@ -23,15 +23,6 @@ class UserAgentMiddleWare(object):
     def process_request(self, request, spider):
         def get_ua():
             return getattr(self.ua, self.ua_type)
-        # request.headers = {
-        #     "Accept": "*/*",
-        #     "Accept-Encoding": "gzip,deflate",
-        #     "Accept-Language": "en-US,en;q=0.8,zh-TW;q=0.6,zh;q=0.4",
-        #     "Connection": "keep-alive",
-        #     "Content-Type": " application/x-www-form-urlencoded; charset=UTF-8",
-        #     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36",
-        #     "Referer": "http://www.zhihu.com/"
-        # }
         request.meta['dont_redirect'] = True
         request.headers.setdefault('User-Agent', get_ua())
 
@@ -111,7 +102,8 @@ class HttpProxyMiddleware(object):
     def process_response(self, request, response, spider):
         if response.status != 200:
             request.meta['proxy'] = "https://%s" % (random.choice(self.proxies))
-            request.meta['proxy'] = "https://066.70.191.215:1080"
+            # request.meta['proxy'] = "http://138.0.50.123:53281"
+            print(request.meta['proxy'])
             new_request = request.copy()
             new_request.dont_filter = True
             return new_request
