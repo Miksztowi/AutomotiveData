@@ -15,9 +15,9 @@ logging.basicConfig(filename='merge.log', level="DEBUG")
 
 
 def get_cars_lower():
-    cursor.execute('SELECT make, model, submodel, year, id, flag FROM automotive.car_styles4')
+    cursor.execute('SELECT make, model, submodel, year, id, flag FROM firestone_cars')
     fire_car = cursor.fetchall()
-    cursor.execute('SELECT make, model, name, year, id FROM automotive.car_styles WHERE tire_pressure IS NULL')
+    cursor.execute('SELECT make, model, name, year, id FROM edmunds_cars WHERE tire_pressure IS NULL')
     edmunds_car = cursor.fetchall()
     fire_lower = [[x.lower() if isinstance(x, str) else x for x in a] for a in fire_car]
     edmunds_lower = [[x.lower() if isinstance(x, str) else x for x in a] for a in edmunds_car]
@@ -45,9 +45,9 @@ def update_mysql(e_key, e_id, f_id, flag):
                        'WHERE id in (%s)' % (f_id, e_id))
         cursor.execute('UPDATE firestone_cars SET flag=%d WHERE id=%s' % (flag, f_id))
         logger.debug('%s has update' % ((e_key, e_id, f_id),))
-    except Exception as e:
+    except MySQLdb.Error as e :
         connect.rollback()
-        logger.debug('%s' % (e))
+        logger.warning('%s' %(e))
     finally:
         connect.commit()
 
