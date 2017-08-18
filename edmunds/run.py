@@ -96,8 +96,7 @@ def _run_spider(option, opt_str, value, parser):
 
 
 def _validate_proxy():
-
-
+    pass
 
 if __name__ == '__main__':
     main()

@@ -111,6 +111,7 @@ class HttpProxyMiddleware(object):
     def process_response(self, request, response, spider):
         if response.status != 200:
             request.meta['proxy'] = "https://%s" % (random.choice(self.proxies))
+            request.meta['proxy'] = "https://066.70.191.215:1080"
             new_request = request.copy()
             new_request.dont_filter = True
             return new_request
