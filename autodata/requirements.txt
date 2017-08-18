@@ -1,5 +1,4 @@
 mysqlclient
 Scrapy
-urllib
 fake_useragent
 requests
