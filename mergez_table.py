@@ -8,7 +8,7 @@ if __name__ == '__main__':
     connect = MySQLdb.connect(user='root', password='', database='automotive')
     cursor = connect.cursor()
     logging.basicConfig(filename='merge.log', level='DEBUG')
-    loger = logging.getLogger('edmunds')
+    loger = logging.getLogger('autodata')
 
     cursor.execute('SELECT make, model, year, id FROM automotive.car_styles')
     styles = cursor.fetchall()

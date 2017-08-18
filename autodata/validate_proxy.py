@@ -16,7 +16,7 @@ if __name__ == '__main__':
             # 'https': 'http://%s:%s' % (ip, port),
         }
         try:
-            r = requests.get('https://www.edmunds.com/',
+            r = requests.get('https://www.autodata.com/',
                          proxies=proxies, timeout=3)
         except Exception:
             continue

@@ -1,10 +1,10 @@
 # -*- coding:utf-8 -*-
 import scrapy
 import json
-from edmunds.items import StoneItem
+from autodata.items import StoneItem
 from urllib.parse import quote
 import MySQLdb
-import edmunds.settings as settings
+import autodata.settings as settings
 import logging
 
 

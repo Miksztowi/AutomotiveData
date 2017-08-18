@@ -3,9 +3,9 @@ import scrapy
 from urllib.parse import quote
 from datetime import datetime
 import MySQLdb
-from edmunds.items import StoneItem
+from autodata.items import StoneItem
 import json
-import edmunds.settings as settings
+import autodata.settings as settings
 import logging
 
 

@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
 import scrapy
 import json
-from edmunds.items import EdmundsItem
+from autodata.items import EdmundsItem
 import MySQLdb
-import edmunds.settings as settings
+import autodata.settings as settings
 import logging
 
 class EdmundsCarsSpider(scrapy.Spider):
@@ -31,13 +31,13 @@ class EdmundsCarsSpider(scrapy.Spider):
         self.cursor = self.connect.cursor()
 
     def start_requests(self):
-        url = 'https://www.edmunds.com'
+        url = 'https://www.autodata.com'
         yield scrapy.Request(url, headers=self.headers, callback=self.parse_make)
 
     def parse_make(self, response):
         make_names = response.xpath('//*[@name="select-make"]/option/@value').extract()
         # print(make_names)
-        url = 'https://www.edmunds.com/gateway/api/vehicle/v4/makes/{}/submodels/'
+        url = 'https://www.autodata.com/gateway/api/vehicle/v4/makes/{}/submodels/'
         for make in make_names[1:]:
             make_url = url.format(make)
             yield scrapy.Request(
@@ -49,7 +49,7 @@ class EdmundsCarsSpider(scrapy.Spider):
             )
 
     def parse_model(self, response):
-        url = 'https://www.edmunds.com/gateway/api/vehicle/v4/makes/{}/models/{}/submodels/{}/years/'
+        url = 'https://www.autodata.com/gateway/api/vehicle/v4/makes/{}/models/{}/submodels/{}/years/'
         res_json = json.loads(response.text)
         results = res_json['results']
         make = response.meta['make']
@@ -71,7 +71,7 @@ class EdmundsCarsSpider(scrapy.Spider):
 
 
     def parse_year(self, response):
-        url = 'https://www.edmunds.com/{}/{}/{}/{}/features-specs/'
+        url = 'https://www.autodata.com/{}/{}/{}/{}/features-specs/'
         # url = 'https://www.edmunds.com/{make}/{model}/{year}/features-specs/'
         res_json = json.loads(response.text)
         results = res_json['results']

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for edmunds project
+# Scrapy settings for autodata project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +9,17 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'edmunds'
+BOT_NAME = 'autodata'
 
 LOG_FILE = 'data.log'
 LOG_LEVEL = 'DEBUG'
 
-SPIDER_MODULES = ['edmunds.spiders']
-NEWSPIDER_MODULE = 'edmunds.spiders'
+SPIDER_MODULES = ['autodata.spiders']
+NEWSPIDER_MODULE = 'autodata.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'edmunds (+http://www.yourdomain.com)'
+#USER_AGENT = 'autodata (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -49,14 +49,14 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'edmunds.middlewares.EdmundsSpiderMiddleware': 543,
+#    'autodata.middlewares.EdmundsSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-   'edmunds.middlewares.UserAgentMiddleWare': 542,
-   'edmunds.middlewares.HttpProxyMiddleware': 543,
+   'autodata.middlewares.UserAgentMiddleWare': 542,
+   'autodata.middlewares.HttpProxyMiddleware': 543,
    'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
 }
 
@@ -76,7 +76,7 @@ RETRY_TIMES = 3
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'edmunds.pipelines.EdmundsPipeline': 300,
+   'autodata.pipelines.EdmundsPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

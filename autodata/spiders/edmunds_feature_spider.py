@@ -2,9 +2,9 @@
 import scrapy
 import MySQLdb
 import json
-from edmunds.items import EdmundsItem
+from autodata.items import EdmundsItem
 import logging
-import edmunds.settings as settings
+import autodata.settings as settings
 
 
 
@@ -29,7 +29,7 @@ class EdmundsFeatureSpider(scrapy.Spider):
         self.cursor.execute('SELECT id FROM edmunds_cars WHERE name IS NULL')
         style_ids = [x[0] for x in self.cursor.fetchall()]
 
-        base_url = 'https://www.edmunds.com/api/groundwork/feature/styles?styleIds={}'
+        base_url = 'https://www.autodata.com/api/groundwork/feature/styles?styleIds={}'
         for style_id in style_ids:
             url = base_url.format(style_id)
             yield scrapy.Request(

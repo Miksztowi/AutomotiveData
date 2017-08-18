@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
 import optparse
 import MySQLdb
-# import edmunds.merge as merge
+# import autodata.merge as merge
 import subprocess
-# import edmunds.settings as settings
+# import autodata.settings as settings
 import settings
 
 
@@ -34,12 +34,12 @@ def main():
 
 def _create_table(option, opt_str, value, parser):
     CREATE_TABLES_SQL = {
-        "edmunds": "CREATE TABLE `edmunds_cars` (`id` int(11) NOT NULL,`make` varchar(200) DEFAULT NULL,`model` varchar(200) DEFAULT NULL,`submodel` varchar(200) DEFAULT NULL,`name` varchar(200) DEFAULT NULL, `year` varchar(100) DEFAULT NULL,`baseMsrp` varchar(45) DEFAULT NULL, `msrpWithTypicalOptions` varchar(45) DEFAULT NULL,`mpg` varchar(45) DEFAULT NULL, `totalSeating` varchar(45) DEFAULT NULL,`colors` json DEFAULT NULL, `safety` json DEFAULT NULL,`comfort_convenience` json DEFAULT NULL,`performance` json DEFAULT NULL,`technology` json DEFAULT NULL,`fuel` json DEFAULT NULL,`engine` json DEFAULT NULL,`measurements` json DEFAULT NULL,`frontseats` json DEFAULT NULL,`rearseats` json DEFAULT NULL, `drive_train` json DEFAULT NULL,`power_feature` json DEFAULT NULL,`instrumentation` json DEFAULT NULL,`suspension` json DEFAULT NULL,`in_car_entertainment` json DEFAULT NULL,`warranty` json DEFAULT NULL,`telematics` json DEFAULT NULL,`tires_and_wheels` json DEFAULT NULL,`interior_options` json DEFAULT NULL,`exterior_options` json DEFAULT NULL,`packages` json DEFAULT NULL,`tire_pressure` json DEFAULT NULL,PRIMARY KEY (`id`), UNIQUE KEY `id_UNIQUE` (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8",
+        "autodata": "CREATE TABLE `edmunds_cars` (`id` int(11) NOT NULL,`make` varchar(200) DEFAULT NULL,`model` varchar(200) DEFAULT NULL,`submodel` varchar(200) DEFAULT NULL,`name` varchar(200) DEFAULT NULL, `year` varchar(100) DEFAULT NULL,`baseMsrp` varchar(45) DEFAULT NULL, `msrpWithTypicalOptions` varchar(45) DEFAULT NULL,`mpg` varchar(45) DEFAULT NULL, `totalSeating` varchar(45) DEFAULT NULL,`colors` json DEFAULT NULL, `safety` json DEFAULT NULL,`comfort_convenience` json DEFAULT NULL,`performance` json DEFAULT NULL,`technology` json DEFAULT NULL,`fuel` json DEFAULT NULL,`engine` json DEFAULT NULL,`measurements` json DEFAULT NULL,`frontseats` json DEFAULT NULL,`rearseats` json DEFAULT NULL, `drive_train` json DEFAULT NULL,`power_feature` json DEFAULT NULL,`instrumentation` json DEFAULT NULL,`suspension` json DEFAULT NULL,`in_car_entertainment` json DEFAULT NULL,`warranty` json DEFAULT NULL,`telematics` json DEFAULT NULL,`tires_and_wheels` json DEFAULT NULL,`interior_options` json DEFAULT NULL,`exterior_options` json DEFAULT NULL,`packages` json DEFAULT NULL,`tire_pressure` json DEFAULT NULL,PRIMARY KEY (`id`), UNIQUE KEY `id_UNIQUE` (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8",
         "firestone": "CREATE TABLE `firestone_cars` (`id` int(11) NOT NULL AUTO_INCREMENT,`make` varchar(80) DEFAULT NULL,`model` varchar(80) DEFAULT NULL,`submodel` varchar(80) DEFAULT NULL,`year` varchar(80) DEFAULT NULL, `tire_pressure` json DEFAULT NULL,`flag` int(11) DEFAULT NULL,PRIMARY KEY (`id`),UNIQUE KEY `id_UNIQUE` (`id`)) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8",
     }
     connect, cursor = _connect_db()
     try:
-        cursor.execute(CREATE_TABLES_SQL['edmunds'])
+        cursor.execute(CREATE_TABLES_SQL['autodata'])
         cursor.execute(CREATE_TABLES_SQL['firestone'])
     except MySQLdb.OperationalError:
         connect.rollback()
