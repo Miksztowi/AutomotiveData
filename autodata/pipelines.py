@@ -15,7 +15,6 @@ class EdmundsPipeline(object):
             sql = 'INSERT INTO edmunds_cars(id, make, model, submodel, year) VALUES ' \
                   '(%(id)s, %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(spider.connect, sql, item._values)
-            return item
 
         if spider.name == 'edmunds_feature_spider':
             sql = 'UPDATE edmunds_cars ' \
@@ -30,18 +29,15 @@ class EdmundsPipeline(object):
                   'exterior_options=%(exterior_options)s, packages=%(packages)s' \
                   'WHERE id=%(id)s'
             self._excute_db(spider.connect, sql, item._values)
-            return item
 
         if spider.name == 'firestone_cars_spider':
             sql = 'INSERT INTO firestone_cars(make, model, submodel, year) VALUE ' \
                   '( %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(spider.connect, sql, item._values)
-            return item
 
         if spider.name == 'firestone_tire_spider':
             sql = 'UPDATE firestone_cars SET tire_pressure=%(tire_pressure)s WHERE id=%(id)s'
             self._excute_db(spider.connect, sql, item._values)
-            return item
 
     def _excute_db(self, connect, sql, lis):
         try:

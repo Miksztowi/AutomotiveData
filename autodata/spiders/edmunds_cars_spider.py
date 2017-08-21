@@ -11,7 +11,7 @@ class EdmundsCarsSpider(scrapy.Spider):
     name = 'edmunds_cars_spider'
     custom_settings = {
         'CONCURRENT_REQUESTS': 100,
-        'DOWNLOAD_DELAY': 0.6,
+        'DOWNLOAD_DELAY': 0,
         'LOG_FILE': 'edmunds_cars.log',
     }
 

@@ -98,6 +98,7 @@ class HttpProxyMiddleware(object):
         with open('validate_proxys.txt', 'r') as f:
             rf = json.loads(f.read())
         self.proxies = [x.strip('\n') for x in rf]
+        self.invalid_count = {}
 
     def process_response(self, request, response, spider):
         if response.status != 200:
@@ -108,9 +109,18 @@ class HttpProxyMiddleware(object):
         else:
             return response
 
-
-
-
+    def process_exception(self, request, exception, spider):
+        invalid_proxy = request.meta['proxy']
+        if self.invalid_count.get(invalid_proxy):
+            self.invalid_count[invalid_proxy] += 1
+        else:
+            self.invalid_count[invalid_proxy] = 0
+        if self.invalid_count[invalid_proxy] > 100:
+            self.proxies.pop(self.proxies.index(invalid_proxy))
+        request.meta['proxy'] = "https://%s" % (random.choice(self.proxies))
+        new_request = request.copy()
+        new_request.dont_filter = True
+        return new_request
 
 
 

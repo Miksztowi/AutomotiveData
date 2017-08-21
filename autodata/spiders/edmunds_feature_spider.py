@@ -7,13 +7,12 @@ import logging
 import autodata.settings as settings
 
 
-
 class EdmundsFeatureSpider(scrapy.Spider):
-    logger  = logging.getLogger(__name__)
+    logger = logging.getLogger(__name__)
     name = 'edmunds_feature_spider'
     custom_settings = {
-        'CONCURRENT_REQUESTS': 100,
-        'DOWNLOAD_DELAY': 0.5,
+        'CONCURRENT_REQUESTS': 88,
+        'DOWNLOAD_DELAY': 0,
         'LOG_FILE': 'edmunds_feature.log'
     }
 

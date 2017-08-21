@@ -52,15 +52,16 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-   'autodata.middlewares.UserAgentMiddleWare': 542,
-   'autodata.middlewares.HttpProxyMiddleware': 543,
+    'autodata.middlewares.UserAgentMiddleWare': 542,
+    "autodata.middlewares.HttpProxyMiddleware": 543,
+    'scrapy.downloadermiddlewares.retry.RetryMiddleware': 550,
    # 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
 }
 
 # REDIRECT_ENABLED = False
 # retry
 RETRY_HTTP_CODES = [403, 302]
-RETRY_TIMES = 4
+RETRY_TIMES = 3
 RETRY_ENABLED = False
 
 
