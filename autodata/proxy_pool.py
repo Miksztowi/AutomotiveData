@@ -7,10 +7,11 @@ import os
 import http.cookiejar as cookielib
 import json
 import re
+import settings
 
 
 class ProxyPool(object):
-    def __init__(self, need_save=True, need_validate=True, validate_length=50):
+    def __init__(self, need_save=True, need_validate=True):
         self.session = requests.session()
         self.session.headers = {
             'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0',
@@ -23,7 +24,8 @@ class ProxyPool(object):
         self.xpath = '//*[@class="info3-inp"]/input/@value'
         self.need_save = need_save
         self.need_validate = need_validate
-        self.validate_length = validate_length
+        self.validate_length = settings.VALIDATE_LENGTH
+        self.validate_url = settings.VALIDATE_URL
 
     def load_cookies(self):
         try:
@@ -74,25 +76,24 @@ class ProxyPool(object):
         proxies = self.produce_proxies()
         proxies = re.findall('\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}:\d+', proxies)
         validate_proxies = []
-        for p in proxies[4173:]:
-            proxies = {
-                'https': 'http://%s' % (p),
-            }
-            try:
-                r = requests.get('https://www.edmunds.com/',
-                                 proxies=proxies, timeout=5)
-            except Exception:
-                print('bad ip', p)
-                continue
-            if r.status_code == requests.codes.ok:
-                print('good ip', p)
-                validate_proxies.append(p)
-                if len(validate_proxies) > self.validate_length:
-                    break
-        with open('validate_proxies.txt', 'w') as f:
-            json.dump(validate_proxies, f)
-
+        with open('validate_proxies.txt', 'a') as f:
+            for p in proxies:
+                proxies = {
+                    'https': 'http://%s' % (p),
+                }
+                try:
+                    r = requests.get(self.validate_url,
+                                     proxies=proxies, timeout=5)
+                except Exception:
+                    print('bad ip', p)
+                    continue
+                if r.status_code == requests.codes.ok:
+                    print('good ip', p)
+                    validate_proxies.append(p)
+                    f.write(p + '\n')
+                    if len(validate_proxies) > self.validate_length:
+                        break
 
 if __name__ == '__main__':
-    proxy = ProxyPool(validate_length=50)
+    proxy = ProxyPool(al)
     proxy.validate_proxies()

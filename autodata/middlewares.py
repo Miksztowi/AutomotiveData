@@ -95,8 +95,8 @@ class EdmundsSpiderMiddleware(object):
 
 class HttpProxyMiddleware(object):
     def __init__(self):
-        with open('validate_proxys.txt', 'r') as f:
-            rf = json.loads(f.read())
+        with open('validate_proxies.txt', 'r') as f:
+            rf = f.readlines()
         self.proxies = [x.strip('\n') for x in rf]
         self.invalid_count = {}
 
