@@ -110,7 +110,7 @@ DB_HOST = '127.0.0.1'
 
 # Proxy settings
 VALIDATE_URL = 'https://www.edmunds.com/'
-VALIDATE_LENGTH = '50'
+VALIDATE_LENGTH = 50
 
 
 
