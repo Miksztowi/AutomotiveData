@@ -4,16 +4,17 @@ import re
 from functools import wraps
 import sys
 import time
-import settings
+import settings as settings
 
-connect = MySQLdb.connect(
-    host=settings.DB_HOST, port=settings.DB_PORT,
-    user=settings.DB_USER, password=settings.DB_PASSWORD, database=settings.DB
-)
-cursor = connect.cursor()
 logging.basicConfig(filename='merge.log', level="DEBUG")
-
-
+try:
+    connect = MySQLdb.connect(
+        host=settings.DB_HOST, port=settings.DB_PORT,
+        user=settings.DB_USER, password=settings.DB_PASSWORD, database=settings.DB
+    )
+    cursor = connect.cursor()
+except MySQLdb.Error as e:
+    logging.warning(e)
 def get_cars_lower():
     cursor.execute('SELECT make, model, submodel, year, id, flag FROM firestone_cars')
     fire_car = cursor.fetchall()

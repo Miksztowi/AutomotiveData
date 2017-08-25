@@ -22,6 +22,7 @@ class FirestoneTireSpider(scrapy.Spider):
         self.connect = MySQLdb.connect(
             user=settings.DB_USER,
             password=settings.DB_PASSWORD,
+            host=settings.DB_HOST,
             db=settings.DB,
         )
         self.cursor = self.connect.cursor()
