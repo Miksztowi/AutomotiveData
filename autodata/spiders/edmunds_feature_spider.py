@@ -27,7 +27,6 @@ class EdmundsFeatureSpider(scrapy.Spider):
     def start_requests(self):
         self.cursor.execute('SELECT id FROM edmunds_cars WHERE name IS NULL')
         style_ids = [x[0] for x in self.cursor.fetchall()]
-
         base_url = 'https://www.edmunds.com/api/groundwork/feature/styles?styleIds={}'
         for style_id in style_ids:
             url = base_url.format(style_id)

@@ -5,7 +5,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import logging
-
+import MySQLdb
 
 class EdmundsPipeline(object):
     logger = logging.getLogger(__name__)
@@ -35,8 +35,9 @@ class EdmundsPipeline(object):
                   '( %(make)s, %(model)s, %(submodel)s, %(year)s)'
             self._excute_db(spider.connect, sql, item._values)
 
-        if spider.name == 'firestone_tire_spider':
-            sql = 'UPDATE firestone_cars SET tire_pressure=%(tire_pressure)s WHERE id=%(id)s'
+        if spider.name == 'firestone_feature_spider':
+            sql = 'UPDATE firestone_cars SET tire_pressure=%(tire_pressure)s WHERE ' \
+                  'make=%(make)s AND model=%(model)s AND submodel=%(submodel)s AND year=%(year)s'
             self._excute_db(spider.connect, sql, item._values)
 
     def _excute_db(self, connect, sql, lis):
@@ -44,7 +45,7 @@ class EdmundsPipeline(object):
             cursor = connect.cursor()
             cursor.execute(sql, lis)
             self.logger.debug('sql:%s lis:%s' % (sql, lis))
-        except Exception as e:
+        except MySQLdb.MySQLError as e:
             self.logger.warning(e)
             connect.rollback()
         connect.commit()

@@ -55,7 +55,6 @@ DOWNLOADER_MIDDLEWARES = {
     'autodata.middlewares.UserAgentMiddleWare': 542,
     "autodata.middlewares.HttpProxyMiddleware": 543,
     'scrapy.downloadermiddlewares.retry.RetryMiddleware': 550,
-   # 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware': 545,
 }
 
 # REDIRECT_ENABLED = False
@@ -101,11 +100,18 @@ ITEM_PIPELINES = {
 
 
 ###### Custom Settings
+
+# DBMS settings
 DB = 'automotive'
 DB_USER = 'root'
 DB_PASSWORD = ''
 DB_PORT = 3306
 DB_HOST = '127.0.0.1'
+
+# Proxy settings
+VALIDATE_URL = 'https://www.edmunds.com/'
+VALIDATE_LENGTH = '50'
+
 
 
 

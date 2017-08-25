@@ -4,7 +4,7 @@ import re
 from functools import wraps
 import sys
 import time
-import autodata.settings as settings
+import settings
 
 connect = MySQLdb.connect(
     host=settings.DB_HOST, port=settings.DB_PORT,

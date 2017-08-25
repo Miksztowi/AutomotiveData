@@ -72,7 +72,6 @@ class EdmundsCarsSpider(scrapy.Spider):
 
     def parse_year(self, response):
         url = 'https://www.edmunds.com/{}/{}/{}/{}/features-specs/'
-        # url = 'https://www.edmunds.com/{make}/{model}/{year}/features-specs/'
         res_json = json.loads(response.text)
         results = res_json['results']
         make = response.meta['make']

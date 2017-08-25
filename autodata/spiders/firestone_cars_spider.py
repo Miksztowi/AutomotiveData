@@ -17,7 +17,6 @@ class FirestoneCarsSpider(scrapy.Spider):
     }
     logger = logging.getLogger(__name__)
 
-
     def __init__(self):
         self.connect = MySQLdb.connect(
             user=settings.DB_USER,

@@ -10,7 +10,7 @@ import settings
 
 def main():
     options = optparse.OptionParser(
-        usage='-m <Mysql Url> [-s <Spider Name>] [--merge <Merge data tables>]',
+        usage='[[ --mysql ] [ -s <Spider Name> ] [ --merge ] [ --proxy ]]',
                                     description="Auto's data"
     )
     options.add_option('-s', '--spider', type='string', dest='spider',
